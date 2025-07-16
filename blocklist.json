@@ -1,2755 +1,5 @@
 [
     {
-        "indicator": "103.96.130.75",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.129.205",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.129.143",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.128.103",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "114.64.255.138",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.128.35",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.130.113",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "116.255.137.251",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "103.96.131.34",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "38.180.94.244",
-        "type": "IPv4 address",
-        "description": "MgBot"
-    },
-    {
-        "indicator": "167.172.40.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.253.231.230",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.217.254.2",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "162.254.32.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "146.190.227.223",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "159.203.111.219",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.173.51.65",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.207.123.29",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.238.244.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "tractor.limited",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "presence.ru",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "qianxin.art",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "floorisbu.nl",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "micorsoft-update.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "microsoftwindows.cloud",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107-173-51-65-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ddf2456.net",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "linecloudnet.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.243.107.63",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "109.248.161.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.100.27.141",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.243.24.130",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.254.202.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "16.78.93.240",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "207.231.110.164",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.117.255.144",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "18.162.82.100",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "4.211.190.105",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.80.78.79",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.8.225.85",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "89.44.9.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.227.199.114",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.236.199.37",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "4.198.144.209",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "4.211.105.94",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.209.116.25",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "112.124.12.79",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.241.119.0",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.241.97.145",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.142.58.122",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "83.229.125.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "18.118.253.138",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.160.194.165",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.134.112",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "3.125.51.215",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "208.87.207.54",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "182.43.69.129",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "210.34.80.112",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.86.83.200",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.14.66.160",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "3.1.79.227",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.67.230.190",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.44.186.73",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.44.26.49",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "207.148.111.155",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "209.17.118.74",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.100.18.178",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.238.77.75",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "4.233.108.232",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "195.211.98.211",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.100.27.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.172.94.164",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "94.131.121.7",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "51.79.207.53",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.159.60",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.53.83.34",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.233.87.64",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.253.136",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.28.81.156",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.83.141.38",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "64.176.49.158",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "210.56.48.17",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.91.78.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hag505.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1288578.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "internal-asuransiastra.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-16-78-93-240.ap-southeast-3.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "lastfinancing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "wwwsec.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mywibes.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "vds1438675.hosted-by-itldc.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-18-162-82-100.ap-east-1.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "gstatin.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "applehs01.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "79.78.80.34.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "haihaihai.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "pnlubuntu.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "rucom.digital",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23-227-199-114.static.hvvc.us",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1248650.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "soft-storelive.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "0.119.241.35.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "145.97.241.35.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "yourfxadviser.finance",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "kayanp.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "www.kayanp.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "teregram.lol",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-18-118-253-138.us-east-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "www.upmc-portal.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "www.whatmyip.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cloud1961021.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1236709.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-3-125-51-215.eu-central-1.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "kenexpresss.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "fafu.edu.cn",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "200.83.86.172.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "updatejavascriptcode.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "inbox-validation.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-3-1-79-227.ap-southeast-1.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "buildingintellectual.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "207.148.111.155.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "dwaxcsaa.ggff.net",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "thisisserious.fr",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "vds1348059.hosted-by-itldc.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "prozactab.cc",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "164.94.172.144.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "baiduapp.work",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cuteclothesforman.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "adldas.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "vps-e8621d8c.vps.ovh.ca",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "fcakbook.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1287849.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hag888.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "addes.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1251039.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mscedc.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "dt5202-1728481764256.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "dlreads.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "www.dlreads.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "64.176.49.158.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ojetsmaster.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ref.wpk1.club",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "stack-drive.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "114.117.189.194",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.246.208.241",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.161.35.171",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.157.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "108.61.182.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.139.160",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.219.53.12",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.86.109.120",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.95.35.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.245.55.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "206.82.6.146",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "134.122.38.84",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.45.195.82",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.46.226.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "165.22.181.151",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.34.165.185",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.162.211",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.189.15.169",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.26.215.88",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.47.239.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.134.118.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.12.31.61",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.86.80.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "204.44.70.29",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.217.220",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.46.189.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "206.206.127.7",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.102.213.118",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.26.215.87",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.239.231.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "206.237.5.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.167.175",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "206.119.178.91",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.8.233.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.217.251.239",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "50.16.2.216",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.54.61.188",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mincrosoft.com.cn",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ehx15bho8p.space",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1159926.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "wefkajdsff.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cgpaycenter.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "108.61.182.238.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "xxxxtest.site",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107-172-139-160-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ms-tray.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "updatetimesnettamp.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.109.86.172.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "xmdc.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ecs-1-95-35-252.compute.hwclouds-dns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172-245-55-140-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "popon.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "oreclacloud.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "msedgeapi.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "gitbookes.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cruset.becausalem.us",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "knowledgeworker.life",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "search-email.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "yhycslsgmscb.uk",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.34.165.185.16clouds.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "centos-yum.net",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.162.211.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "updatemsnjs.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "169.15.189.107.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "webhook.s3-azure.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "catonline.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "su57.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "api.vnaillslivns.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "180.80.86.172.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ccupdatetime.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "blueregion.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "204-44-70-29-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "teamcolors.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mail6.phloi.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mail2.jianshenbar.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "yqqxjb.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "codescriptjs.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "alliyun.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "microsoftbulk.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "windowstimes.me",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107-172-167-175-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "taipeinews.life",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "upload-microsoft.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ipv6ipts.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-50-16-2-216.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "114.117.189.194",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.246.208.241",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.32.38.174",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "111.91.26.158",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.49.42.102",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.188.30.133",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "44.242.143.144",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.157.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "108.61.182.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.139.160",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.117.255.144",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "207.231.110.164",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.8.25.120",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.219.53.12",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.92.77.239",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.213.239.143",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.23.212.248",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "67.216.203.164",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.89.31.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.243.26.247",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "165.154.201.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.210.34.3",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "155.254.60.167",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.148.237.76",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.95.35.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.245.55.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.213.93.71",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "134.122.38.84",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.45.195.82",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.3.86.49",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "62.60.216.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.46.226.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.82.91.80",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "165.22.181.151",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.34.165.185",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.160.143.70",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "3.1.2.245",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "44.208.64.67",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "165.154.112.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.92.228.80",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.234.53.45",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.155.183.147",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.162.211",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "44.229.173.41",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.26.215.88",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.68.228.129",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.202.44.9",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.226.223.255",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.47.239.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.134.118.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.12.31.61",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.86.80.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "204.44.70.29",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.217.220",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "18.195.106.105",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.46.189.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.102.213.118",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.128.12.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.26.215.87",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "44.209.193.171",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "80.66.196.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.239.231.110",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.238.65.182",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.167.175",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.83.37.88",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "194.87.108.74",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.26.39.237",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "24.199.80.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.214.172.10",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.8.233.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.178.254.84",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.11.18.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "188.245.193.187",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.37.224.200",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.210.199.134",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "162.120.71.24",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "146.70.232.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.218.9.251",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.25.7.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.54.61.188",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.214.103.95",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.2.235.207",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "54.187.157.179",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "34.214.193.139",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.89.174.255",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mincrosoft.com.cn",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ehx15bho8p.space",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "dichvubiendong.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.32.38.174.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "doon.eu.org",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mdstech.com.tw",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "uncrate.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-188-30-133.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-44-242-143-144.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hwsrv-1159926.hostwindsdns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "wefkajdsff.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cgpaycenter.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "108.61.182.238.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "xxxxtest.site",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107-172-139-160-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mywibes.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "vds1438675.hosted-by-itldc.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "lastfinancing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.25.8.34.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "admin.tarotempress.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ms-tray.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "carophi.info",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "239.77.92.34.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-34-213-239-143.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cisqa.i3verticals.cloud",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-23-23-212-248.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "localhost.localdomain",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "latterme.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-89-31-119.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "flash-oss.info",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ghaznip.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "officeclicktorun.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "visualstudio-cdn.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "meeting.sophohs.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "xmdc.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ecs-1-95-35-252.compute.hwclouds-dns.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172-245-55-140-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "popon.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-34-213-93-71.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "msedgeapi.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "gitbookes.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "19961223.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192-3-86-49-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "magic-dog.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cruset.becausalem.us",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "knowledgeworker.life",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-35-82-91-80.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "search-email.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "yhycslsgmscb.uk",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.34.165.185.16clouds.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-35-160-143-70.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-3-1-2-245.ap-southeast-1.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "xabx.info",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "backendadserver.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-44-208-64-67.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mg-island.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "80.228.92.34.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cakho123.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "caxen.eu.org",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "lcd.im",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "centos-yum.net",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.162.211.vultrusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-44-229-173-41.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "webhook.s3-azure.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-68-228-129.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-202-44-9.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ogstest.i3verticals.cloud",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-226-223-255.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "catonline.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "su57.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "api.vnaillslivns.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "180.80.86.172.static.cloudzy.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ccupdatetime.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "blueregion.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "204-44-70-29-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "teamcolors.xyz",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mail6.phloi.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "moralismoney.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-18-195-106-105.eu-central-1.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mail2.jianshenbar.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "yqqxjb.top",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "alliyun.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-44-209-193-171.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ogsqual.i3verticals.cloud",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "s12035.vps.hosting",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "microsoftbulk.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-34-238-65-182.compute-1.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "cisdev.i3verticals.cloud",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107-172-167-175-host.colocrossing.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "taipeinews.life",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-35-83-37-88.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "doamin.cc",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "msdegeup.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "see.too.totallysafe.io",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "chatgpt-cdn.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "84.254.178.107.bc.googleusercontent.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-11-18-142.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "static.187.193.245.188.clients.your-server.de",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "alphawolf.ir",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-37-224-200.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-34-210-199-134.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "silenthost.shop",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ethiotelecom.it.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-218-9-251.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-25-7-123.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-214-103-95.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "mail2.sienzhong.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "microsoftools.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-54-187-157-179.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-34-214-193-139.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "ec2-52-89-174-255.us-west-2.compute.amazonaws.com",
-        "type": "Domain",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "157.230.20.98",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "8.217.196.192",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "45.227.253.50",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "13.59.118.129",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "161.35.73.220",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "91.84.111.219",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "192.3.173.102",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "189.1.227.239",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "165.227.163.243",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "47.237.202.96",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "193.24.211.238",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "3.250.194.11",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "184.174.97.202",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "144.172.112.243",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "45.192.98.213",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "142.93.139.164",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "143.110.159.73",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "3.255.173.2",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "152.32.239.207",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "167.172.121.90",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "45.192.98.147",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "20.188.6.28",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "34.244.7.74",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "151.236.22.137",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "89.208.231.155",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "47.79.2.30",
-        "type": "IPv4 address",
-        "description": "Brute Ratel C4"
-    },
-    {
-        "indicator": "hr-analytic.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-employees-handbook.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-life-navi.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-payup.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-rohrbach.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "okta-com.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-chuang.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-node1.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-naga.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-id.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-robhinhood.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-wanted.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "enava-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ford-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "peopleblueprint-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "2-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sitedesigner-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "amagasaki-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dev-mail-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "electric-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kakuyasu-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "leading-career-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "nextstep-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "startup-web-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "eco-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "emergency-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cancer-help.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "213.136.72.26",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "152.32.189.226",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "187.49.152.14",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "61.181.241.18",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "185.205.239.55",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "155.4.244.169",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "111.33.22.82",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "123.30.234.89",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "119.96.146.85",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.170.146",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "92.118.39.92",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "80.94.95.15",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.32.162.157",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "80.94.95.112",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "101.36.122.23",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "200.110.106.27",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "120.226.63.146",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "36.137.99.125",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "64.225.62.179",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.141.18",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.115.208",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "102.140.97.134",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "23.146.184.62",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "8.219.245.192",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "210.236.249.126",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "2.189.84.168",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.178.110.125",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "34.171.244.191",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "103.176.79.139",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "196.251.84.225",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "179.48.54.222",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "185.213.164.162",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "189.47.10.68",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "136.232.203.134",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "109.75.33.121",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "103.182.132.154",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "212.41.6.98",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "212.30.36.107",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "152.32.191.75",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "120.48.133.231",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "176.65.148.10",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "52.173.135.5",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "176.65.148.12",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "185.93.89.118",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "198.55.98.176",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "219.152.92.161",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "35.200.201.144",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "93.123.109.191",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "128.1.131.163",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.162.24.33",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.98.69.48",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "196.251.90.3",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.178.110.108",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.170.125",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "117.62.22.127",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "103.187.147.35",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "5.167.76.48",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.3.147.88",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "59.12.160.91",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "49.247.186.209",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.146.130.113",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "60.223.250.8",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.170.156",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.178.110.160",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "139.59.150.98",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "27.128.171.39",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "14.103.118.113",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "155.248.164.42",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "92.118.39.71",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "103.149.28.95",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "207.154.205.170",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.148.128.177",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "78.128.112.74",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
         "indicator": "86.54.42.145",
         "type": "IPv4 address",
         "description": "Rhadamanthys"
@@ -31098,5 +28348,680 @@
         "indicator": "47.79.2.30",
         "type": "IPv4 address",
         "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "45.127.4.231",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "217.156.22.214",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "185.227.152.113",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "176.65.148.55",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.103.170.171",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.149.28.105",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "150.136.152.122",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "83.97.24.41",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "36.50.177.119",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "101.36.107.103",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "171.251.23.57",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "59.36.164.240",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "217.154.63.38",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "107.170.228.16",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "190.85.108.190",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.178.110.108",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "94.190.208.173",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.63.25.171",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "46.238.32.247",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "176.65.148.61",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "189.45.198.179",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "143.198.96.196",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.178.110.160",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "42.96.17.143",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "223.221.36.42",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "101.126.55.179",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "27.150.182.11",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "152.32.218.149",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "45.82.121.108",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "120.48.86.198",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "222.107.156.227",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "81.211.72.167",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "61.12.84.15",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "102.210.80.6",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "51.159.199.236",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "185.255.91.28",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "80.248.59.138",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.178.110.125",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "159.65.133.180",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "78.128.112.74",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "58.82.128.4",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "85.208.139.157",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "152.42.200.254",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.178.110.224",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "172.208.24.217",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "165.154.168.234",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "141.94.237.134",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "185.93.89.118",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "167.99.222.32",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.13.206.28",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.3.147.88",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.103.139.84",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "139.59.8.15",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "117.50.226.213",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "45.172.152.74",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "191.223.75.89",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "160.191.3.25",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "101.126.4.240",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.116.200.5",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "45.146.130.113",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "203.23.199.85",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "196.189.87.177",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "121.136.87.130",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "115.190.103.227",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "176.65.149.226",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "57.129.61.16",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "115.190.111.192",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.178.110.211",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "218.51.148.194",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "80.94.95.112",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "80.94.95.15",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "116.98.166.211",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "86.54.25.130",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "66.96.239.187",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "218.78.132.164",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.143.239.42",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "113.90.141.147",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "116.98.162.238",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "185.255.91.243",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "122.168.194.41",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.179.57.139",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "201.48.78.29",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "178.62.17.84",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "125.20.16.22",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "34.92.62.225",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "196.251.90.3",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "134.209.157.89",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.100.208.157",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "179.43.176.236",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.193.178.42",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "210.183.21.53",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.103.112.112",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "192.210.135.20",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "207.167.66.226",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "201.190.35.27",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "195.98.69.48",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "45.64.74.76",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "43.131.227.88",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "36.134.96.76",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "178.128.119.212",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.103.118.140",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.52.114.138",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "178.54.78.250",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "190.99.200.98",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "218.37.207.187",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "72.240.125.133",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "180.184.134.158",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "146.190.248.141",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "211.95.135.58",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "209.126.9.204",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "223.98.188.122",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "220.133.242.141",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "40.115.18.231",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "223.247.33.150",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "101.126.55.66",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "210.164.66.48",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "58.147.171.11",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "78.186.133.164",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "36.26.72.149",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "139.59.24.186",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "14.103.114.244",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "137.184.179.27",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "167.71.231.110",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "89.107.10.66",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "92.118.39.87",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "103.81.85.15",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "46.105.52.206",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "185.248.143.219",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "106.222.230.74",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "223.137.152.37",
+        "type": "IPv4 address",
+        "description": "Brute Force"
+    },
+    {
+        "indicator": "23.95.162.162",
+        "type": "IPv4 address",
+        "description": "Rhadamanthys"
+    },
+    {
+        "indicator": "5.22.159.192",
+        "type": "IPv4 address",
+        "description": "Rhadamanthys"
+    },
+    {
+        "indicator": "216.250.252.47",
+        "type": "IPv4 address",
+        "description": "Rhadamanthys"
+    },
+    {
+        "indicator": "147.124.219.157",
+        "type": "IPv4 address",
+        "description": "Rhadamanthys"
+    },
+    {
+        "indicator": "38.180.152.36",
+        "type": "IPv4 address",
+        "description": "Rhadamanthys"
     }
 ]

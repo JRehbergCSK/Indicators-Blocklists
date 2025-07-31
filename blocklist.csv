@@ -1,83 +1,4 @@
 Indicator,Type,Description
-86.54.42.145,IPv4 address,Rhadamanthys
-23.95.162.162,IPv4 address,Rhadamanthys
-147.124.219.157,IPv4 address,Rhadamanthys
-38.180.152.36,IPv4 address,Rhadamanthys
-124.70.142.36,IPv4 address,Cobalt Strike
-154.31.218.206,IPv4 address,Cobalt Strike
-193.124.33.172,IPv4 address,Cobalt Strike
-47.121.136.191,IPv4 address,Cobalt Strike
-111.230.6.33,IPv4 address,Cobalt Strike
-194.113.106.51,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-103.136.150.48,IPv4 address,Cobalt Strike
-117.72.35.238,IPv4 address,Cobalt Strike
-101.132.142.56,IPv4 address,Cobalt Strike
-77.110.113.7,IPv4 address,Cobalt Strike
-154.12.86.154,IPv4 address,Cobalt Strike
-198.12.121.86,IPv4 address,Cobalt Strike
-107.173.214.76,IPv4 address,Cobalt Strike
-147.45.116.128,IPv4 address,Cobalt Strike
-3.71.6.230,IPv4 address,Cobalt Strike
-34.201.143.14,IPv4 address,Cobalt Strike
-45.32.116.171,IPv4 address,Cobalt Strike
-101.42.5.244,IPv4 address,Cobalt Strike
-129.226.177.17,IPv4 address,Cobalt Strike
-13.215.158.127,IPv4 address,Cobalt Strike
-hr-199.com,Domain,Phishing
-hr-activpayroll.com,Domain,Phishing
-hr-adanigroup.com,Domain,Phishing
-hr-auszug.com,Domain,Phishing
-hr-elektro.com,Domain,Phishing
-hr-featherlitelogistics.com,Domain,Phishing
-hr-handled.com,Domain,Phishing
-hr-hondagroup.com,Domain,Phishing
-hr-jindalsteelandpower.com,Domain,Phishing
-hr-novatech-links.com,Domain,Phishing
-hr-olaelectric.com,Domain,Phishing
-hr-supor.com,Domain,Phishing
-cdn-nodes.com,Domain,Phishing
-support-clients-livraison.com,Domain,Phishing
-support-my-devices.com,Domain,Phishing
-support-netflix-signup.com,Domain,Phishing
-support-netflix-watchtv.com,Domain,Phishing
-support-redbull.com,Domain,Phishing
-help-knownhost.com,Domain,Phishing
-artynails-hr.com,Domain,Phishing
-dongming-hr.com,Domain,Phishing
-globaljob-hr.com,Domain,Phishing
-handled-hr.com,Domain,Phishing
-immediate-neon-hr.com,Domain,Phishing
-inclusivity-hr.com,Domain,Phishing
-sbk-hr.com,Domain,Phishing
-zadar-hr.com,Domain,Phishing
-rapidfort-okta.com,Domain,Phishing
-snappi-cdn.com,Domain,Phishing
-your-vendor-cdn.com,Domain,Phishing
-cam-support.com,Domain,Phishing
-closemate-support.com,Domain,Phishing
-cts-support.com,Domain,Phishing
-dental-temp-support.com,Domain,Phishing
-ju-support.com,Domain,Phishing
-lives-support.com,Domain,Phishing
-nado-support.com,Domain,Phishing
-ndk-support.com,Domain,Phishing
-nightwork-support.com,Domain,Phishing
-paysecure-support.com,Domain,Phishing
-rdt-tech-support.com,Domain,Phishing
-recuperatudata-support.com,Domain,Phishing
-servicing-support.com,Domain,Phishing
-temp-dental-support.com,Domain,Phishing
-una-support.com,Domain,Phishing
-webull-support.com,Domain,Phishing
-animal-shelter-help.com,Domain,Phishing
-customs-help.com,Domain,Phishing
-dental-temp-help.com,Domain,Phishing
-findapp-help.com,Domain,Phishing
-govuk-help.com,Domain,Phishing
-mysupport-help.com,Domain,Phishing
-recuperatu-data-help.com,Domain,Phishing
-temp-dental-help.com,Domain,Phishing
 52.128.229.101,IPv4 address,PlugX
 208.85.16.182,IPv4 address,PlugX
 141.164.43.40,IPv4 address,PlugX
@@ -2676,3 +2597,95 @@ robinhood-help.com,Domain,Phishing
 81.70.169.156,IPv4 address,Rhadamanthys
 5.22.159.192,IPv4 address,Rhadamanthys
 216.250.252.47,IPv4 address,Rhadamanthys
+hr-almarjan.com,Domain,Phishing
+hr-culture.com,Domain,Phishing
+hr-roumu.com,Domain,Phishing
+hr-sports.com,Domain,Phishing
+cdn-business.com,Domain,Phishing
+cdn-costacom.com,Domain,Phishing
+cdn-ed.com,Domain,Phishing
+cdn-trustsense.com,Domain,Phishing
+support-envoiapplli.com,Domain,Phishing
+support-ios-found.com,Domain,Phishing
+help-g.com,Domain,Phishing
+help-nz-asb.com,Domain,Phishing
+weblogin-timocom.com,Domain,Phishing
+ahzd-hr.com,Domain,Phishing
+amwarelogisticsservices-hr.com,Domain,Phishing
+aqiido-hr.com,Domain,Phishing
+aries-hr.com,Domain,Phishing
+galaxy-hr.com,Domain,Phishing
+head-hr.com,Domain,Phishing
+nanshan-hr.com,Domain,Phishing
+precisely-hr.com,Domain,Phishing
+sowilo-hr.com,Domain,Phishing
+vero-hr.com,Domain,Phishing
+nine-cdn.com,Domain,Phishing
+clearvision-support.com,Domain,Phishing
+dasher-help-support.com,Domain,Phishing
+dreamplanner-support.com,Domain,Phishing
+ecomtask-ai-support.com,Domain,Phishing
+lullaby-wellness-support.com,Domain,Phishing
+mapics-support.com,Domain,Phishing
+siemens-support.com,Domain,Phishing
+whirlpool-support.com,Domain,Phishing
+mac-support.net,Domain,Phishing
+whats-support.net,Domain,Phishing
+appliance-repair-help.com,Domain,Phishing
+check-help.com,Domain,Phishing
+need-medicare-help.com,Domain,Phishing
+38.60.203.197,IPv4 address,PlugX
+123.60.168.129,IPv4 address,PlugX
+95.179.245.146,IPv4 address,PlugX
+47.242.227.225,IPv4 address,PlugX
+208.85.16.182,IPv4 address,PlugX
+139.84.227.139,IPv4 address,PlugX
+70.34.197.27,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+103.171.34.199,IPv4 address,PlugX
+103.38.80.13,IPv4 address,PlugX
+45.32.148.180,IPv4 address,PlugX
+141.164.43.40,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+116.62.194.46,IPv4 address,PlugX
+121.43.186.132,IPv4 address,PlugX
+47.75.177.15,IPv4 address,PlugX
+52.192.183.29,IPv4 address,PlugX
+96.9.210.77,IPv4 address,PlugX
+134.122.174.164,IPv4 address,PlugX
+54.251.212.89,IPv4 address,PlugX
+43.100.109.101,IPv4 address,PlugX
+103.43.18.19,IPv4 address,PlugX
+112.121.161.109,IPv4 address,PlugX
+61.160.215.14,IPv4 address,PlugX
+36.50.84.80,IPv4 address,PlugX
+52.128.229.102,IPv4 address,PlugX
+52.128.229.101,IPv4 address,PlugX
+52.128.229.99,IPv4 address,PlugX
+52.128.229.98,IPv4 address,PlugX
+52.128.229.100,IPv4 address,PlugX
+64.176.65.165,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+45.32.149.253,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+38.147.164.43,IPv4 address,PlugX
+3.113.29.47,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+64.7.198.130,IPv4 address,PlugX
+156.244.15.163,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+134.122.134.238,IPv4 address,PlugX
+118.107.19.35,IPv4 address,PlugX
+85.113.71.9,IPv4 address,PlugX
+205.189.160.172,IPv4 address,PlugX
+166.88.98.116,IPv4 address,PlugX
+208.85.17.4,IPv4 address,PlugX
+70.34.215.62,IPv4 address,PlugX
+70.34.215.167,IPv4 address,PlugX
+45.76.49.40,IPv4 address,PlugX
+45.63.127.65,IPv4 address,PlugX
+208.85.18.176,IPv4 address,PlugX
+103.21.88.98,IPv4 address,PlugX
+103.21.88.99,IPv4 address,PlugX
+43.246.208.107,IPv4 address,PlugX
+64.176.6.235,IPv4 address,PlugX

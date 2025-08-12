@@ -1,4080 +1,5 @@
 [
     {
-        "indicator": "174.138.8.142",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "150.5.174.231",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "194.171.96.118",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "174.138.103.46",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "134.122.55.34",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "149.104.26.229",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "103.172.92.80",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.115.66.63",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "45.150.108.175",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "209.141.43.189",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.31.178.96",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.54.134.113",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.170.48.16",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "104.245.145.186",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.55.64.14",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "143.110.247.108",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "67.205.141.81",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.117.219.134",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "84.247.137.218",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "65.20.99.39",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "37.60.254.174",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.106.233.97",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "188.245.200.133",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "194.48.248.102",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "206.189.227.148",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "87.228.114.68",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "91.218.141.72",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "64.226.108.63",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.42.238.190",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "134.199.166.195",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "172.81.131.230",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "47.83.128.138",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "192.241.157.169",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "140.143.238.164",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "45.78.225.208",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "161.35.246.140",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "164.90.166.202",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.34.13.176",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "116.203.56.37",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "134.199.168.188",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "139.59.181.253",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.46.236.73",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.59.225.23",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "18.225.149.102",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "46.101.83.145",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "104.198.32.120",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "101.43.220.177",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.51.254.237",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.160.83.71",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.221.182.67",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "178.175.136.232",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "3.144.96.86",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "5.182.204.212",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "157.230.178.249",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "18.118.141.96",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "54.244.199.31",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "144.172.104.60",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "164.92.238.177",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "39.99.227.179",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "35.180.207.116",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.171.81.135",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "102.117.165.215",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "77.73.129.82",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.67.211.6",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "74.235.82.223",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "172.174.130.200",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "95.217.178.98",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.118.177.200",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "18.234.143.128",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "18.237.245.78",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "4.227.113.122",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "51.15.224.30",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.58.198.240",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "152.42.233.8",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "144.172.101.181",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "185.14.45.232",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "162.248.102.237",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.87.203.20",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "84.46.243.167",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "194.163.190.186",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "197.224.239.93",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "35.236.227.253",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "140.82.30.66",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "91.99.72.91",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "82.156.109.69",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "54.158.73.27",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "180.149.37.61",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.61.193.219",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "77.223.100.85",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "204.48.22.24",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "43.200.42.167",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "14.241.163.8",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "185.158.94.217",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "165.232.118.207",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "51.159.71.211",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.232.197.207",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "84.200.128.150",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.175.34.208",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "109.107.189.185",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "43.164.132.15",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "8.219.69.133",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "82.153.138.236",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "45.137.99.106",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "185.130.212.73",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "95.163.64.151",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "44.251.164.0",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "5.188.117.41",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "138.68.184.166",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "3.16.25.250",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.232.96.143",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "135.125.241.31",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "104.237.139.40",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "193.123.117.55",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "103.230.69.188",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.232.96.227",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "159.223.195.83",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "18.219.161.203",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.43.0.86",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.165.84.96",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "157.245.146.223",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "52.232.96.156",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "159.223.21.58",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "148.135.101.111",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "34.44.187.31",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "110.43.122.248",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "116.181.1.54",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "209.38.162.253",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "111.31.93.136",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "64.227.189.57",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "20.163.58.233",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "204.152.223.120",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "143.198.70.94",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "44.246.89.112",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "47.97.203.138",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "118.24.147.60",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "45.132.245.196",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "107.172.102.50",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "43.198.187.252",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "35.223.116.186",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "185.241.208.247",
-        "type": "IPv4 address",
-        "description": "Apollo"
-    },
-    {
-        "indicator": "194.69.162.205",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "164.92.79.49",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "167.114.113.96",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "173.249.45.65",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "161.35.176.231",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "161.35.239.147",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "23.254.215.118",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "101.126.149.119",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "154.37.155.252",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "138.197.32.49",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "167.86.110.155",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "20.188.119.195",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "165.154.224.234",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "159.203.143.205",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "34.219.200.70",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "3.90.201.175",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "23.227.199.118",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "47.83.134.97",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "185.196.11.206",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "45.55.123.49",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "178.128.48.155",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "66.63.187.17",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "4.180.20.2",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "206.189.32.112",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "185.193.127.252",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "196.251.85.56",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "35.73.179.148",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "23.92.20.65",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "107.172.230.178",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "95.85.34.215",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "78.128.112.209",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "193.239.85.15",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "80.149.60.140",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "62.113.59.146",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "45.91.201.244",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "18.228.31.163",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "37.72.168.146",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "3.121.114.119",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "157.230.34.254",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "188.166.174.146",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "143.244.181.199",
-        "type": "IPv4 address",
-        "description": "Havoc"
-    },
-    {
-        "indicator": "47.111.24.13",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.94.56.36",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.95.31.143",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.107.90.187",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.224.167.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.141.233.66",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "175.178.45.197",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "20.74.209.192",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "83.229.122.83",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.60.198.146",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "70.153.73.172",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.28.85.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.171.35.26",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.38.81.125",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.132.91.240",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.163.84.111",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.106.152.200",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "179.43.186.223",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.13.74.33",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.96.13.97",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.109.48.57",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.94.105.198",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.142.117.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.201.74.112",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.104.78.25",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.138.0.179",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.110.32.120",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "96.62.214.108",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.57.239.178",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.159.57.217",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.62.197",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.152.99.85",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.141.166.236",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.219.163.113",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "117.72.181.104",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "152.32.202.240",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.31.0.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.100.86.107",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "176.46.152.35",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "113.44.139.80",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.59.168.35",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "121.40.87.118",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.156.102.187",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.37.175.15",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "179.43.186.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.25.183.181",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "116.62.107.27",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.91.64.59",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.143.204.191",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "115.159.195.50",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.79.190",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.155.104.147",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.46.131.34",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "169.239.129.45",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.224.54.133",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "113.44.87.199",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "182.92.118.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.207.158.219",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "165.154.238.214",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.216.80.229",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "212.64.38.105",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.117.179.86",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.200.193.211",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.32.126.38",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "221.132.29.137",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.138.119.70",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.144.170.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.237.120.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "60.205.165.173",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "20.119.80.107",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.86.55",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.24.241.109",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.27.235.78",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.111.74.144",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "35.92.61.165",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "137.220.232.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.236.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.156.145.11",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.60.83.46",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "60.205.183.232",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.31.18.77",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.134.185.44",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "3.149.27.6",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.245.253.10",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.71.152.57",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.94.98.11",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.149.192.113",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.149.192.58",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "152.136.107.108",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.160.207.9",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.187.170.10",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.138.27.20",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.149.192.114",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "42.193.0.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.71.171.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "85.175.101.203",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "20.206.138.78",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.91.236.181",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "182.254.228.115",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "189.1.226.116",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "60.204.230.173",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "14.36.37.62",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.91.49.133",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.0.15.189",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "2.57.122.72",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "184.185.107.7",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "74.208.147.203",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.134.17.236",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "46.62.133.190",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "89.58.40.80",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.156.73.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.61.138.9",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "195.154.203.12",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.156.197.56",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.228.3.167",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "67.207.69.36",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "74.175.81.231",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.238.253.33",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "189.84.107.196",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.92.183.208",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "78.38.80.242",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "38.55.193.188",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "104.168.112.240",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "121.199.0.54",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.81.132.39",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "167.99.210.92",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.84.206.111",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.205.115.213",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "107.172.209.203",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.138.143.143",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.53.171.25",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "77.246.99.16",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "88.99.213.30",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "88.218.17.218",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "109.123.242.116",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "85.238.112.2",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "209.10.188.204",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "213.227.135.173",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "88.119.167.205",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "208.85.17.127",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.240.223.126",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "209.195.169.238",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "5.44.240.151",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "182.42.146.102",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "186.17.213.66",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "212.92.23.152",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "141.164.38.206",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "202.154.57.243",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.224.27.58",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "109.228.59.27",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "213.252.246.56",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "147.182.187.72",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.227.254.4",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "192.52.166.48",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.154.14.198",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "74.208.147.7",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "89.149.211.111",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "144.126.130.139",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "195.128.100.180",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "165.227.136.106",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "46.101.95.235",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "83.243.64.180",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.216.119.142",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "143.198.208.174",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "5.249.145.51",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "89.58.9.56",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "146.59.199.61",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "192.3.11.74",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.181.157.69",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.77.144.101",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "144.126.132.108",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.152.140.18",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.213.75.53",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "66.85.173.48",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "46.240.140.66",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.234.72.215",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.47.113.242",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.8.148.165",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "122.155.223.144",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "217.114.222.12",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "221.214.111.106",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.108.41.90",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "193.29.56.122",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "146.190.51.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "104.168.133.116",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "107.174.231.200",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "49.232.236.39",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "164.132.50.235",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.108.41.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "77.88.193.133",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "198.211.103.111",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.3.8.179",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "104.219.232.178",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "88.99.214.170",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "74.208.147.234",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "157.230.201.114",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.250.186.160",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "37.187.20.127",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "218.29.158.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "165.22.184.26",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "103.53.170.120",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.188.13.228",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "174.79.173.253",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "173.212.214.79",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "83.168.110.172",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "79.143.87.222",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "137.184.97.20",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.202.236.250",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "47.94.225.128",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "195.154.241.13",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "63.210.148.42",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.126.82.114",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "162.55.91.224",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "167.172.145.51",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "217.114.222.10",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "37.221.196.152",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "212.11.64.5",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.96.210.234",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.124.189.78",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.161.111.2",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.90.223.247",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "57.180.7.73",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "118.82.6.182",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.199.158.204",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.152.90.66",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "88.119.170.212",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.231.90.7",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.50.208.36",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.38.101.167",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.223.195.36",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.35.168.195",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "161.97.171.116",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "152.136.23.27",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "188.214.128.130",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "161.35.177.190",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.111.144.13",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "107.189.24.130",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.71.43.202",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.38.14.29",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.125.11.16",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.84.63.18",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "101.37.78.11",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.231.62.16",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.192.35.24",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.48.149.24",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.250.5.133",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.136.167.168",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.245.252.78",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "98.130.136.152",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.40.150.208",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.107.92.103",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.125.91.49",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.176.177",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.184.70.46",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "109.248.6.246",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.155.124.9",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.60.210.84",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.235.19.146",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.201.90.191",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.183.111.41",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.168.173.193",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.171.63.192",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.240.140",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.103.212",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.67.23.109",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.38.72.35",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.205.130.166",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.163.210.237",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.171.157.206",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.144.48.31",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.10.58.200",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.71.181.175",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.181.65.119",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "203.171.25.30",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.126.249.138",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "64.94.85.98",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.159.50.104",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.171.58.252",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.237.53.103",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.33.114.230",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.244.119.23",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.100.122.217",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.237.96.50",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.212.221.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.39.187",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "23.238.34.32",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.220.146.251",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.161.89.28",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.189.45.214",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.48.140.68",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.237.247.124",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.59.244.134",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.169.107.223",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "157.175.158.234",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.48.92.142",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.206.239.232",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.180.248.119",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.28.27.112",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "157.175.147.20",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.171.174.254",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.57.220.231",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.182.93.40",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.48.1.137",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.40.149",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.50.55.202",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.155.28.31",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.124.78.32",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.238.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "44.251.62.132",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.218.25.118",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "63.178.4.215",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.28.42.98",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.218.23.96",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.168.241.101",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.236.134.23",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.152.134.129",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.231.188.68",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.234.113.77",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.61.166.191",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.247.88.245",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.78.219.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.231.246.132",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.172.234.41",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.224.79.189",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.36.63.58",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.162.41.86",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "98.130.121.54",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.92.53.163",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.26.67.240",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.56.251.35",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.20.76.38",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "44.249.140.37",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "65.0.80.47",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.78.107.183",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.145.99.239",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.91.81.54",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.153.105.139",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.161.76.217",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.84.12.182",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.48.140.65",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.24.24.223",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.233.122",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "46.137.203.151",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.239.0.87",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.206.191.147",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "156.253.5.235",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.4.11",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "77.90.153.54",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.113.2.103",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.185.250.6",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.63.137.92",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.222.9.133",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.124.87.100",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.211.233.22",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.252.206.66",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.61.183.233",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.110.115",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.92.37.94",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.136.224.173",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "100.25.218.67",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.198.197.200",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "62.106.66.166",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.112.26.188",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.248.244.95",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.183.190",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.198.251.94",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.92.180.27",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "107.158.128.31",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.213.68.113",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "98.130.128.88",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.180.22.114",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.170.231.250",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.136.168.205",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.241.67",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.124.124.6",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.78.223.203",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.168.142.87",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.208.44.234",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.132.194.196",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.181.167.232",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.206.169.0",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.226.169.65",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.207.75",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.178.245.61",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.110.163",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.161.95.230",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.27.237.133",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.247.244.43",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.184.139",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "107.161.75.150",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.202.29.90",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.183.128.81",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.233.12.68",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.39.253.78",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.6.94.72",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.61.163.29",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.112.47.14",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.237.101.135",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.112.44.124",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.226.128.22",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.29.50.181",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "31.57.33.159",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.235.20.226",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.50.208.39",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.247.214.10",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.201.63.252",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.26.195.14",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.189.139.45",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.67.58.26",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.125.251",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "98.81.195.210",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.181.6.236",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.218.76.230",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.180.23.174",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.34.145.194",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.247.182.247",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.203.152",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.94.67.118",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.92.203",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.53.172.188",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.92.76.46",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "45.79.194.121",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.28.67.246",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.62.128.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "213.108.198.145",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.182.51.172",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "92.222.241.75",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.171.34.68",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "149.28.87.1",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.137.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.57.11.118",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.139.67.57",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.162.96.101",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.185.217.37",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.129.21.21",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.26.83.231",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.231.79.246",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.44.165.75",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.234.48.50",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.162.133.25",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.223.115.238",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.209.10.218",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.169.248.59",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.48.105.118",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.177.115.250",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.209.13.203",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.212.193.105",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.246.37.150",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.36.55.118",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.50.178.149",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.92.94",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.199.159.251",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.51.89.170",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.101.75.50",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "91.132.92.182",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.50.125.183",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.212.189.6",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.255.116",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.225.72.64",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.96.103.149",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.201.45.128",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.183.93.62",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "192.46.223.87",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "162.214.66.186",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "185.130.212.73",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.50.214.182",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.24.199.227",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.101.130.14",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.162.89.225",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.96.177.23",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.136.117.20",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.168.12.194",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.223.197.163",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.171.175.237",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.245.9.155",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "190.232.148.202",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "145.249.109.9",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "99.79.42.2",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "34.244.131.49",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.152.32.41",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.78.119.196",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "78.13.106.253",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "129.21.123.3",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "165.232.173.110",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "38.92.97.171",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.9.114.206",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "47.129.218.149",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.91.201.17",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.185.225.29",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.60.44.212",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.34.133.191",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.17.225.102",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.168.14.123",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.247.60.115",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.28.135.213",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.185.170",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.64.193.35",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "47.104.214.234",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "49.12.224.107",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.87.60.57",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.87.22.221",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.226.116",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.93.121.194",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.203.198.248",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.245.82.99",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.29.64.77",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.113.1.218",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.183.2.33",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.61.35.106",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.191.24.227",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.62.87.210",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.184.236.14",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.29.129.154",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "56.124.121.84",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.95.69.25",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.244.119.79",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.62.45.82",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.52.50.194",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.239.28.184",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.92.202.230",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.101.28.193",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "157.175.158.59",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.25.195.239",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.192.105.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.218.124.45",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.61.87.35",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.92.24.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.231.32.223",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.207.7.241",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.95.55.168",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.167.160",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.70.45.21",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.211.76.180",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.94.10.238",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.28.59.50",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "47.129.3.93",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.184.182.8",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.107.158.95",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.245.87.252",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.181.198.132",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.56.151.119",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.208.141",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.40.153.106",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "184.73.6.249",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.203.100.65",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.63.111.26",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.201.47.51",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.92.224.212",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.163.30.32",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.209.20.159",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.28.74.181",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.28.187.175",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.25.68.58",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.112.52.39",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.78.38.200",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.222.179.243",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.120.192.252",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.231.236",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.172.100.88",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "35.183.148.242",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.16.183.140",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.216.139.46",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.184.217.198",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.84.106.78",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "66.179.209.179",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.234.248.173",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.92.52.66",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "44.202.68.56",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.252.252.9",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.75.212.122",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "50.18.133.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.48.101.205",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.160.195.0",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "173.212.230.188",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.66.3.231",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "47.129.189.229",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.176.189.154",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.232.4.161",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.28.74.147",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.49.0.35",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.212.207.136",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.176.61.236",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.157.63.84",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "40.172.88.6",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "31.207.45.151",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "114.130.28.73",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.100.233.222",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.16.37.119",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.223.54.241",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "38.87.196.170",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.185.200.243",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.230.246.166",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.62.60.213",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.228.75.169",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "16.16.187.186",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.94.90.189",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "54.255.219.15",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "108.136.149.225",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "51.84.110.225",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.67.208.106",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.247.90.195",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.198.99.218",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "13.213.19.3",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.162.96.148",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.216.21.174",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.191.50.68",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "18.101.236.221",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.184.167.230",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "43.201.50.91",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "3.96.151.27",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "15.185.207.216",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "52.14.186.67",
-        "type": "IPv4 address",
-        "description": "Meterpreter (Windows)"
-    },
-    {
-        "indicator": "support-2025-9-14-96279.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-expatrio.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-forfait.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-hasler.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-monrelay.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-web3wallet.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-commission-global.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-empat.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "detoxilwater-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cloudflare-edge6cu8-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "win-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sp-cdn.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "animalclinic-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "auralis-ai-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "chalmers-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "forfait-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "get-cloud-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "grammateus-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "total-tech-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bgs-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "auralis-ai-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "emedical-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
         "indicator": "103.96.128.35",
         "type": "IPv4 address",
         "description": "MgBot"
@@ -17398,5 +13323,2920 @@
         "indicator": "13.211.76.180",
         "type": "IPv4 address",
         "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "support-freelance.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-mollie.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-renovarmicuenta.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-wallets.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-bits.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "firefly-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "grupogad-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sapient-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "silk-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "stmarks-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "balance-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "assittance-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hospice-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "info-package-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "importedcar-repair-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "careerlaunch-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "diepost-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "secure-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "103.96.128.103",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "103.96.131.157",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "103.96.130.86",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "103.96.131.24",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "103.96.128.35",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "23.132.185.118",
+        "type": "IPv4 address",
+        "description": "MgBot"
+    },
+    {
+        "indicator": "8.217.254.2",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.253.231.230",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "167.172.40.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "162.254.32.157",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "146.190.227.223",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "159.203.111.219",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.173.51.65",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "tractor.limited",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "presence.ru",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "floorisbu.nl",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "micorsoft-update.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "qianxin.art",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "microsoftwindows.cloud",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-173-51-65-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.251.17.118",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "1.14.66.160",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.134.112",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "4.211.105.94",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.160.194.165",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.236.199.37",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.44.186.73",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "209.17.118.74",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "4.233.108.232",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "31.56.196.84",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "94.131.121.7",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.172.106.24",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "210.34.80.112",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "3.65.35.171",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "23.227.199.114",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "82.117.255.144",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.113.98.240",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.208.85.178",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.100.18.178",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "207.231.110.164",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "18.162.82.100",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.100.27.142",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "51.79.207.53",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "175.178.186.45",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.159.60",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "89.44.9.149",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "123.56.5.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "18.118.253.138",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "4.211.190.105",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.100.27.141",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "23.254.202.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.241.119.0",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "49.232.111.74",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "112.124.12.79",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.238.77.75",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "20.213.222.121",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "3.1.79.227",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "195.201.236.214",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.243.24.130",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.209.107.181",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "208.87.207.54",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "wwwsec.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1236709.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "www.whatmyip.shop",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1248650.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "baiduapp.work",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "thisisserious.fr",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "repocentos.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cuteclothesforman.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cyberdefender.uk",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "fafu.edu.cn",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-3-65-35-171.eu-central-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "23-227-199-114.static.hvvc.us",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "adldas.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "vds1438675.hosted-by-itldc.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103-208-85-178.rdns.zappie.host",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "dwaxcsaa.ggff.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hag505.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "lastfinancing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-18-162-82-100.ap-east-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "gstatin.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "vps-e8621d8c.vps.ovh.ca",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "kenexpresss.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "fcakbook.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1287849.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "rucom.digital",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-18-118-253-138.us-east-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "www.upmc-portal.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "automotive-chemical.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1288578.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "0.119.241.35.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cloud1961021.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "inbox-validation.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-3-1-79-227.ap-southeast-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ahmedalshamsy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "akamaidocs.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mywibes.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.12.31.61",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.246.208.241",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.161.35.171",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "108.61.182.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.242.129.79",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.189.15.169",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.117.21",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "204.44.70.29",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "206.237.5.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "37.122.150.23",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "206.119.178.91",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.76.162.211",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "216.185.57.149",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.86",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.167.175",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.243.230.121",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.219.53.12",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "118.25.91.151",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "206.206.127.7",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.79.79.231",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.86.93.77",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.217.220",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.113.193.170",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.88",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "141.164.43.226",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.239.231.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "38.47.239.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "113.45.73.159",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.46.189.142",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.157.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.175.115.91",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.3.98.27",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.46.226.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "13.212.220.72",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "216.126.229.46",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.245.145.193",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.44.26.49",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.34.165.185",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.245.55.140",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "13.201.5.31",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.139.160",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "165.22.181.151",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.87",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.172.84.89",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "134.122.38.84",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "api.vnaillslivns.shop",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ehx15bho8p.space",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cgpaycenter.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "108.61.182.238.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "clickckckck.click",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "updatemsnjs.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "169.15.189.107.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104-168-117-21-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "kd3.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "blueregion.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "204-44-70-29-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "windowstimes.me",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "sverigesradioe.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "su2769.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "centos-yum.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.76.162.211.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "momdata.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "webhook.s3-azure.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-172-167-175-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "taipeinews.life",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bytedances.asia",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ms-tray.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mincrosoft.com.cn",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "codescriptjs.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "77.93.86.172.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "synccodetime.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "teamcolors.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mail6.phloi.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bdfbdfd.sbs",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "windowsmicrosoft.us",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "141.164.43.226.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "microsoftbulk.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "catonline.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "9515hlhj.site",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ecs-113-45-73-159.compute.hwclouds-dns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mail2.jianshenbar.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "yqqxjb.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1159926.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "wefkajdsff.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-175-115-91-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "creativemedia.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "gotobbq2024.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192-3-98-27-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cruset.becausalem.us",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "knowledgeworker.life",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-13-212-220-72.ap-southeast-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "apimerchantpro.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "46.229.126.216.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "jg3666.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172-245-145-193-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cloud1961021.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "yhycslsgmscb.uk",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.34.165.185.16clouds.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172-245-55-140-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "popon.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-13-201-5-31.ap-south-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "linodeapis.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "xxxxtest.site",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-172-139-160-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "search-email.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "89.84.172.144.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "managingtimes.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "msedgeapi.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.227.128.8",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "207.148.92.118",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.12.31.61",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.235.109.125",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "82.117.255.144",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.163.229.107",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.148.237.76",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.210.162.35",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.246.208.241",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "108.61.182.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.242.129.79",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.134.47.80",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.237.130.11",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.117.21",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "92.119.125.251",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "204.44.70.29",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.73.199.153",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "206.237.5.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "37.122.150.23",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "3.212.67.233",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "206.119.178.91",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "159.223.86.108",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.243.26.247",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.76.162.211",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "24.199.80.119",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "216.185.57.149",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.230.144",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "13.223.31.74",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.86",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "111.91.26.158",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "119.161.101.235",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.46.217.168",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "207.231.110.164",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.54.201.56",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.167.175",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.210.34.3",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.243.230.121",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.219.53.12",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "118.25.91.151",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.210.206.196",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.239.234.196",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "150.158.119.242",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "96.62.214.108",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.98.56.5",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.86.93.77",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.66.131.95",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.217.220",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.191.10.199",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.32.38.174",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.236.139.182",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "50.112.38.89",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.79.109.242",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.113.193.170",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.40.130.174",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "155.254.60.167",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.88",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.189.28.242",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "141.164.43.226",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "38.180.135.226",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.39.155.102",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.239.231.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "108.171.193.215",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.98.60.231",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "73.175.23.81",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.128.12.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.213.33.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "38.47.239.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "37.1.217.119",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.92.228.80",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.234.53.45",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.175.115.91",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.98.62.157",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "164.90.155.194",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.46.189.142",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "91.107.182.18",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104.168.157.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "185.216.116.239",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "204.194.48.58",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "38.225.102.245",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.149.253.99",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.8.25.120",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.155.183.147",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.3.98.27",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.161.213.198",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.70.84.80",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "98.85.31.157",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "198.46.226.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.246.85.242",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.24.226.175",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.25.93.110",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.92.77.239",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.164.33.198",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.194.223.37",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.229.250.75",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.83.199.224",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.38.216.189",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.237.121.121",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "59.110.64.250",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.25.23.148",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.36.181.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.245.145.193",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "146.70.232.43",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.77.151.158",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.236.47.125",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.93.218.82",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.68.141.22",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "77.90.13.105",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.165.147.156",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.34.165.185",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.236.156.134",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.71.169.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "165.154.201.180",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.26.55.201",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "100.24.160.25",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.161.227.253",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.245.55.140",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "87.120.166.182",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.237.197.54",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "120.25.209.147",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.83.136.130",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.223.15.211",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.241.254.85",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.10.177.74",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.41.248.127",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "80.66.196.119",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.3.33.103",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.43.136.183",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.139.160",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.213.237.100",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "165.22.181.151",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.26.215.87",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.87.46.71",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "193.188.20.239",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192.3.86.49",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.226.101.81",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.208.64.67",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "165.154.225.50",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.88.87.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "75.101.180.171",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.41.33.7",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.172.84.89",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "52.35.23.37",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "44.231.153.165",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "134.122.38.84",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.232.211.140",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "199.195.254.70",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "35.241.31.251",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.68.217.122",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "91.99.187.6",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192-227-128-8-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "wtcx.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mdstech.com.tw",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "207.148.92.118.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "api.vnaillslivns.shop",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "uncrate.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-235-109-125.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mywibes.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "vds1438675.hosted-by-itldc.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "data-launch.info",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "meeting.sophohs.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8axjc.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192-210-162-35-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ehx15bho8p.space",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cgpaycenter.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "108.61.182.238.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "clickckckck.click",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "68chat3.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-237-130-11.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "104-168-117-21-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "kd3.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "080597.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "blueregion.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "204-44-70-29-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cisqa.i3verticals.cloud",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-73-199-153.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "windowstimes.me",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "sverigesradioe.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-3-212-67-233.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cisdev.i3verticals.cloud",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "su2769.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "sissy.game",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "flash-oss.info",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "centos-yum.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.76.162.211.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "see.too.totallysafe.io",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "momdata.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mail.fiex28dji.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "gqwy.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-13-223-31-74.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "webhook.s3-azure.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "doon.eu.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "uicc.pp.ua",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mailz1.v-btlcz.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "softwareservices.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "lastfinancing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-54-201-56.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-172-167-175-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "taipeinews.life",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "officeclicktorun.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bytedances.asia",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ms-tray.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mincrosoft.com.cn",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "centosonline.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-34-239-234-196.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ogsqual.i3verticals.cloud",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hibmarket.help",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bugsupportdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "srv5.sobiserver.ir",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "gikash.shop",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "77.93.86.172.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "synccodetime.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "caxen.eu.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "teamcolors.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mail6.phloi.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-191-10-199.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "dichvubiendong.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.32.38.174.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-236-139-182.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-50-112-38-89.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "tourteller.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-79-109-242.ap-northeast-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bdfbdfd.sbs",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-40-130-174.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "visualstudio-cdn.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "windowsmicrosoft.us",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "141.164.43.226.vultrusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ads99.my",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-39-155-102.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "microsoftbulk.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "c-73-175-23-81.hsd1.pa.comcast.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "open-node.net",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-34-213-33-210.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "catonline.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "viewerbot.webcam",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "80.228.92.34.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cakho123.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-175-115-91-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "dataspeedcloud.life",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "documentationworld.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "mail2.jianshenbar.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "yqqxjb.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "static.18.182.107.91.clients.your-server.de",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "moshop.sbs",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hwsrv-1159926.hostwindsdns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "wefkajdsff.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "creativemedia.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "al1trust.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-149-253-99.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "120.25.8.34.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "admin.tarotempress.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "lcd.im",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "gotobbq2024.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192-3-98-27-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-35-161-213-198.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-70-84-80.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-98-85-31-157.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ogstest.i3verticals.cloud",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cruset.becausalem.us",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "knowledgeworker.life",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-246-85-242.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-24-226-175.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-25-93-110.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "carophi.info",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "239.77.92.34.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-35-164-33-198.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "backendadserver.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-34-194-223-37.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-229-250-75.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-83-199-224.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-38-216-189.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-237-121-121.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "fitzpatrick.xx.kg",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-25-23-148.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-36-181-238.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "jg3666.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172-245-145-193-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ethiotelecom.it.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-77-151-158.ap-southeast-1.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "xabx.info",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-236-47-125.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-68-141-22.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "beta-blaze.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "105.13.90.77.hostbrr.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-35-165-147-156.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "yhycslsgmscb.uk",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.34.165.185.16clouds.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-236-156-134.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-71-169-19.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ghaznip.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-26-55-201.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-100-24-160-25.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-35-161-227-253.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172-245-55-140-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "popon.top",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "alta.wtf",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-237-197-54.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "bananaapple.ip-ddns.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-35-83-136-130.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-34-223-15-211.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-241-254-85.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-10-177-74.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-41-248-127.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "s12035.vps.hosting",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "googleusercontent-cdn.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "host-by.dmit.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "microsolt.org",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "xxxxtest.site",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107-172-139-160-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-34-213-237-100.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "search-email.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "71.46.87.34.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "okbaby.live",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "cousin-amir.ptr.network",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "outser.online",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "19961223.xyz",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "192-3-86-49-host.colocrossing.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-226-101-81.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-208-64-67.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "factsec.cc",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-88-87-238.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-75-101-180-171.compute-1.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-41-33-7.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "89.84.172.144.static.cloudzy.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "managingtimes.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-52-35-23-37.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-44-231-153-165.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "msedgeapi.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172-232-211-140.ip.linodeusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "translatevv.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "251.31.241.35.bc.googleusercontent.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "ec2-54-68-217-122.us-west-2.compute.amazonaws.com",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "static.6.187.99.91.clients.your-server.de",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "alphawolf.ir",
+        "type": "Domain",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.91.103.204",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "3.250.194.11",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "139.9.129.40",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "184.174.97.202",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "107.149.218.33",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "89.208.231.155",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "3.255.173.2",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "161.35.73.220",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "152.32.239.207",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "165.227.163.243",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "38.22.90.226",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "8.217.196.192",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "85.239.33.94",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "122.51.48.106",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "192.3.173.102",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "34.244.7.74",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "60.204.234.238",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "157.230.20.98",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "20.188.6.28",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "45.63.58.136",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "143.110.159.73",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "45.227.253.50",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "149.28.57.173",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "91.84.111.219",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "193.143.1.244",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "193.24.211.238",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
+    },
+    {
+        "indicator": "142.93.139.164",
+        "type": "IPv4 address",
+        "description": "Brute Ratel C4"
     }
 ]

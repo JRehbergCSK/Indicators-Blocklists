@@ -1,115 +1,4 @@
 Indicator,Type,Description
-103.171.34.199,IPv4 address,PlugX
-47.242.227.225,IPv4 address,PlugX
-223.254.129.212,IPv4 address,PlugX
-150.109.11.77,IPv4 address,PlugX
-43.246.208.107,IPv4 address,PlugX
-195.245.242.234,IPv4 address,PlugX
-52.128.229.101,IPv4 address,PlugX
-52.128.229.102,IPv4 address,PlugX
-36.50.84.80,IPv4 address,PlugX
-52.128.229.100,IPv4 address,PlugX
-52.128.229.98,IPv4 address,PlugX
-52.128.229.99,IPv4 address,PlugX
-123.60.168.129,IPv4 address,PlugX
-121.43.186.132,IPv4 address,PlugX
-63.141.237.208,IPv4 address,PlugX
-194.56.225.144,IPv4 address,PlugX
-167.179.89.246,IPv4 address,PlugX
-47.75.177.15,IPv4 address,PlugX
-103.43.18.19,IPv4 address,PlugX
-112.121.161.109,IPv4 address,PlugX
-45.76.218.225,IPv4 address,PlugX
-20.243.19.18,IPv4 address,PlugX
-116.62.194.46,IPv4 address,PlugX
-139.84.227.139,IPv4 address,PlugX
-70.34.215.167,IPv4 address,PlugX
-70.34.215.62,IPv4 address,PlugX
-208.85.17.4,IPv4 address,PlugX
-208.85.18.176,IPv4 address,PlugX
-64.176.65.165,IPv4 address,PlugX
-95.179.245.146,IPv4 address,PlugX
-208.85.16.182,IPv4 address,PlugX
-45.32.148.180,IPv4 address,PlugX
-70.34.197.27,IPv4 address,PlugX
-38.60.203.197,IPv4 address,PlugX
-143.92.36.155,IPv4 address,PlugX
-3.113.29.47,IPv4 address,PlugX
-52.192.183.29,IPv4 address,PlugX
-192.248.183.208,IPv4 address,PlugX
-45.32.149.253,IPv4 address,PlugX
-43.153.215.207,IPv4 address,PlugX
-96.9.210.77,IPv4 address,PlugX
-134.122.174.164,IPv4 address,PlugX
-103.38.80.13,IPv4 address,PlugX
-111.68.8.106,IPv4 address,PlugX
-154.223.21.157,IPv4 address,PlugX
-61.160.215.14,IPv4 address,PlugX
-192.140.174.213,IPv4 address,PlugX
-54.251.212.89,IPv4 address,PlugX
-166.88.98.116,IPv4 address,PlugX
-141.164.43.40,IPv4 address,PlugX
-38.147.164.43,IPv4 address,PlugX
-64.7.198.130,IPv4 address,PlugX
-156.244.15.163,IPv4 address,PlugX
-134.122.134.238,IPv4 address,PlugX
-118.107.19.35,IPv4 address,PlugX
-85.113.71.9,IPv4 address,PlugX
-205.189.160.172,IPv4 address,PlugX
-hr-alorica.com,Domain,Phishing
-hr-mmc.com,Domain,Phishing
-okta-health.com,Domain,Phishing
-cdn-amp-pompa138.com,Domain,Phishing
-cdn-c2m.net,Domain,Phishing
-cdn-chaofangame.com,Domain,Phishing
-cdn-dianfeng.com,Domain,Phishing
-help-support-invoice.com,Domain,Phishing
-support-uphold.com,Domain,Phishing
-help-hmrc.net,Domain,Phishing
-help-ms.com,Domain,Phishing
-help-pg.com,Domain,Phishing
-help-pgsoft.com,Domain,Phishing
-help-the-dogs.com,Domain,Phishing
-help-whats-app.com,Domain,Phishing
-adfs-sts.com,Domain,Phishing
-atall-hr.com,Domain,Phishing
-five9-hr.com,Domain,Phishing
-hrmny-hr.com,Domain,Phishing
-investprof-hr.com,Domain,Phishing
-nemo-hr.com,Domain,Phishing
-pippin-hr.com,Domain,Phishing
-sanweigroup-hr.com,Domain,Phishing
-selbyjenningscalendly-hr.com,Domain,Phishing
-squad-hr.com,Domain,Phishing
-teamin-hr.com,Domain,Phishing
-qubit-hr.net,Domain,Phishing
-apts-sso.com,Domain,Phishing
-jb-sso.com,Domain,Phishing
-corp-okta.com,Domain,Phishing
-mcointernal--okta.com,Domain,Phishing
-krt-cdn.com,Domain,Phishing
-qihu-cdn.com,Domain,Phishing
-acs-support.com,Domain,Phishing
-blokchain-support.com,Domain,Phishing
-clevel-support.com,Domain,Phishing
-ga-support.com,Domain,Phishing
-i-tech-support.com,Domain,Phishing
-ig-support.com,Domain,Phishing
-kaigo-seikon-support.com,Domain,Phishing
-lawvidia-support.com,Domain,Phishing
-mica-support.com,Domain,Phishing
-ohana-support.com,Domain,Phishing
-play-policy-support.com,Domain,Phishing
-policy-app-support.com,Domain,Phishing
-yourlife-support.com,Domain,Phishing
-amamori-support.net,Domain,Phishing
-career-development-help.com,Domain,Phishing
-carsell-help.com,Domain,Phishing
-hantyservice-information-help.com,Domain,Phishing
-home-office-help.com,Domain,Phishing
-stimulus-help.com,Domain,Phishing
-wallet-coinsbase-help.com,Domain,Phishing
-sts-adfs.com,Domain,Phishing
 121.169.59.210,IPv4 address,Quasar RAT
 209.145.59.89,IPv4 address,Quasar RAT
 43.225.157.168,IPv4 address,Quasar RAT
@@ -2579,3 +2468,76 @@ vyntor-help.com,Domain,Phishing
 192.140.174.213,IPv4 address,PlugX
 38.147.164.43,IPv4 address,PlugX
 64.7.198.130,IPv4 address,PlugX
+hr-benefits-solutions.com,Domain,Phishing
+hr-furumau.com,Domain,Phishing
+hr-talentconnect.com,Domain,Phishing
+hr-twin.com,Domain,Phishing
+cdn-adspace.com,Domain,Phishing
+cdn-cursor.com,Domain,Phishing
+cdn-madanitrx.com,Domain,Phishing
+cdn-opgames.com,Domain,Phishing
+cdn-picstore.com,Domain,Phishing
+support-fee.com,Domain,Phishing
+support-my-idevices.com,Domain,Phishing
+support-point-direct.com,Domain,Phishing
+support-retry.com,Domain,Phishing
+support-sendgrid.com,Domain,Phishing
+bau-hr.com,Domain,Phishing
+elevare-hr.com,Domain,Phishing
+fusio-hr.com,Domain,Phishing
+kakoo-hr.com,Domain,Phishing
+urban-babe-hr.com,Domain,Phishing
+vianovacapital-hr.com,Domain,Phishing
+zhihe-hr.com,Domain,Phishing
+simplified-hr.net,Domain,Phishing
+awesome-sso.net,Domain,Phishing
+an-everlasting-brave-journey-grief-support.com,Domain,Phishing
+computer-support.com,Domain,Phishing
+cost-of-living-support.com,Domain,Phishing
+hokusetu-life-support.com,Domain,Phishing
+humandesign-support.com,Domain,Phishing
+icloudfind-support.com,Domain,Phishing
+omg138-support.com,Domain,Phishing
+react-support.com,Domain,Phishing
+scotia-support.com,Domain,Phishing
+google-support.net,Domain,Phishing
+myonline-support.net,Domain,Phishing
+supplier-support.net,Domain,Phishing
+wpc-support.net,Domain,Phishing
+aws-help.com,Domain,Phishing
+controller-help.com,Domain,Phishing
+home-health-help.com,Domain,Phishing
+line-help.com,Domain,Phishing
+nervoussystem-help.com,Domain,Phishing
+152.32.247.91,IPv4 address,Quasar RAT
+222.253.182.185,IPv4 address,Quasar RAT
+121.169.59.210,IPv4 address,Quasar RAT
+193.242.208.53,IPv4 address,Quasar RAT
+209.145.59.89,IPv4 address,Quasar RAT
+43.225.157.168,IPv4 address,Quasar RAT
+8.134.74.227,IPv4 address,Quasar RAT
+172.111.131.226,IPv4 address,Quasar RAT
+187.201.123.181,IPv4 address,Quasar RAT
+8.218.71.187,IPv4 address,Quasar RAT
+43.135.119.209,IPv4 address,Quasar RAT
+43.154.232.190,IPv4 address,Quasar RAT
+82.25.34.95,IPv4 address,Quasar RAT
+187.212.217.91,IPv4 address,Quasar RAT
+152.42.142.116,IPv4 address,Cobalt Strike
+107.173.229.64,IPv4 address,Cobalt Strike
+45.86.162.222,IPv4 address,Cobalt Strike
+159.223.222.221,IPv4 address,Cobalt Strike
+185.208.156.230,IPv4 address,Cobalt Strike
+38.180.159.137,IPv4 address,Cobalt Strike
+177.136.225.147,IPv4 address,Cobalt Strike
+172.171.130.40,IPv4 address,Cobalt Strike
+179.43.148.221,IPv4 address,Cobalt Strike
+164.90.193.132,IPv4 address,Cobalt Strike
+40.69.131.84,IPv4 address,Cobalt Strike
+18.118.200.45,IPv4 address,Cobalt Strike
+178.62.245.228,IPv4 address,Cobalt Strike
+2.58.14.73,IPv4 address,Cobalt Strike
+57.129.31.214,IPv4 address,Cobalt Strike
+3.208.93.169,IPv4 address,Cobalt Strike
+38.180.232.152,IPv4 address,Cobalt Strike
+13.59.50.223,IPv4 address,Cobalt Strike

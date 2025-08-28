@@ -1,95 +1,4 @@
 Indicator,Type,Description
-81.70.169.156,IPv4 address,Rhadamanthys
-23.95.162.162,IPv4 address,Rhadamanthys
-193.124.33.172,IPv4 address,Cobalt Strike
-113.44.39.1,IPv4 address,Cobalt Strike
-107.173.214.76,IPv4 address,Cobalt Strike
-20.40.96.85,IPv4 address,Cobalt Strike
-124.156.152.46,IPv4 address,Cobalt Strike
-18.159.106.50,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-129.226.177.17,IPv4 address,Cobalt Strike
-89.248.165.43,IPv4 address,Cobalt Strike
-23.95.233.180,IPv4 address,Cobalt Strike
-154.31.218.206,IPv4 address,Cobalt Strike
-154.12.86.154,IPv4 address,Cobalt Strike
-117.72.35.238,IPv4 address,Cobalt Strike
-115.190.35.210,IPv4 address,Cobalt Strike
-124.70.142.36,IPv4 address,Cobalt Strike
-13.215.158.127,IPv4 address,Cobalt Strike
-115.233.60.197,IPv4 address,Cobalt Strike
-101.132.142.56,IPv4 address,Cobalt Strike
-111.230.6.33,IPv4 address,Cobalt Strike
-77.110.113.7,IPv4 address,Cobalt Strike
-175.27.247.194,IPv4 address,Cobalt Strike
-45.77.110.173,IPv4 address,Cobalt Strike
-103.136.150.48,IPv4 address,Cobalt Strike
-13.229.126.45,IPv4 address,Cobalt Strike
-89.23.113.140,IPv4 address,Cobalt Strike
-47.121.136.191,IPv4 address,Cobalt Strike
-hr-careeridge.com,Domain,Phishing
-hr-chevrolet.com,Domain,Phishing
-hr-hirose.com,Domain,Phishing
-okta-chem.com,Domain,Phishing
-cdn-craftine.com,Domain,Phishing
-cdn-pngfiles.com,Domain,Phishing
-support-authorityassist.com,Domain,Phishing
-support-finance-circle.com,Domain,Phishing
-support-kobe.com,Domain,Phishing
-support-nih.com,Domain,Phishing
-support-parkcommunity.com,Domain,Phishing
-support-servicee.com,Domain,Phishing
-support-spino10.com,Domain,Phishing
-support-spino11.com,Domain,Phishing
-support-spino12.com,Domain,Phishing
-support-spino13.com,Domain,Phishing
-support-spino14.com,Domain,Phishing
-support-spino15.com,Domain,Phishing
-support-spino16.com,Domain,Phishing
-support-spino17.com,Domain,Phishing
-support-spino18.com,Domain,Phishing
-support-spino19.com,Domain,Phishing
-support-spino20.com,Domain,Phishing
-support-spino6.com,Domain,Phishing
-support-spino7.com,Domain,Phishing
-support-spino8.com,Domain,Phishing
-support-spino9.com,Domain,Phishing
-support-taskforce.com,Domain,Phishing
-help-kdd.com,Domain,Phishing
-help-kddk.com,Domain,Phishing
-help-kddm.com,Domain,Phishing
-help-lmx.com,Domain,Phishing
-help-lmxa.com,Domain,Phishing
-help-lmxs.com,Domain,Phishing
-help-qye.com,Domain,Phishing
-help-qyer.com,Domain,Phishing
-help-qyew.com,Domain,Phishing
-help-unity.com,Domain,Phishing
-help-uzy.com,Domain,Phishing
-hitachiglobal-hr.com,Domain,Phishing
-ivibet-hr.com,Domain,Phishing
-juntas-hr.com,Domain,Phishing
-min-hr.com,Domain,Phishing
-octopuss-hr.com,Domain,Phishing
-ora-hr.com,Domain,Phishing
-pgt-hr.com,Domain,Phishing
-dev-nice-sso.com,Domain,Phishing
-bit-rise-support.com,Domain,Phishing
-english-brain-support.com,Domain,Phishing
-lenco-support.com,Domain,Phishing
-licence-customer-support.com,Domain,Phishing
-licences-customer-support.com,Domain,Phishing
-mike-call-support.com,Domain,Phishing
-restore-licence-support.com,Domain,Phishing
-sncf-support.com,Domain,Phishing
-tochisagasi-tochi-support.com,Domain,Phishing
-verve-support.com,Domain,Phishing
-vivo-support.com,Domain,Phishing
-xstation-support.com,Domain,Phishing
-femcare-support.net,Domain,Phishing
-desktop-help.com,Domain,Phishing
-signin-coinbase-help.com,Domain,Phishing
-vyntor-help.com,Domain,Phishing
 167.179.89.246,IPv4 address,PlugX
 36.50.84.80,IPv4 address,PlugX
 223.254.129.212,IPv4 address,PlugX
@@ -2727,3 +2636,102 @@ fubon.shop,Domain,Cobalt Strike
 101.132.142.56,IPv4 address,Cobalt Strike
 111.230.6.33,IPv4 address,Cobalt Strike
 77.110.113.7,IPv4 address,Cobalt Strike
+175.27.247.194,IPv4 address,Cobalt Strike
+45.77.110.173,IPv4 address,Cobalt Strike
+13.229.126.45,IPv4 address,Cobalt Strike
+hr-afnan.com,Domain,Phishing
+hr-arcelormittal.com,Domain,Phishing
+hr-charter.com,Domain,Phishing
+hr-totalenergies.com,Domain,Phishing
+sso-amo-aiozoirapriv.net,Domain,Phishing
+sso-buddy.com,Domain,Phishing
+sso-kroger.com,Domain,Phishing
+sso-lists.com,Domain,Phishing
+cdn-cookiebot.com,Domain,Phishing
+support-blastgroup.com,Domain,Phishing
+support-caseitup.com,Domain,Phishing
+support-clienttravel.com,Domain,Phishing
+support-help-center-transparency-businesss.com,Domain,Phishing
+support-info-securisation.com,Domain,Phishing
+support-lynx.com,Domain,Phishing
+support-mondialrelay-pickup.com,Domain,Phishing
+support-naiteibridge.com,Domain,Phishing
+support-relaisbe.com,Domain,Phishing
+support-ril.com,Domain,Phishing
+help-amazon.com,Domain,Phishing
+help-ivh.com,Domain,Phishing
+help-ivhc.com,Domain,Phishing
+help-ivhv.com,Domain,Phishing
+help-jubps.net,Domain,Phishing
+help-mub.com,Domain,Phishing
+help-mubx.com,Domain,Phishing
+help-mubz.com,Domain,Phishing
+help-number-usa.com,Domain,Phishing
+help-projekt-kenya.com,Domain,Phishing
+help-secure-us.com,Domain,Phishing
+carbonhealth-hr.com,Domain,Phishing
+ichie-hr.com,Domain,Phishing
+isle-hr.com,Domain,Phishing
+looklcd-hr.com,Domain,Phishing
+mas-hr.com,Domain,Phishing
+mini-hr.com,Domain,Phishing
+vcw-hr.com,Domain,Phishing
+zhengtian-hr.com,Domain,Phishing
+fox-sso.com,Domain,Phishing
+intercom-okta.com,Domain,Phishing
+internal-okta.com,Domain,Phishing
+mld-cdn.com,Domain,Phishing
+apple-verification-support.com,Domain,Phishing
+appliances-support.com,Domain,Phishing
+coinsli-support.com,Domain,Phishing
+epays-support.com,Domain,Phishing
+family-court-support.com,Domain,Phishing
+ferr-support.com,Domain,Phishing
+high-speed-internet-support.com,Domain,Phishing
+inc-support.com,Domain,Phishing
+jsconsultancy-support.com,Domain,Phishing
+kakuyasu-support.com,Domain,Phishing
+kly-support.com,Domain,Phishing
+kundalini-support.com,Domain,Phishing
+ledgerlive-support.com,Domain,Phishing
+medilinkglobal-support.com,Domain,Phishing
+microbiome-support.com,Domain,Phishing
+oracle-dba-support.com,Domain,Phishing
+shonan-support.com,Domain,Phishing
+tcbarrow-support.com,Domain,Phishing
+txn-support.com,Domain,Phishing
+ufsscleaning-support.com,Domain,Phishing
+smilelife-support.net,Domain,Phishing
+aslf-help.com,Domain,Phishing
+bitget-help.com,Domain,Phishing
+iii-help.com,Domain,Phishing
+mycentrelink-help.com,Domain,Phishing
+nadace-help.com,Domain,Phishing
+portal-weblogin.com,Domain,Phishing
+36.50.84.80,IPv4 address,PlugX
+121.43.186.132,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+134.122.134.238,IPv4 address,PlugX
+118.107.19.35,IPv4 address,PlugX
+116.62.194.46,IPv4 address,PlugX
+103.171.34.199,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+43.248.9.172,IPv4 address,PlugX
+141.164.43.40,IPv4 address,PlugX
+43.246.208.107,IPv4 address,PlugX
+45.76.218.225,IPv4 address,PlugX
+45.32.148.180,IPv4 address,PlugX
+208.85.16.182,IPv4 address,PlugX
+38.60.203.197,IPv4 address,PlugX
+118.194.253.147,IPv4 address,PlugX
+64.176.6.235,IPv4 address,PlugX
+103.98.16.184,IPv4 address,PlugX
+52.128.229.101,IPv4 address,PlugX
+52.128.229.98,IPv4 address,PlugX
+134.122.174.164,IPv4 address,PlugX
+103.38.80.13,IPv4 address,PlugX
+61.160.215.14,IPv4 address,PlugX

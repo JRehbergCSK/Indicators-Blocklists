@@ -1,485 +1,5 @@
 [
     {
-        "indicator": "86.54.42.145",
-        "type": "IPv4 address",
-        "description": "Rhadamanthys"
-    },
-    {
-        "indicator": "81.70.169.156",
-        "type": "IPv4 address",
-        "description": "Rhadamanthys"
-    },
-    {
-        "indicator": "93.115.203.34",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "89.23.113.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.31.218.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "213.252.246.163",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "115.190.35.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "20.40.96.85",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.124.33.172",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "117.72.35.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.136.150.48",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "113.44.39.1",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.156.152.46",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "18.159.106.50",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.135.88.242",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.226.177.17",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "89.248.165.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.95.233.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.70.142.36",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "13.215.158.127",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "115.233.60.197",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.132.142.56",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "111.230.6.33",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "77.110.113.7",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "175.27.247.194",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.77.110.173",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "13.229.126.45",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "hr-afnan.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-arcelormittal.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-charter.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-totalenergies.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-amo-aiozoirapriv.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-buddy.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-kroger.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-lists.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-cookiebot.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-blastgroup.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-caseitup.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-clienttravel.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-help-center-transparency-businesss.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-info-securisation.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-lynx.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-mondialrelay-pickup.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-naiteibridge.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-relaisbe.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-ril.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-amazon.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-ivh.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-ivhc.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-ivhv.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-jubps.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-mub.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-mubx.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-mubz.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-number-usa.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-projekt-kenya.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-secure-us.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "carbonhealth-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ichie-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "isle-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "looklcd-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mas-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mini-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "vcw-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "zhengtian-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "fox-sso.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "intercom-okta.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "internal-okta.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mld-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "apple-verification-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "appliances-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "coinsli-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "epays-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "family-court-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ferr-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "high-speed-internet-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "inc-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "jsconsultancy-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kakuyasu-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kly-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kundalini-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ledgerlive-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "medilinkglobal-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "microbiome-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "oracle-dba-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "shonan-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tcbarrow-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "txn-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ufsscleaning-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "smilelife-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "aslf-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bitget-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "iii-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mycentrelink-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "nadace-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "portal-weblogin.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
         "indicator": "36.50.84.80",
         "type": "IPv4 address",
         "description": "PlugX"
@@ -13653,5 +13173,610 @@
         "indicator": "81.70.169.156",
         "type": "IPv4 address",
         "description": "Rhadamanthys"
+    },
+    {
+        "indicator": "89.23.113.140",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "89.248.165.43",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.32.116.171",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "115.190.35.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.31.218.206",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "124.156.152.46",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "77.110.113.7",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "20.40.96.85",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "193.124.33.172",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "93.115.203.34",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "213.252.246.163",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "117.72.35.238",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.136.150.48",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "113.44.39.1",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "18.159.106.50",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "129.226.177.17",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "124.70.142.36",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "13.215.158.127",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "111.230.6.33",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hr-imperial.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-k.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-kpc.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-sec.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-teoxane.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-tuningfiles.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sso-verify.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-moonpay.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-thor-is.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-agi.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-manh.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-oracle.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-zenith.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-lazada.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-nortonlifelock.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ameo-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "careerbase-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "duet-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fullcircle-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "isolevoz-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "spacex-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sure-betts-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "attenci-gestao-de-sso.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mirai-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "vinely-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "c--support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "devices-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "helpe-lost-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "infoups-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ledger-notice-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "macsploit-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "nul-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "pay-child-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "wa-state-child-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "afterhours-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "store-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "halos-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "154.213.178.185",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "111.68.8.106",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "107.148.1.207",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "194.56.225.144",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "118.107.19.35",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "195.245.242.234",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "208.85.16.182",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "20.243.19.18",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "43.248.9.172",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "63.141.237.208",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "47.75.177.15",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "43.153.215.207",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "116.62.194.46",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.171.34.199",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "47.242.227.225",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "167.179.89.246",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "150.109.11.77",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "64.176.65.165",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "121.43.186.132",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "208.85.18.176",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "123.60.168.129",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "70.34.215.167",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "70.34.215.62",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "64.176.6.235",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "223.254.129.212",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "43.246.208.107",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "139.84.227.139",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "38.60.203.197",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "45.32.148.180",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "95.179.245.146",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "62.60.232.173",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "143.92.36.155",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.43.18.19",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "112.121.161.109",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "70.34.197.27",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "150.109.42.65",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "134.122.134.238",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "208.85.17.4",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.215.78.57",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "140.82.55.149",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.215.78.176",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "36.50.84.80",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "54.251.212.89",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "141.164.43.40",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.68.195.138",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "45.115.38.118",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "45.76.218.225",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "64.7.198.130",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "96.9.210.77",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "192.248.183.208",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "118.194.253.147",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.98.16.184",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "166.88.98.116",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "223.26.75.31",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.128.229.101",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.128.229.102",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.128.229.100",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.128.229.98",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.128.229.99",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "3.113.29.47",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "52.192.183.29",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "45.32.149.253",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "134.122.174.164",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "103.38.80.13",
+        "type": "IPv4 address",
+        "description": "PlugX"
+    },
+    {
+        "indicator": "154.223.21.157",
+        "type": "IPv4 address",
+        "description": "PlugX"
     }
 ]

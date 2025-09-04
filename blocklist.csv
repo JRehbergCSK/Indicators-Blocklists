@@ -1,100 +1,4 @@
 Indicator,Type,Description
-86.54.42.145,IPv4 address,Rhadamanthys
-81.70.169.156,IPv4 address,Rhadamanthys
-93.115.203.34,IPv4 address,Cobalt Strike
-89.23.113.140,IPv4 address,Cobalt Strike
-154.31.218.206,IPv4 address,Cobalt Strike
-213.252.246.163,IPv4 address,Cobalt Strike
-115.190.35.210,IPv4 address,Cobalt Strike
-20.40.96.85,IPv4 address,Cobalt Strike
-193.124.33.172,IPv4 address,Cobalt Strike
-117.72.35.238,IPv4 address,Cobalt Strike
-103.136.150.48,IPv4 address,Cobalt Strike
-113.44.39.1,IPv4 address,Cobalt Strike
-124.156.152.46,IPv4 address,Cobalt Strike
-18.159.106.50,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-129.226.177.17,IPv4 address,Cobalt Strike
-89.248.165.43,IPv4 address,Cobalt Strike
-23.95.233.180,IPv4 address,Cobalt Strike
-124.70.142.36,IPv4 address,Cobalt Strike
-13.215.158.127,IPv4 address,Cobalt Strike
-115.233.60.197,IPv4 address,Cobalt Strike
-101.132.142.56,IPv4 address,Cobalt Strike
-111.230.6.33,IPv4 address,Cobalt Strike
-77.110.113.7,IPv4 address,Cobalt Strike
-175.27.247.194,IPv4 address,Cobalt Strike
-45.77.110.173,IPv4 address,Cobalt Strike
-13.229.126.45,IPv4 address,Cobalt Strike
-hr-afnan.com,Domain,Phishing
-hr-arcelormittal.com,Domain,Phishing
-hr-charter.com,Domain,Phishing
-hr-totalenergies.com,Domain,Phishing
-sso-amo-aiozoirapriv.net,Domain,Phishing
-sso-buddy.com,Domain,Phishing
-sso-kroger.com,Domain,Phishing
-sso-lists.com,Domain,Phishing
-cdn-cookiebot.com,Domain,Phishing
-support-blastgroup.com,Domain,Phishing
-support-caseitup.com,Domain,Phishing
-support-clienttravel.com,Domain,Phishing
-support-help-center-transparency-businesss.com,Domain,Phishing
-support-info-securisation.com,Domain,Phishing
-support-lynx.com,Domain,Phishing
-support-mondialrelay-pickup.com,Domain,Phishing
-support-naiteibridge.com,Domain,Phishing
-support-relaisbe.com,Domain,Phishing
-support-ril.com,Domain,Phishing
-help-amazon.com,Domain,Phishing
-help-ivh.com,Domain,Phishing
-help-ivhc.com,Domain,Phishing
-help-ivhv.com,Domain,Phishing
-help-jubps.net,Domain,Phishing
-help-mub.com,Domain,Phishing
-help-mubx.com,Domain,Phishing
-help-mubz.com,Domain,Phishing
-help-number-usa.com,Domain,Phishing
-help-projekt-kenya.com,Domain,Phishing
-help-secure-us.com,Domain,Phishing
-carbonhealth-hr.com,Domain,Phishing
-ichie-hr.com,Domain,Phishing
-isle-hr.com,Domain,Phishing
-looklcd-hr.com,Domain,Phishing
-mas-hr.com,Domain,Phishing
-mini-hr.com,Domain,Phishing
-vcw-hr.com,Domain,Phishing
-zhengtian-hr.com,Domain,Phishing
-fox-sso.com,Domain,Phishing
-intercom-okta.com,Domain,Phishing
-internal-okta.com,Domain,Phishing
-mld-cdn.com,Domain,Phishing
-apple-verification-support.com,Domain,Phishing
-appliances-support.com,Domain,Phishing
-coinsli-support.com,Domain,Phishing
-epays-support.com,Domain,Phishing
-family-court-support.com,Domain,Phishing
-ferr-support.com,Domain,Phishing
-high-speed-internet-support.com,Domain,Phishing
-inc-support.com,Domain,Phishing
-jsconsultancy-support.com,Domain,Phishing
-kakuyasu-support.com,Domain,Phishing
-kly-support.com,Domain,Phishing
-kundalini-support.com,Domain,Phishing
-ledgerlive-support.com,Domain,Phishing
-medilinkglobal-support.com,Domain,Phishing
-microbiome-support.com,Domain,Phishing
-oracle-dba-support.com,Domain,Phishing
-shonan-support.com,Domain,Phishing
-tcbarrow-support.com,Domain,Phishing
-txn-support.com,Domain,Phishing
-ufsscleaning-support.com,Domain,Phishing
-smilelife-support.net,Domain,Phishing
-aslf-help.com,Domain,Phishing
-bitget-help.com,Domain,Phishing
-iii-help.com,Domain,Phishing
-mycentrelink-help.com,Domain,Phishing
-nadace-help.com,Domain,Phishing
-portal-weblogin.com,Domain,Phishing
 36.50.84.80,IPv4 address,PlugX
 121.43.186.132,IPv4 address,PlugX
 195.245.242.234,IPv4 address,PlugX
@@ -2730,3 +2634,124 @@ scam-help.com,Domain,Phishing
 blue-collar-help.net,Domain,Phishing
 86.54.42.145,IPv4 address,Rhadamanthys
 81.70.169.156,IPv4 address,Rhadamanthys
+89.23.113.140,IPv4 address,Cobalt Strike
+89.248.165.43,IPv4 address,Cobalt Strike
+45.32.116.171,IPv4 address,Cobalt Strike
+115.190.35.210,IPv4 address,Cobalt Strike
+154.31.218.206,IPv4 address,Cobalt Strike
+124.156.152.46,IPv4 address,Cobalt Strike
+77.110.113.7,IPv4 address,Cobalt Strike
+20.40.96.85,IPv4 address,Cobalt Strike
+193.124.33.172,IPv4 address,Cobalt Strike
+93.115.203.34,IPv4 address,Cobalt Strike
+213.252.246.163,IPv4 address,Cobalt Strike
+117.72.35.238,IPv4 address,Cobalt Strike
+103.136.150.48,IPv4 address,Cobalt Strike
+113.44.39.1,IPv4 address,Cobalt Strike
+18.159.106.50,IPv4 address,Cobalt Strike
+129.226.177.17,IPv4 address,Cobalt Strike
+124.70.142.36,IPv4 address,Cobalt Strike
+13.215.158.127,IPv4 address,Cobalt Strike
+111.230.6.33,IPv4 address,Cobalt Strike
+hr-imperial.com,Domain,Phishing
+hr-k.com,Domain,Phishing
+hr-kpc.com,Domain,Phishing
+hr-sec.com,Domain,Phishing
+hr-teoxane.com,Domain,Phishing
+hr-tuningfiles.com,Domain,Phishing
+sso-verify.com,Domain,Phishing
+cdn-moonpay.com,Domain,Phishing
+cdn-thor-is.net,Domain,Phishing
+support-agi.com,Domain,Phishing
+support-manh.com,Domain,Phishing
+support-oracle.com,Domain,Phishing
+support-zenith.com,Domain,Phishing
+help-lazada.com,Domain,Phishing
+help-nortonlifelock.com,Domain,Phishing
+ameo-hr.com,Domain,Phishing
+careerbase-hr.com,Domain,Phishing
+duet-hr.com,Domain,Phishing
+fullcircle-hr.com,Domain,Phishing
+isolevoz-hr.com,Domain,Phishing
+spacex-hr.com,Domain,Phishing
+sure-betts-hr.com,Domain,Phishing
+attenci-gestao-de-sso.com,Domain,Phishing
+mirai-cdn.com,Domain,Phishing
+vinely-cdn.com,Domain,Phishing
+c--support.com,Domain,Phishing
+devices-support.com,Domain,Phishing
+helpe-lost-support.com,Domain,Phishing
+infoups-support.com,Domain,Phishing
+ledger-notice-support.com,Domain,Phishing
+macsploit-support.com,Domain,Phishing
+nul-support.com,Domain,Phishing
+pay-child-support.com,Domain,Phishing
+wa-state-child-support.com,Domain,Phishing
+afterhours-support.net,Domain,Phishing
+store-support.net,Domain,Phishing
+halos-help.com,Domain,Phishing
+154.213.178.185,IPv4 address,PlugX
+111.68.8.106,IPv4 address,PlugX
+107.148.1.207,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+118.107.19.35,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+208.85.16.182,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+43.248.9.172,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+47.75.177.15,IPv4 address,PlugX
+43.153.215.207,IPv4 address,PlugX
+116.62.194.46,IPv4 address,PlugX
+103.171.34.199,IPv4 address,PlugX
+47.242.227.225,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+150.109.11.77,IPv4 address,PlugX
+64.176.65.165,IPv4 address,PlugX
+121.43.186.132,IPv4 address,PlugX
+208.85.18.176,IPv4 address,PlugX
+123.60.168.129,IPv4 address,PlugX
+70.34.215.167,IPv4 address,PlugX
+70.34.215.62,IPv4 address,PlugX
+64.176.6.235,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+43.246.208.107,IPv4 address,PlugX
+139.84.227.139,IPv4 address,PlugX
+38.60.203.197,IPv4 address,PlugX
+45.32.148.180,IPv4 address,PlugX
+95.179.245.146,IPv4 address,PlugX
+62.60.232.173,IPv4 address,PlugX
+143.92.36.155,IPv4 address,PlugX
+103.43.18.19,IPv4 address,PlugX
+112.121.161.109,IPv4 address,PlugX
+70.34.197.27,IPv4 address,PlugX
+150.109.42.65,IPv4 address,PlugX
+134.122.134.238,IPv4 address,PlugX
+208.85.17.4,IPv4 address,PlugX
+103.215.78.57,IPv4 address,PlugX
+140.82.55.149,IPv4 address,PlugX
+103.215.78.176,IPv4 address,PlugX
+36.50.84.80,IPv4 address,PlugX
+54.251.212.89,IPv4 address,PlugX
+141.164.43.40,IPv4 address,PlugX
+103.68.195.138,IPv4 address,PlugX
+45.115.38.118,IPv4 address,PlugX
+45.76.218.225,IPv4 address,PlugX
+64.7.198.130,IPv4 address,PlugX
+96.9.210.77,IPv4 address,PlugX
+192.248.183.208,IPv4 address,PlugX
+118.194.253.147,IPv4 address,PlugX
+103.98.16.184,IPv4 address,PlugX
+166.88.98.116,IPv4 address,PlugX
+223.26.75.31,IPv4 address,PlugX
+52.128.229.101,IPv4 address,PlugX
+52.128.229.102,IPv4 address,PlugX
+52.128.229.100,IPv4 address,PlugX
+52.128.229.98,IPv4 address,PlugX
+52.128.229.99,IPv4 address,PlugX
+3.113.29.47,IPv4 address,PlugX
+52.192.183.29,IPv4 address,PlugX
+45.32.149.253,IPv4 address,PlugX
+134.122.174.164,IPv4 address,PlugX
+103.38.80.13,IPv4 address,PlugX
+154.223.21.157,IPv4 address,PlugX

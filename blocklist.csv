@@ -1,296 +1,4 @@
 Indicator,Type,Description
-86.54.42.145,IPv4 address,Rhadamanthys
-117.72.168.103,IPv4 address,Cobalt Strike
-154.201.81.156,IPv4 address,Cobalt Strike
-113.44.39.1,IPv4 address,Cobalt Strike
-47.121.136.191,IPv4 address,Cobalt Strike
-45.32.116.171,IPv4 address,Cobalt Strike
-23.140.244.32,IPv4 address,Cobalt Strike
-156.238.234.107,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-45.77.110.173,IPv4 address,Cobalt Strike
-93.115.203.34,IPv4 address,Cobalt Strike
-38.12.39.74,IPv4 address,Cobalt Strike
-38.12.39.75,IPv4 address,Cobalt Strike
-193.124.33.172,IPv4 address,Cobalt Strike
-154.31.218.206,IPv4 address,Cobalt Strike
-107.173.214.76,IPv4 address,Cobalt Strike
-156.238.234.135,IPv4 address,Cobalt Strike
-117.72.35.238,IPv4 address,Cobalt Strike
-23.140.244.26,IPv4 address,Cobalt Strike
-154.12.86.154,IPv4 address,Cobalt Strike
-89.23.113.140,IPv4 address,Cobalt Strike
-77.110.113.7,IPv4 address,Cobalt Strike
-20.40.96.85,IPv4 address,Cobalt Strike
-hr-0425.com,Domain,Phishing
-hr-2035.com,Domain,Phishing
-hr-8046.com,Domain,Phishing
-hr-9473.com,Domain,Phishing
-hr-carusohomes.com,Domain,Phishing
-hr-cncafrica.com,Domain,Phishing
-hr-co-op.com,Domain,Phishing
-hr-control-tower.com,Domain,Phishing
-hr-counseling.com,Domain,Phishing
-hr-dev.net,Domain,Phishing
-hr-direct.net,Domain,Phishing
-hr-flex.com,Domain,Phishing
-hr-genieconseil.com,Domain,Phishing
-hr-historicalrarities.com,Domain,Phishing
-hr-immigration.com,Domain,Phishing
-hr-ind.com,Domain,Phishing
-hr-northflow.com,Domain,Phishing
-hr-odthai.com,Domain,Phishing
-hr-payrollplus.com,Domain,Phishing
-hr-performance.com,Domain,Phishing
-hr-ski-timovi.com,Domain,Phishing
-hr-skycrate.com,Domain,Phishing
-hr-sloutions.com,Domain,Phishing
-hr-smile.com,Domain,Phishing
-hr-t-consulting.com,Domain,Phishing
-hr-talenthouse.com,Domain,Phishing
-sso-suncountry.net,Domain,Phishing
-okta-mistg-access.com,Domain,Phishing
-cdn-3.com,Domain,Phishing
-cdn-amz.com,Domain,Phishing
-cdn-casimon-amp-softlayer.com,Domain,Phishing
-cdn-cige.com,Domain,Phishing
-cdn-cloudfront.net,Domain,Phishing
-cdn-ebet.com,Domain,Phishing
-cdn-fastsecudownload.com,Domain,Phishing
-cdn-imgvid.com,Domain,Phishing
-cdn-regensburg.com,Domain,Phishing
-cdn-servers.com,Domain,Phishing
-cdn-super.com,Domain,Phishing
-cdn-sw.net,Domain,Phishing
-cdn-swift.com,Domain,Phishing
-cdn-tapyou.com,Domain,Phishing
-cdn-user.com,Domain,Phishing
-cdn-vottak-online.com,Domain,Phishing
-support-advertisiesbinding.com,Domain,Phishing
-support-advertisiesconfirmation.com,Domain,Phishing
-support-aichi.com,Domain,Phishing
-support-analytics.com,Domain,Phishing
-support-bis.com,Domain,Phishing
-support-businessauthplatfform.com,Domain,Phishing
-support-cad.com,Domain,Phishing
-support-carlife.com,Domain,Phishing
-support-casinomaxi188.com,Domain,Phishing
-support-casinometropol191.com,Domain,Phishing
-support-casinometropol192.com,Domain,Phishing
-support-contestation.com,Domain,Phishing
-support-cs.com,Domain,Phishing
-support-garage-lp.com,Domain,Phishing
-support-hovarda1.com,Domain,Phishing
-support-jsp.com,Domain,Phishing
-support-livraison-colis.com,Domain,Phishing
-support-mobilbahis176.com,Domain,Phishing
-support-mobilbahis177.com,Domain,Phishing
-support-monetization.com,Domain,Phishing
-support-plem.com,Domain,Phishing
-support-ripple.com,Domain,Phishing
-support-site-internet.com,Domain,Phishing
-support-ukraine.com,Domain,Phishing
-support-ybont.com,Domain,Phishing
-help-47.com,Domain,Phishing
-help-aave.com,Domain,Phishing
-help-account-restore.com,Domain,Phishing
-help-cat.net,Domain,Phishing
-help-coinmarcetcap.com,Domain,Phishing
-help-findme-location.com,Domain,Phishing
-help-for-customers.com,Domain,Phishing
-help-for-the-convert.net,Domain,Phishing
-help-iek.com,Domain,Phishing
-help-layla.com,Domain,Phishing
-help-legal-black.com,Domain,Phishing
-help-lpa.com,Domain,Phishing
-help-me-holly.com,Domain,Phishing
-help-nj.com,Domain,Phishing
-help-our-locals.com,Domain,Phishing
-help-starling.com,Domain,Phishing
-help-the-boss.com,Domain,Phishing
-help-the-boss.net,Domain,Phishing
-help-tiyst.com,Domain,Phishing
-help-view.com,Domain,Phishing
-help-yourselves.com,Domain,Phishing
-afrex-hr.com,Domain,Phishing
-aq-hr.com,Domain,Phishing
-arbitrox-hr.com,Domain,Phishing
-bk8-hr.com,Domain,Phishing
-bkc-hr.com,Domain,Phishing
-c5-hr.com,Domain,Phishing
-cardiag-hr.com,Domain,Phishing
-chansun-hr.com,Domain,Phishing
-clmrc-hr.com,Domain,Phishing
-cobra-hr.com,Domain,Phishing
-decoded-hr.com,Domain,Phishing
-dp-mid-hr.com,Domain,Phishing
-earon-hr.com,Domain,Phishing
-elevating-hr.com,Domain,Phishing
-erin-hr.com,Domain,Phishing
-faith-hr.com,Domain,Phishing
-fibnet-hr.com,Domain,Phishing
-fz-hr.com,Domain,Phishing
-greentree-hr.com,Domain,Phishing
-grippers-hr.com,Domain,Phishing
-humane-hr.com,Domain,Phishing
-hunt-hr.com,Domain,Phishing
-ims-hr.com,Domain,Phishing
-inno-hr.com,Domain,Phishing
-isd-uni-hr.com,Domain,Phishing
-jobify-hr.com,Domain,Phishing
-kingdom-hr.com,Domain,Phishing
-kosaido-hr.com,Domain,Phishing
-mason-hr.com,Domain,Phishing
-meayar-hr.com,Domain,Phishing
-natural-language-hr.com,Domain,Phishing
-office8-hr.com,Domain,Phishing
-plinko-hr.com,Domain,Phishing
-salon-hr.com,Domain,Phishing
-sherlock-hr.com,Domain,Phishing
-solana-hr.com,Domain,Phishing
-steinmetz-hr.com,Domain,Phishing
-sumood-hr.com,Domain,Phishing
-temp-hr.com,Domain,Phishing
-top-level-hr.com,Domain,Phishing
-v-ignite-hr.com,Domain,Phishing
-von-struenk-recruiting-hr.com,Domain,Phishing
-xray-hr.com,Domain,Phishing
-zahnaerzte-hr.com,Domain,Phishing
-zipgigz-hr.com,Domain,Phishing
-ditech-hr.net,Domain,Phishing
-account-sso.com,Domain,Phishing
-bdtronic-sso.com,Domain,Phishing
-jbhunt-sso.com,Domain,Phishing
-hackerone-okta.com,Domain,Phishing
-suse-okta.com,Domain,Phishing
-advox-cdn.com,Domain,Phishing
-assets-loader-cdn.com,Domain,Phishing
-bisnis-cdn.com,Domain,Phishing
-curology-cdn.com,Domain,Phishing
-ep-cdn.com,Domain,Phishing
-esc-apps-cdn.com,Domain,Phishing
-etarget-cdn.com,Domain,Phishing
-ex-cdn.com,Domain,Phishing
-hogi-cdn.com,Domain,Phishing
-icon-cdn.com,Domain,Phishing
-japan-cdn.com,Domain,Phishing
-jik-cdn.com,Domain,Phishing
-jimocoro-cdn.com,Domain,Phishing
-kite-cdn.com,Domain,Phishing
-lds-cdn.com,Domain,Phishing
-matomer-cdn.com,Domain,Phishing
-mercuryous-cdn.com,Domain,Phishing
-myguide-cdn.com,Domain,Phishing
-pexow-cdn.com,Domain,Phishing
-pixana-cdn.com,Domain,Phishing
-pornoham-cdn.com,Domain,Phishing
-scim-cdn.com,Domain,Phishing
-shuttlerock-cdn.com,Domain,Phishing
-sovido-cdn.com,Domain,Phishing
-strawlab-cdn.com,Domain,Phishing
-testspeed-cdn.com,Domain,Phishing
-traff-cdn.com,Domain,Phishing
-true-cdn.com,Domain,Phishing
-tscopier-cdn.com,Domain,Phishing
-txzlz-cdn.com,Domain,Phishing
-vereign-cdn.com,Domain,Phishing
-your-vendor-cdn.com,Domain,Phishing
-magento-cdn.net,Domain,Phishing
-ti-cdn.net,Domain,Phishing
-tiaa-cdn.net,Domain,Phishing
-us-cdn.net,Domain,Phishing
-xargo-cdn.net,Domain,Phishing
-baroque-support.com,Domain,Phishing
-bergner-support.com,Domain,Phishing
-butuji-support.com,Domain,Phishing
-cancer-support.com,Domain,Phishing
-copyright-support.com,Domain,Phishing
-db-management-support.com,Domain,Phishing
-dcs-support.com,Domain,Phishing
-deutschelieferung-support.com,Domain,Phishing
-fertility-support.com,Domain,Phishing
-fire-support.com,Domain,Phishing
-foudation-for-community-support.com,Domain,Phishing
-globe-support.com,Domain,Phishing
-gmb-support.com,Domain,Phishing
-hims-support.com,Domain,Phishing
-ikeda-support.com,Domain,Phishing
-king-support.com,Domain,Phishing
-myworker-support.com,Domain,Phishing
-oidaki-aqua-support.com,Domain,Phishing
-olson-support.com,Domain,Phishing
-on-line-support.com,Domain,Phishing
-oncall-support.com,Domain,Phishing
-piranha-it-support.com,Domain,Phishing
-pregnancy-loss-support.com,Domain,Phishing
-programmer-support.com,Domain,Phishing
-rhodes-it-support.com,Domain,Phishing
-rth-support.com,Domain,Phishing
-sandbag-support.com,Domain,Phishing
-sea-abilities-support.com,Domain,Phishing
-second-support.com,Domain,Phishing
-seiya-ai-life-support.com,Domain,Phishing
-semicolon-support.com,Domain,Phishing
-severance-support.com,Domain,Phishing
-shine-support.com,Domain,Phishing
-so-support.com,Domain,Phishing
-swyftx-support.com,Domain,Phishing
-tecify-support.com,Domain,Phishing
-the-support.com,Domain,Phishing
-tigo-support.com,Domain,Phishing
-toyotomi-support.com,Domain,Phishing
-trading212-support.com,Domain,Phishing
-unipin-support.com,Domain,Phishing
-usdot-support.com,Domain,Phishing
-wise-bank-support.com,Domain,Phishing
-atomicwallet-support.net,Domain,Phishing
-combit-support.net,Domain,Phishing
-hakajimai-support.net,Domain,Phishing
-ido-support.net,Domain,Phishing
-living-support.net,Domain,Phishing
-manabi-support.net,Domain,Phishing
-mental-health-support.net,Domain,Phishing
-us-support.net,Domain,Phishing
-w-juken-support.net,Domain,Phishing
-800-usa-help.com,Domain,Phishing
-adriaauto-help.com,Domain,Phishing
-anxiety-stress--help.com,Domain,Phishing
-breath-help.com,Domain,Phishing
-bussiness-help.com,Domain,Phishing
-bwebbox-help.com,Domain,Phishing
-canada-eta-help.com,Domain,Phishing
-cancel-help.com,Domain,Phishing
-copd-help.com,Domain,Phishing
-depo-provera-legal-help.com,Domain,Phishing
-diplom-help.com,Domain,Phishing
-e-pidtrimka-ddns-help.com,Domain,Phishing
-eeoc-help.com,Domain,Phishing
-erectiledysfunction-help.com,Domain,Phishing
-get-crypto-help.com,Domain,Phishing
-graphics-help.com,Domain,Phishing
-hepsia-help.com,Domain,Phishing
-human-help.com,Domain,Phishing
-ineed-help.com,Domain,Phishing
-jamaica-help.com,Domain,Phishing
-m88-help.com,Domain,Phishing
-mac-help.com,Domain,Phishing
-media-clients-help.com,Domain,Phishing
-medicare-extra-help.com,Domain,Phishing
-micros-help.com,Domain,Phishing
-migraine-headaches-help.com,Domain,Phishing
-modern-help.com,Domain,Phishing
-norway-help.com,Domain,Phishing
-obituary-help.com,Domain,Phishing
-pcos-help.com,Domain,Phishing
-sbotop-help.com,Domain,Phishing
-shore-help.com,Domain,Phishing
-ssi-help.com,Domain,Phishing
-tabi-help.com,Domain,Phishing
-we-will-help.com,Domain,Phishing
-child-help.net,Domain,Phishing
-ctrl-alt-help.net,Domain,Phishing
-sa-help.net,Domain,Phishing
-it-servicenow.net,Domain,Phishing
 52.128.229.100,IPv4 address,PlugX
 150.109.42.65,IPv4 address,PlugX
 223.254.129.212,IPv4 address,PlugX
@@ -4270,3 +3978,108 @@ beta-blaze.com,Domain,Cobalt Strike
 20.188.6.28,IPv4 address,Brute Ratel C4
 81.70.169.156,IPv4 address,Rhadamanthys
 86.54.42.145,IPv4 address,Rhadamanthys
+43.156.59.110,IPv4 address,Cobalt Strike
+154.12.91.226,IPv4 address,Cobalt Strike
+103.136.150.48,IPv4 address,Cobalt Strike
+45.158.21.149,IPv4 address,Cobalt Strike
+43.139.159.252,IPv4 address,Cobalt Strike
+45.77.110.173,IPv4 address,Cobalt Strike
+47.121.136.191,IPv4 address,Cobalt Strike
+124.156.152.46,IPv4 address,Cobalt Strike
+38.165.42.45,IPv4 address,Cobalt Strike
+129.226.177.17,IPv4 address,Cobalt Strike
+38.165.42.20,IPv4 address,Cobalt Strike
+156.238.234.107,IPv4 address,Cobalt Strike
+154.12.86.154,IPv4 address,Cobalt Strike
+18.159.106.50,IPv4 address,Cobalt Strike
+23.140.244.25,IPv4 address,Cobalt Strike
+149.88.64.122,IPv4 address,Cobalt Strike
+23.95.233.180,IPv4 address,Cobalt Strike
+47.239.188.48,IPv4 address,Cobalt Strike
+117.72.35.238,IPv4 address,Cobalt Strike
+93.115.203.34,IPv4 address,Cobalt Strike
+43.135.88.242,IPv4 address,Cobalt Strike
+193.124.33.172,IPv4 address,Cobalt Strike
+45.32.116.171,IPv4 address,Cobalt Strike
+117.72.168.103,IPv4 address,Cobalt Strike
+154.201.81.156,IPv4 address,Cobalt Strike
+113.44.39.1,IPv4 address,Cobalt Strike
+23.140.244.32,IPv4 address,Cobalt Strike
+38.12.39.74,IPv4 address,Cobalt Strike
+38.12.39.75,IPv4 address,Cobalt Strike
+154.31.218.206,IPv4 address,Cobalt Strike
+107.173.214.76,IPv4 address,Cobalt Strike
+156.238.235.104,IPv4 address,Cobalt Strike
+156.238.234.135,IPv4 address,Cobalt Strike
+23.140.244.26,IPv4 address,Cobalt Strike
+13.229.126.45,IPv4 address,Cobalt Strike
+124.70.142.36,IPv4 address,Cobalt Strike
+89.23.113.140,IPv4 address,Cobalt Strike
+89.248.165.43,IPv4 address,Cobalt Strike
+91.245.255.41,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+123.60.168.129,IPv4 address,PlugX
+43.153.215.207,IPv4 address,PlugX
+47.242.227.225,IPv4 address,PlugX
+47.75.177.15,IPv4 address,PlugX
+150.109.11.77,IPv4 address,PlugX
+64.176.65.165,IPv4 address,PlugX
+210.16.184.33,IPv4 address,PlugX
+154.36.161.95,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+208.85.16.182,IPv4 address,PlugX
+45.32.148.180,IPv4 address,PlugX
+95.179.245.146,IPv4 address,PlugX
+139.84.227.139,IPv4 address,PlugX
+103.171.34.199,IPv4 address,PlugX
+70.34.197.27,IPv4 address,PlugX
+112.121.161.109,IPv4 address,PlugX
+103.43.18.19,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+52.128.229.101,IPv4 address,PlugX
+52.128.229.100,IPv4 address,PlugX
+52.128.229.102,IPv4 address,PlugX
+52.128.229.99,IPv4 address,PlugX
+52.128.229.98,IPv4 address,PlugX
+150.109.42.65,IPv4 address,PlugX
+64.176.45.53,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+18.142.104.204,IPv4 address,PlugX
+180.178.47.21,IPv4 address,PlugX
+180.178.47.19,IPv4 address,PlugX
+180.178.47.22,IPv4 address,PlugX
+180.178.47.20,IPv4 address,PlugX
+180.178.47.18,IPv4 address,PlugX
+154.223.21.157,IPv4 address,PlugX
+54.251.212.89,IPv4 address,PlugX
+62.60.232.173,IPv4 address,PlugX
+38.60.203.197,IPv4 address,PlugX
+85.90.216.97,IPv4 address,PlugX
+154.213.178.185,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+52.192.183.29,IPv4 address,PlugX
+121.43.186.132,IPv4 address,PlugX
+116.62.194.46,IPv4 address,PlugX
+103.38.81.33,IPv4 address,PlugX
+103.140.238.134,IPv4 address,PlugX
+45.76.218.225,IPv4 address,PlugX
+134.122.134.238,IPv4 address,PlugX
+118.107.19.35,IPv4 address,PlugX
+208.85.17.4,IPv4 address,PlugX
+70.34.215.167,IPv4 address,PlugX
+64.176.6.235,IPv4 address,PlugX
+208.85.18.176,IPv4 address,PlugX
+70.34.215.62,IPv4 address,PlugX
+192.248.183.208,IPv4 address,PlugX
+140.82.55.149,IPv4 address,PlugX
+220.130.204.242,IPv4 address,PlugX
+180.188.197.120,IPv4 address,PlugX
+107.148.1.207,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+154.84.24.184,IPv4 address,PlugX
+154.84.24.183,IPv4 address,PlugX
+43.248.9.172,IPv4 address,PlugX
+43.246.208.107,IPv4 address,PlugX
+27.102.106.148,IPv4 address,PlugX
+111.68.8.106,IPv4 address,PlugX
+143.92.36.155,IPv4 address,PlugX

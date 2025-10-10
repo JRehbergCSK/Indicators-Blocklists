@@ -1,88 +1,4 @@
 Indicator,Type,Description
-91.245.255.41,IPv4 address,PlugX
-195.245.242.234,IPv4 address,PlugX
-123.60.168.129,IPv4 address,PlugX
-43.153.215.207,IPv4 address,PlugX
-47.242.227.225,IPv4 address,PlugX
-47.75.177.15,IPv4 address,PlugX
-150.109.11.77,IPv4 address,PlugX
-64.176.65.165,IPv4 address,PlugX
-210.16.184.33,IPv4 address,PlugX
-154.36.161.95,IPv4 address,PlugX
-223.254.129.212,IPv4 address,PlugX
-208.85.16.182,IPv4 address,PlugX
-45.32.148.180,IPv4 address,PlugX
-95.179.245.146,IPv4 address,PlugX
-139.84.227.139,IPv4 address,PlugX
-103.171.34.199,IPv4 address,PlugX
-70.34.197.27,IPv4 address,PlugX
-112.121.161.109,IPv4 address,PlugX
-103.43.18.19,IPv4 address,PlugX
-194.56.225.144,IPv4 address,PlugX
-52.128.229.101,IPv4 address,PlugX
-52.128.229.100,IPv4 address,PlugX
-52.128.229.102,IPv4 address,PlugX
-52.128.229.99,IPv4 address,PlugX
-52.128.229.98,IPv4 address,PlugX
-150.109.42.65,IPv4 address,PlugX
-64.176.45.53,IPv4 address,PlugX
-20.243.19.18,IPv4 address,PlugX
-18.142.104.204,IPv4 address,PlugX
-180.178.47.21,IPv4 address,PlugX
-180.178.47.19,IPv4 address,PlugX
-180.178.47.22,IPv4 address,PlugX
-180.178.47.20,IPv4 address,PlugX
-180.178.47.18,IPv4 address,PlugX
-154.223.21.157,IPv4 address,PlugX
-54.251.212.89,IPv4 address,PlugX
-62.60.232.173,IPv4 address,PlugX
-38.60.203.197,IPv4 address,PlugX
-85.90.216.97,IPv4 address,PlugX
-154.213.178.185,IPv4 address,PlugX
-167.179.89.246,IPv4 address,PlugX
-52.192.183.29,IPv4 address,PlugX
-121.43.186.132,IPv4 address,PlugX
-116.62.194.46,IPv4 address,PlugX
-103.38.81.33,IPv4 address,PlugX
-103.140.238.134,IPv4 address,PlugX
-45.76.218.225,IPv4 address,PlugX
-134.122.134.238,IPv4 address,PlugX
-118.107.19.35,IPv4 address,PlugX
-208.85.17.4,IPv4 address,PlugX
-70.34.215.167,IPv4 address,PlugX
-64.176.6.235,IPv4 address,PlugX
-208.85.18.176,IPv4 address,PlugX
-70.34.215.62,IPv4 address,PlugX
-192.248.183.208,IPv4 address,PlugX
-140.82.55.149,IPv4 address,PlugX
-220.130.204.242,IPv4 address,PlugX
-180.188.197.120,IPv4 address,PlugX
-107.148.1.207,IPv4 address,PlugX
-63.141.237.208,IPv4 address,PlugX
-154.84.24.184,IPv4 address,PlugX
-154.84.24.183,IPv4 address,PlugX
-43.248.9.172,IPv4 address,PlugX
-43.246.208.107,IPv4 address,PlugX
-27.102.106.148,IPv4 address,PlugX
-111.68.8.106,IPv4 address,PlugX
-143.92.36.155,IPv4 address,PlugX
-135.125.165.178,IPv4 address,Brute Force
-92.63.197.55,IPv4 address,Brute Force
-92.63.197.59,IPv4 address,Brute Force
-158.94.209.100,IPv4 address,Brute Force
-141.98.80.140,IPv4 address,Brute Force
-94.72.115.145,IPv4 address,Brute Force
-185.156.73.166,IPv4 address,Brute Force
-172.236.228.38,IPv4 address,Active Scanning
-195.184.76.45,IPv4 address,Active Scanning
-144.208.127.61,IPv4 address,Active Scanning
-167.94.146.60,IPv4 address,Active Scanning
-45.79.181.94,IPv4 address,Active Scanning
-118.193.56.149,IPv4 address,Active Scanning
-195.184.76.248,IPv4 address,Active Scanning
-147.185.132.25,IPv4 address,Active Scanning
-147.185.132.222,IPv4 address,Active Scanning
-8.219.163.221,IPv4 address,Active Scanning
 82.34.162.127,IPv4 address,Quasar RAT
 152.32.247.91,IPv4 address,Quasar RAT
 193.242.208.53,IPv4 address,Quasar RAT
@@ -2959,3 +2875,47 @@ arianetwork.sbs,Domain,Cobalt Strike
 43.248.9.172,IPv4 address,PlugX
 43.246.208.107,IPv4 address,PlugX
 27.102.106.148,IPv4 address,PlugX
+43.154.232.190,IPv4 address,Quasar RAT
+121.169.59.210,IPv4 address,Quasar RAT
+209.145.59.89,IPv4 address,Quasar RAT
+8.134.74.227,IPv4 address,Quasar RAT
+8.218.71.187,IPv4 address,Quasar RAT
+193.242.208.53,IPv4 address,Quasar RAT
+159.223.52.78,IPv4 address,Quasar RAT
+82.34.162.127,IPv4 address,Quasar RAT
+222.253.182.185,IPv4 address,Quasar RAT
+152.32.247.91,IPv4 address,Quasar RAT
+94.131.130.193,IPv4 address,Quasar RAT
+109.110.184.224,IPv4 address,Quasar RAT
+193.43.104.99,IPv4 address,Cobalt Strike
+152.42.142.116,IPv4 address,Cobalt Strike
+107.173.229.64,IPv4 address,Cobalt Strike
+134.209.92.225,IPv4 address,Cobalt Strike
+57.129.31.214,IPv4 address,Cobalt Strike
+38.180.159.137,IPv4 address,Cobalt Strike
+146.103.40.46,IPv4 address,Cobalt Strike
+178.62.245.228,IPv4 address,Cobalt Strike
+159.223.222.221,IPv4 address,Cobalt Strike
+38.180.232.152,IPv4 address,Cobalt Strike
+45.86.162.222,IPv4 address,Cobalt Strike
+179.43.148.221,IPv4 address,Cobalt Strike
+172.171.130.40,IPv4 address,Cobalt Strike
+210.56.8.83,IPv4 address,Cobalt Strike
+164.90.193.132,IPv4 address,Cobalt Strike
+44.193.204.43,IPv4 address,Cobalt Strike
+145.223.69.185,IPv4 address,Cobalt Strike
+3.208.93.169,IPv4 address,Cobalt Strike
+45.156.87.213,IPv4 address,Cobalt Strike
+13.89.225.15,IPv4 address,Cobalt Strike
+40.69.131.84,IPv4 address,Cobalt Strike
+23.227.196.95,IPv4 address,Cobalt Strike
+185.208.156.230,IPv4 address,Cobalt Strike
+34.101.34.177,IPv4 address,Phishing
+134.122.20.237,IPv4 address,Phishing
+139.59.44.192,IPv4 address,Phishing
+185.68.11.29,IPv4 address,Phishing
+117.250.244.55,IPv4 address,Phishing
+145.131.30.136,IPv4 address,Phishing
+20.174.1.50,IPv4 address,Phishing
+138.197.168.34,IPv4 address,Phishing
+104.248.105.64,IPv4 address,Phishing

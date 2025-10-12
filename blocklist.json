@@ -1,4020 +1,5 @@
 [
     {
-        "indicator": "137.220.154.104",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "137.220.154.120",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "45.141.87.243",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "27.70.157.10",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "137.220.152.126",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "191.91.178.101",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "181.131.217.135",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "112.213.123.48",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "23.27.52.175",
-        "type": "IPv4 address",
-        "description": "DCRat"
-    },
-    {
-        "indicator": "172.235.173.15",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "207.244.249.244",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.159.205.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "31.220.74.13",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "62.146.169.174",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "194.61.120.179",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.108.239.86",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.172.117.18",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "60.205.227.255",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "89.169.165.136",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.223.234.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.162.165.77",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "161.35.25.134",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.190.17.255",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.195.146",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "154.31.217.203",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.59.11.66",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.70.158.198",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.108.113.224",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "31.129.108.115",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.23.212.247",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.130.24.188",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.86.99.166",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "168.110.192.252",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.190.241",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.81.132.171",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "77.90.185.120",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "184.174.96.162",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "37.211.158.4",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.131.2.26",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.227.191.31",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.190.20.46",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.43.163.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "20.118.243.73",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.220.195.197",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "124.158.5.149",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "188.208.197.80",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "138.197.143.1",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.37.184.171",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "85.215.44.146",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.24.123.21",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "68.183.193.39",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.99.16.48",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "151.236.17.64",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.227.231.125",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "43.160.198.199",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "143.110.151.209",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "35.212.172.98",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "147.50.230.91",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.172.190.13",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "77.237.233.73",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "135.220.19.84",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "194.26.192.129",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "85.120.81.144",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "62.171.158.126",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.71.13.103",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.93.31.53",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "161.35.40.73",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "89.233.104.159",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.185.159.140",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.216.82.145",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.126.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "138.68.170.98",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "188.166.147.93",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "158.220.121.238",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "177.124.72.24",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.174.135.178",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "178.128.63.20",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "68.183.60.159",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "158.220.115.82",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "24.199.97.82",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "217.76.57.92",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "14.225.207.73",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "177.136.225.140",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.17.43.218",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "23.137.255.119",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "206.71.148.45",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "176.126.241.4",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.210.248.241",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.101.206.226",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "147.182.234.229",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "202.55.74.98",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "43.135.79.17",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.71.184.214",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.208.127.129",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.190.11.128",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.59.44.30",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "95.130.227.6",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "5.44.45.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "192.210.203.236",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.234.110.166",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.211.5.129",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "91.107.247.253",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "123.57.2.124",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "142.93.166.139",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.227.136.106",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "143.198.136.6",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.22.109.63",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.101.237.123",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.226.101.105",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "23.95.193.221",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "195.43.142.221",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "138.197.224.55",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "209.38.66.239",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "89.213.45.54",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "85.192.40.185",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "77.83.207.173",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "80.87.110.46",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.101.140.228",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "178.128.140.47",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.137.99.53",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "67.207.73.254",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.89.22.158",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "94.198.217.242",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.196.10.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "75.127.0.221",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.57.89",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.94.31.142",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "164.90.197.183",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "36.139.122.41",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "107.189.22.31",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "206.237.127.70",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "86.106.85.183",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "192.144.232.209",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "198.23.164.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "181.174.164.116",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "179.43.172.53",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "101.201.106.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.182.144.76",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "113.192.6.34",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.248.229.157",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "106.75.8.65",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "129.211.0.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.110.63.174",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "178.128.204.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "216.120.201.133",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.23.184.180",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.71.16.171",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "194.233.73.173",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "106.12.174.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.69.194.85",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.59.79.75",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "134.209.27.140",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "62.234.116.46",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "166.108.200.194",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "24.199.93.68",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.69.221.5",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "117.72.201.219",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "147.93.6.114",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "196.196.19.54",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.103.21.230",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "36.212.254.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.99.198.194",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.239.125",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "83.229.124.251",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.209.42.105",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "143.198.16.180",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "192.3.199.107",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "51.195.148.21",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "62.113.59.192",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "191.235.232.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "4.201.195.182",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "79.110.49.52",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "202.128.123.178",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.236.228.89",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "150.129.80.83",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "134.209.94.119",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "184.168.28.157",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.91.103.204",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "195.10.205.102",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "196.251.80.215",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "5.129.214.234",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "89.117.73.110",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "119.8.103.108",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "57.130.30.204",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "91.99.234.92",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "5.252.103.175",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "20.206.138.78",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "66.102.138.57",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "43.246.208.241",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.172.109.72",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "2.58.56.11",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "49.234.26.82",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.204.212.84",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "161.97.116.14",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "5.129.253.196",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "38.54.40.64",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.126.198.202",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "69.67.173.228",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.65.53.179",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.194.143.193",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.86.80.127",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.185.121",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "72.11.149.11",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "180.131.145.148",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "128.241.238.191",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "176.97.124.125",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "146.190.95.70",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "23.105.194.194",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.150.148",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "114.44.193.55",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.44.181.132",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "209.74.88.217",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.141.215.25",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.215.77.42",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.245.126.17",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "23.92.29.169",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "176.108.241.162",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "107.148.77.8",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.213.22.67",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "93.95.227.140",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "84.252.95.68",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.147.22.155",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "217.154.212.25",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.86.90.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.71.68.223",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.172.103.6",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "101.36.121.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "91.193.19.109",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "164.92.115.36",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "75.119.146.156",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.94.84.150",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "176.113.82.154",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "217.196.104.26",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "43.163.196.208",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.132.104.246",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.176.56.179",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "31.57.33.95",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.180.212.140",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.245.237.112",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.131.64.139",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "95.217.97.220",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "178.132.0.217",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.89.196.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "38.110.228.165",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.227.21.148",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.255.66.126",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.229.226.59",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "204.188.228.199",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "49.232.29.245",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "182.182.175.25",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.177.239.56",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "138.197.14.247",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "196.251.86.197",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.210.236.220",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.232.161.164",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.245.133.15",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.252.249.223",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.223.221.202",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "164.92.224.52",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "93.95.226.224",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.9.221.114",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "23.94.99.26",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "202.61.137.217",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "139.9.190.100",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.120.46.210",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "164.92.186.156",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "143.198.249.246",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "150.136.135.145",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "142.202.82.250",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "24.144.82.16",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "31.57.109.4",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "107.174.95.172",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "157.245.144.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "222.255.214.236",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "86.106.85.207",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "222.255.214.206",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.203.148.17",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "138.197.64.36",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "150.107.38.147",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "106.15.192.7",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "137.184.231.112",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.218.138.77",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.65.241.15",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.137.122.62",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "84.21.171.168",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "196.191.244.137",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "51.83.133.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "38.147.171.158",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "62.146.176.213",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.146.49.105",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.42.25.65",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "143.198.1.58",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.208.156.158",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.225.64.178",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "167.99.148.49",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.217.245.162",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.216.80.229",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "134.209.93.110",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "85.215.55.232",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.93.8.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.245.118.81",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.214.6.111",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "107.175.233.90",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "4.201.180.197",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "52.173.131.28",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.232.23.92",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "182.92.159.149",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "49.232.95.245",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "84.247.172.149",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "151.115.54.25",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "159.223.239.35",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.109.65.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "201.23.67.113",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.227.142.218",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "170.64.233.123",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "157.245.121.29",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.122.21.68",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "8.217.145.90",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "213.252.232.249",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.164.76.42",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "47.99.127.62",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "198.46.253.221",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "217.73.60.6",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.28",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.29",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.8.144.240",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.25",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.26",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.24",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.14",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.18",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.8",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.16",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.20",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.19",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.12",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.2",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.15",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.254.104",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.9",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "104.233.252.10",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.29.160.97",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "14.103.164.134",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "172.86.88.202",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "91.206.169.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.233.166.28",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "128.199.189.36",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "193.70.25.84",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.172.116.93",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "170.64.215.52",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "72.14.190.211",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.176.228.127",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "206.189.1.112",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "113.45.177.81",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "158.247.206.248",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "196.251.83.22",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "168.119.241.157",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "144.172.98.237",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "103.56.19.86",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "64.176.36.47",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "192.145.29.105",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.209.31.28",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "43.134.67.236",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "134.209.24.66",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "46.101.158.51",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "147.45.211.248",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.151.62.237",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "113.45.75.45",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "185.117.73.147",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "165.22.37.20",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "45.55.98.63",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "216.126.225.57",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.100.131.1",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "148.113.13.125",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "31.172.75.119",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "34.40.62.12",
-        "type": "IPv4 address",
-        "description": "Sliver"
-    },
-    {
-        "indicator": "101.133.148.66",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "166.88.141.79",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.55.99.215",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.155.42.155",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "15.235.143.53",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "66.63.166.218",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "117.72.184.172",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.65.96.18",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.190.224.63",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.25.91.151",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.148.194.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.204.207.223",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "156.233.233.134",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "114.132.238.70",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.140.245.31",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.43.178.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.134.195.179",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "140.143.132.170",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "146.59.17.67",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.130.26.216",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.94.199.115",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.156.101.186",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "167.172.75.250",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.173.127.60",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.138.167.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.233.177.134",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.190.198.55",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "27.124.22.25",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.236.110.95",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.26.23.94",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "178.16.55.53",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.121.137.8",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "159.75.37.212",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.100.168.4",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "158.180.74.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.223.51.141",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "46.30.189.8",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "74.48.108.208",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.156.74.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "44.210.81.21",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "2.58.14.193",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.100.73.214",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.230.33",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "159.89.55.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "58.87.96.198",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.199.81.35",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.96.73.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.42.175.89",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.89.85.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.75.224.31",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "179.43.190.16",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.139.50.42",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.56.11.129",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.112.84.248",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.196.241.226",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "52.248.41.253",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.236.110.1",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.172.122.112",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.143.234.221",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "152.42.241.166",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "51.89.247.226",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.106.133.52",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "46.101.89.152",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.216.82.145",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.248.18",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.89.201.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "157.254.167.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "77.81.138.160",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.132.173.62",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.92.137.130",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.105.190",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.237.101.95",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.86.231.78",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.208.158.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.8.102.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "212.50.235.174",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.137.100.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.99.121.200",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "116.204.34.3",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.75.215.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.94.49.188",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "162.14.124.73",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.14.116.17",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "74.119.193.253",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.153.205.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.95.35.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.147.185.189",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "113.250.188.15",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "217.60.248.134",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.165.22.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.254.230.230",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.125.64.228",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.193.0",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "62.234.52.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.130.81.18",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "198.46.159.243",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "137.175.17.181",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "137.175.17.92",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.243.230.121",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.219.53.12",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "74.48.184.77",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.139.160",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "108.61.182.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.76.70.6",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "64.227.126.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.221.35.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "62.60.232.219",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.55.62.121",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.163.107.212",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.220.30.223",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.156.1.217",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.91.67.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.204.5.98",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "37.120.239.48",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "217.154.212.25",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.239.48.131",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.3.39.153",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.42.63.158",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "146.190.171.156",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "182.161.38.30",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "20.212.245.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.138.10.141",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.117.67.150",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.76.245.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "159.203.77.159",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.95.240.202",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "115.159.33.118",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "117.72.39.83",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.135.129.113",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.55.81.147",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "39.105.9.73",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.73.66.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "149.28.131.88",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.93.167.248",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.79.186.158",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.223.25.217",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.223.181.207",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.26.210.7",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.43.3.136",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "180.76.104.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "178.128.214.74",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "210.2.169.230",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.130.214.107",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.152.198.50",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "62.113.119.115",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "91.232.81.255",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "118.24.139.109",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.3.86.10",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "166.88.234.38",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.233.13.49",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "149.30.255.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.153.168.136",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.55.86.120",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.215.48.93",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.202.23.61",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "156.234.94.209",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "77.37.65.187",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.92.141.63",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.177.169.171",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.156.66.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.21.42",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "206.119.179.86",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.172.217.220",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "114.55.2.41",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "120.26.21.38",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.134.230.84",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "116.205.247.26",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.204.8.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.55.71.24",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.44.26.58",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "181.174.164.233",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "61.111.244.197",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.163.116.82",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "122.152.196.122",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "74.101.165.40",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.43.96.3",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "111.68.6.170",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.149.187.88",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "192.227.231.29",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "111.231.115.25",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "66.42.54.125",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "176.223.112.108",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.26.124",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.60.205",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "146.70.232.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "129.28.68.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.54.40.178",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "51.254.32.180",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.207.192.118",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "13.211.134.20",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "175.178.104.252",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.24.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.16.78",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.25.105",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "209.182.238.91",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.156.137.45",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.104.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.12.31.97",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.117.189.4",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "3.10.4.94",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.55.216.92",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.58.219.40",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "196.251.80.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.55.193.28",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.49.145",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.56.123",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.26.100",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.6.232.175",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "107.173.214.76",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.56.98",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.49.154",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.16.85",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.56.115",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.139.204.206",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.49.137",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.25.98",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.117.94.240",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.219.109.205",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "144.172.103.90",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.177.152.250",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.236.224",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.12.239.124",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.197.2.55",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "23.95.14.48",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "183.63.173.29",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.18.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.128.215.191",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.21.43",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.177.152.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.21.54",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.19.175",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.56.114",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.173.21.57",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.201.74.112",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "8.219.1.155",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.57.2.124",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.242.32.131",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.90",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "117.72.159.96",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "139.180.196.38",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.75.3.229",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.150.65.217",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "1.12.53.76",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.186.244.127",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "119.29.254.242",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "101.43.152.156",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "173.232.146.69",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.233.32.31",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "91.208.162.61",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "103.171.35.26",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "159.223.55.105",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.3.34.19",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "82.118.21.14",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "166.88.61.175",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.144",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.132",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.152",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.137",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.139",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.142",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.151",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.133",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.145",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.150",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.138",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.134",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.131",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.147",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.148",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.146",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.200.192.69",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.153",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.130",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.141",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.92.177.199",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.135",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.16.153",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.92.177.221",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.77",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.129",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.143",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.83",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.33.184.235",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.136",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.77",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.155",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.202.220",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.156",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.200.192.74",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.79",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.202.215",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.202.209",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.200.154",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.33.184.240",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.33.184.227",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.202.210",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.68",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.92.177.214",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.201.93",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.200.192.78",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.200.192.77",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.72",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.202.204",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.87",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.79",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "134.175.158.94",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "114.132.28.230",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.16.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.50.149",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.204.213.197",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.159.41",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "61.184.13.207",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.32.11.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "18.130.254.238",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "81.71.10.202",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "189.1.242.4",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.204.212.176",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.248.98",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "185.62.57.166",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "154.82.81.162",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "124.156.164.189",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.242.233.164",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "152.32.128.116",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.238.160.14",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "43.138.104.119",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.33.184.233",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "194.156.98.182",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.90",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "47.115.79.183",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "123.56.182.229",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "112.124.56.133",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.233.252.12",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.74",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.81",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.47.103.169",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.60.206.181",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "149.104.25.143",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.16.130",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.33.184.237",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.16.148",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "45.192.193.92",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "110.40.58.204",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.112.254.157",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.55.177.241",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "42.194.227.223",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "49.232.181.125",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "38.14.16.139",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.168.135.70",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.233.252.1",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "27.124.53.57",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "106.53.50.115",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "172.232.211.140",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.233.252.11",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "104.233.252.21",
-        "type": "IPv4 address",
-        "description": "Cobalt Strike"
-    },
-    {
-        "indicator": "193.233.210.229",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "199.96.164.82",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "31.134.1.188",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "93.177.95.14",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.49.102",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "135.125.165.178",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.233.219.248",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "31.134.9.148",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.80.107.111",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "194.180.233.126",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "94.154.127.236",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.147.234.159",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "140.235.169.144",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "140.235.168.65",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "212.119.40.62",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "64.49.39.173",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "194.180.233.220",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.233.217.57",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.142.39.200",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.16.176",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "94.72.115.145",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.133.115.106",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.48.205",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.147.8.21",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "185.156.73.166",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.159.23.41",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.233.220.90",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "31.134.4.57",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "185.77.221.33",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "158.94.209.100",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.80.106.198",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.49.167",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.233.209.180",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "31.134.9.244",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "23.230.223.142",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.233.220.254",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "194.180.232.123",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "64.49.36.97",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "94.154.127.28",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "199.96.164.35",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "140.235.171.192",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.17.239",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.147.234.72",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "89.19.34.164",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.80.107.211",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "167.253.17.192",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "64.49.37.186",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "31.134.5.180",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.56.20.98",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "140.235.2.220",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.136.25.245",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.29.13.64",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "91.196.152.154",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "13.86.104.14",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "51.254.49.108",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "195.184.76.249",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "91.196.152.249",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "198.235.24.52",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "184.105.247.252",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "91.196.152.129",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "91.196.152.63",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "195.184.76.252",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "45.134.13.220",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "23.234.68.231",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "91.230.168.101",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "51.254.49.96",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "199.45.154.127",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "45.142.154.37",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
         "indicator": "185.62.87.191",
         "type": "IPv4 address",
         "description": "AsyncRAT"
@@ -16623,5 +12608,1430 @@
         "indicator": "82.118.21.14",
         "type": "IPv4 address",
         "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "hr-brand.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-carrier.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-exhibits.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-experts.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-fedex.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-hubx.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-hubx.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-imagery.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-intelligenceafrica.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-key.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-kobe.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-lippe.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-matters.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-medical.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-soluciones.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-spotify.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-transform.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-trends-daily.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-wbd.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sso-cdn.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sso-champs.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-amp-bbs.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-b-sports.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-biru.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-centaurus.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-defense.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-dysxb.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-framelabs.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-hotels.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-igame.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-private.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-regio.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-resource.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-starvalley.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-vottak-apps.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-zeus.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-acconts.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-ar.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-casinomaxi198.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-casinometropol202.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-center-sumire.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-coinsquare.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-garantie.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-impex-sat.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-inccojp.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-kantar.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-logistic.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-max-ratespot.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-mekdam.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-redistribution-locker.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-seguros.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-specialist.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-the-young.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-thirdparty.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-wwfuel.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-angels.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-asus.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-chartway.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-cuttlesoft.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-denver.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-des.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-desk-wellness.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-hive.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-immobilier.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-itoigawa.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-ji.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-kidz-learn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-messagingsquareup.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-navi.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-omni.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-oncall.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-shingles.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-subscribill.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-telstra.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-uber.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-whset.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-with-app.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-wset.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "acrisure-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bluediamond-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "call-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "casino-online-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdesign-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "crystal-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "elysian-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "etihadalkhaliji-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "europa-casino-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fun-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fun24-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "haoren-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "humancentric-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ideaco-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "kyniska-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mon-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "no-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "onlineclinic-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "polarisconsulting-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ppd-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "roosted-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "scpm-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sequel-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sg-casino-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "shaked-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sira-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "siraj-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "smoore-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "smt-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "snelling-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sportingbull-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "stelario-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "teamv-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "topchoicecasino-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tortuga-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "transcom-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "traze-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "units-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "valora-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "vietlinh-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "vinyl-casino-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "warehouse-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "wazamba-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "wyzant-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "yoshiken-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cazeus-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "etihadalkhaliji-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "carrier-sso.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "d-sso.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "4chan-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bas-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "crowdriff-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fitcore-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "glassdoor-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "language-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mailzoto-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "node-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "nt-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "outlook-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "strat-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tambtorg-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tdesktop-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ti-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ticketme-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "vendor-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "h-cdn.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "new-cdn.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "wow-cdn.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "24x7-service-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "abt-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "aerosystems-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "alibaba-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "allergy-life-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "alzheimers-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "anyone-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "asahi-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "beast-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "beastlabs-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "beliggenhed-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "block-chain-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "coa-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "coh-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "counselor-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "curve-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cybersecurity-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "dcp-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ej-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "eppendorf-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "equipiment-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "freelance-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fukuoka-chinese-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hpleasing-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hrg-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "huuhu-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ilkley-it-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "iotya-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "it-technical-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "japan-print-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "karibu-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "keamane-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "linux-server-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "macom-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mein-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "migaku-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "minnig-bau-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mipc-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "n-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "naval-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "nightbusiness-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "online-expert-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "opensea-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "oracleops-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "orlando-it-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "personal-care-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sea-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "shade-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "sj-life-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "smart-solid-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "taskforce-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "vn-ocb-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "volunteer-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "walk-apple-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "wing-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "yoga-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hikkoshi-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "karada-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lunchly-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mirai-work-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "online-marketing-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "p-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "shikin-choutatsu-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "trump-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "your-tech-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "yourlegal-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ayoub-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "billing-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bkget-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "browser-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cancer-settlement-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "chemistrycounslr-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "contra-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "crash-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "dui-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "dx-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "enhance-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "every-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "family-court-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fit-for-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "friendmatchfndr-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "geek-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "globo-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "google-support-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "greatplains-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "handy-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hive-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ico-media-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "insta-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mbh-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mydisney-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "myparking-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "okx-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "pain-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "pc-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "plovdiv-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "reflect-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "small-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "stomach-lawsuit-claims-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "theme-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tonplay-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tutoring-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "viking-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "frontend-help.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "212.11.64.126",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "191.93.118.254",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "164.68.120.30",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "185.196.11.223",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "94.154.35.73",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "157.20.182.23",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "157.20.182.24",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "158.94.208.206",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "188.218.110.200",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "45.81.23.27",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "185.62.87.191",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "157.230.173.109",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "176.96.137.140",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "2.58.56.187",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "45.141.215.69",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "195.3.223.146",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "124.198.132.186",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "82.65.19.134",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "176.202.9.84",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "103.190.107.26",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "179.13.4.196",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "69.88.157.4",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "45.81.113.90",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "185.196.10.204",
+        "type": "IPv4 address",
+        "description": "AsyncRAT"
+    },
+    {
+        "indicator": "16.163.161.107",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "45.129.199.190",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "5.252.178.38",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "87.121.52.76",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "5.252.178.31",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "185.167.61.179",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "104.167.16.95",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "193.200.16.184",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "64.176.80.33",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "103.51.144.19",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
+    },
+    {
+        "indicator": "43.159.37.130",
+        "type": "IPv4 address",
+        "description": "ShadowPad"
     }
 ]

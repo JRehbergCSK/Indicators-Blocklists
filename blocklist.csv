@@ -1,89 +1,4 @@
 Indicator,Type,Description
-150.109.42.65,IPv4 address,PlugX
-223.254.129.212,IPv4 address,PlugX
-52.128.229.101,IPv4 address,PlugX
-52.128.229.102,IPv4 address,PlugX
-52.128.229.98,IPv4 address,PlugX
-195.245.242.234,IPv4 address,PlugX
-52.128.229.99,IPv4 address,PlugX
-52.128.229.100,IPv4 address,PlugX
-103.97.177.24,IPv4 address,PlugX
-154.36.161.95,IPv4 address,PlugX
-103.171.34.199,IPv4 address,PlugX
-47.242.227.225,IPv4 address,PlugX
-43.153.215.207,IPv4 address,PlugX
-123.60.168.129,IPv4 address,PlugX
-180.178.47.22,IPv4 address,PlugX
-180.178.47.20,IPv4 address,PlugX
-180.178.47.18,IPv4 address,PlugX
-180.178.47.21,IPv4 address,PlugX
-47.75.177.15,IPv4 address,PlugX
-91.245.255.41,IPv4 address,PlugX
-194.56.225.144,IPv4 address,PlugX
-150.109.11.77,IPv4 address,PlugX
-180.178.47.19,IPv4 address,PlugX
-18.142.104.204,IPv4 address,PlugX
-103.43.18.19,IPv4 address,PlugX
-112.121.161.109,IPv4 address,PlugX
-80.240.20.254,IPv4 address,PlugX
-70.34.215.167,IPv4 address,PlugX
-70.34.215.62,IPv4 address,PlugX
-64.176.65.165,IPv4 address,PlugX
-208.85.17.4,IPv4 address,PlugX
-45.32.148.180,IPv4 address,PlugX
-139.84.227.139,IPv4 address,PlugX
-210.16.184.33,IPv4 address,PlugX
-95.179.245.146,IPv4 address,PlugX
-70.34.197.27,IPv4 address,PlugX
-62.60.232.173,IPv4 address,PlugX
-208.85.16.182,IPv4 address,PlugX
-140.82.55.149,IPv4 address,PlugX
-180.188.197.123,IPv4 address,PlugX
-52.192.183.29,IPv4 address,PlugX
-220.130.204.242,IPv4 address,PlugX
-64.176.6.235,IPv4 address,PlugX
-208.85.18.176,IPv4 address,PlugX
-54.251.212.89,IPv4 address,PlugX
-85.90.216.97,IPv4 address,PlugX
-20.243.19.18,IPv4 address,PlugX
-167.179.89.246,IPv4 address,PlugX
-154.223.21.157,IPv4 address,PlugX
-192.248.183.208,IPv4 address,PlugX
-64.176.45.53,IPv4 address,PlugX
-38.60.203.197,IPv4 address,PlugX
-154.213.178.185,IPv4 address,PlugX
-121.43.186.132,IPv4 address,PlugX
-116.62.194.46,IPv4 address,PlugX
-103.38.81.33,IPv4 address,PlugX
-103.140.238.134,IPv4 address,PlugX
-45.76.218.225,IPv4 address,PlugX
-118.107.19.35,IPv4 address,PlugX
-180.188.197.120,IPv4 address,PlugX
-135.125.165.178,IPv4 address,Brute Force
-94.72.115.145,IPv4 address,Brute Force
-45.227.254.10,IPv4 address,Brute Force
-91.92.242.251,IPv4 address,Brute Force
-178.16.55.65,IPv4 address,Brute Force
-91.92.240.209,IPv4 address,Brute Force
-45.142.193.72,IPv4 address,Brute Force
-158.94.209.186,IPv4 address,Brute Force
-175.152.197.35,IPv4 address,Active Scanning
-128.1.132.111,IPv4 address,Active Scanning
-183.160.194.54,IPv4 address,Active Scanning
-64.62.156.231,IPv4 address,Active Scanning
-64.62.156.223,IPv4 address,Active Scanning
-47.236.227.31,IPv4 address,Active Scanning
-205.210.31.29,IPv4 address,Active Scanning
-175.152.28.251,IPv4 address,Active Scanning
-66.132.153.122,IPv4 address,Active Scanning
-162.142.125.45,IPv4 address,Active Scanning
-64.62.156.230,IPv4 address,Active Scanning
-165.154.119.217,IPv4 address,Active Scanning
-220.250.11.40,IPv4 address,Active Scanning
-64.62.156.224,IPv4 address,Active Scanning
-120.39.36.238,IPv4 address,Active Scanning
-64.62.156.222,IPv4 address,Active Scanning
-205.210.31.220,IPv4 address,Active Scanning
 222.253.182.185,IPv4 address,Quasar RAT
 43.154.232.190,IPv4 address,Quasar RAT
 159.223.52.78,IPv4 address,Quasar RAT
@@ -3123,3 +3038,216 @@ microsoftbulk.com,Domain,Cobalt Strike
 103.38.81.33,IPv4 address,PlugX
 103.140.238.134,IPv4 address,PlugX
 118.107.19.35,IPv4 address,PlugX
+hr-arting-group.com,Domain,Phishing
+hr-blueprints.com,Domain,Phishing
+hr-brain.com,Domain,Phishing
+hr-buddies.com,Domain,Phishing
+hr-cak.com,Domain,Phishing
+hr-catalyst.com,Domain,Phishing
+hr-dental.com,Domain,Phishing
+hr-five.com,Domain,Phishing
+hr-gids.com,Domain,Phishing
+hr-idealbathroms.com,Domain,Phishing
+hr-marine.com,Domain,Phishing
+hr-newhomes.com,Domain,Phishing
+hr-rivertide.com,Domain,Phishing
+hr-smahrt.com,Domain,Phishing
+hr-software-blog.com,Domain,Phishing
+hr-software-uae.com,Domain,Phishing
+hr-toth.com,Domain,Phishing
+hr-unite.com,Domain,Phishing
+hr-zone24x7.com,Domain,Phishing
+okta-gov.com,Domain,Phishing
+okta-vytlone-login.com,Domain,Phishing
+cdn-binance.com,Domain,Phishing
+cdn-biying.com,Domain,Phishing
+cdn-ctacloud.net,Domain,Phishing
+cdn-getplayer.com,Domain,Phishing
+cdn-legal.com,Domain,Phishing
+cdn-rix.com,Domain,Phishing
+cdn-service.net,Domain,Phishing
+cdn-ubt.com,Domain,Phishing
+support-accounts-help.com,Domain,Phishing
+support-casinomaxi206.com,Domain,Phishing
+support-departement.net,Domain,Phishing
+support-dior.com,Domain,Phishing
+support-fod-apps.com,Domain,Phishing
+support-fr-redistribution.com,Domain,Phishing
+support-fyte.com,Domain,Phishing
+support-grp.com,Domain,Phishing
+support-ing.com,Domain,Phishing
+support-kiphq.com,Domain,Phishing
+support-kycsecure.com,Domain,Phishing
+support-myparcel-be.com,Domain,Phishing
+support-mypaymentvault.com,Domain,Phishing
+support-ops.com,Domain,Phishing
+support-prime-video.com,Domain,Phishing
+support-salezhelp.com,Domain,Phishing
+support-tp.com,Domain,Phishing
+help-2-health.com,Domain,Phishing
+help-courtage.com,Domain,Phishing
+help-indeed.com,Domain,Phishing
+help-line.com,Domain,Phishing
+help-love-go-viral.com,Domain,Phishing
+help-mobile.net,Domain,Phishing
+help-nepal.com,Domain,Phishing
+help-servis.com,Domain,Phishing
+help-shop.com,Domain,Phishing
+help-supports-gemini.com,Domain,Phishing
+help-you-assistance.com,Domain,Phishing
+alandalus-hr.com,Domain,Phishing
+autospot-dubrava-hr.com,Domain,Phishing
+cedar-hr.com,Domain,Phishing
+cerebrix-hr.com,Domain,Phishing
+cityofmedford-hr.com,Domain,Phishing
+concrete-hr.com,Domain,Phishing
+craft-hr.com,Domain,Phishing
+dejonge-hr.com,Domain,Phishing
+department-gdt-hr.com,Domain,Phishing
+empowered-hr.com,Domain,Phishing
+evolution-hr.com,Domain,Phishing
+limburi-hr.com,Domain,Phishing
+movie24-hr.com,Domain,Phishing
+novus-hr.com,Domain,Phishing
+nsr-office-hr.com,Domain,Phishing
+onyx-hr.com,Domain,Phishing
+pearson-hr.com,Domain,Phishing
+resonate-hr.com,Domain,Phishing
+seed-hr.com,Domain,Phishing
+surety-hr.com,Domain,Phishing
+teleperformanceusa-hr.com,Domain,Phishing
+ur-hr.com,Domain,Phishing
+vrtic-sunce-hr.com,Domain,Phishing
+wideron-hr.com,Domain,Phishing
+hubspotstarter-hr.net,Domain,Phishing
+j2-sso.com,Domain,Phishing
+mairie-sso.com,Domain,Phishing
+daf-okta.com,Domain,Phishing
+uni-okta.com,Domain,Phishing
+adnium-cdn.com,Domain,Phishing
+anycast-cdn.com,Domain,Phishing
+aon-ade-groupe-cdn.com,Domain,Phishing
+blade-cdn.com,Domain,Phishing
+bz-cdn.com,Domain,Phishing
+cloudlink-cdn.com,Domain,Phishing
+dtf-cdn.com,Domain,Phishing
+file-cdn.com,Domain,Phishing
+first-cdn.com,Domain,Phishing
+jriver-cdn.com,Domain,Phishing
+lat-cdn.com,Domain,Phishing
+lb01-emea-maediahoster-cdn.com,Domain,Phishing
+mael-cdn.com,Domain,Phishing
+offergate-apps-download8-cdn.com,Domain,Phishing
+secure-cdn.com,Domain,Phishing
+sport-cdn.com,Domain,Phishing
+wave-cdn.com,Domain,Phishing
+xen-cdn.com,Domain,Phishing
+aixs-cdn.net,Domain,Phishing
+cablecast-cdn.net,Domain,Phishing
+tel-cdn.net,Domain,Phishing
+2m-support.com,Domain,Phishing
+adaptive-support.com,Domain,Phishing
+amzn-support.com,Domain,Phishing
+bookkeeping-support.com,Domain,Phishing
+buddy-support.com,Domain,Phishing
+business-office-computer-support.com,Domain,Phishing
+center-support.com,Domain,Phishing
+ci-support.com,Domain,Phishing
+color-support.com,Domain,Phishing
+costumer-support.com,Domain,Phishing
+decapage-tout-support.com,Domain,Phishing
+driveservice-support.com,Domain,Phishing
+ebs-online-support.com,Domain,Phishing
+eternal-support.com,Domain,Phishing
+game-support.com,Domain,Phishing
+handle-support.com,Domain,Phishing
+helps-ledger-support.com,Domain,Phishing
+homework-support.com,Domain,Phishing
+iizakaonsen-support.com,Domain,Phishing
+informa-exhibitor-support.com,Domain,Phishing
+jcc-support.com,Domain,Phishing
+jonan-support.com,Domain,Phishing
+kousyunyu-support.com,Domain,Phishing
+ledger-italia-support.com,Domain,Phishing
+louisburg-it-support.com,Domain,Phishing
+medica-support.com,Domain,Phishing
+mqorelogic-support.com,Domain,Phishing
+obaken-support.com,Domain,Phishing
+online-live-support.com,Domain,Phishing
+orotig-support.com,Domain,Phishing
+ortving-support.com,Domain,Phishing
+pro-it-support.com,Domain,Phishing
+profit-support.com,Domain,Phishing
+provide-support.com,Domain,Phishing
+quicken-phone-support.com,Domain,Phishing
+quisy-support.com,Domain,Phishing
+raleigh-networking-it-support.com,Domain,Phishing
+res-support.com,Domain,Phishing
+rika-support.com,Domain,Phishing
+rise-support.com,Domain,Phishing
+safeasy-support.com,Domain,Phishing
+sgt-support.com,Domain,Phishing
+suido-pro-support.com,Domain,Phishing
+sys-tech-support.com,Domain,Phishing
+t2t-support.com,Domain,Phishing
+timespecialist-support.com,Domain,Phishing
+vets-support.com,Domain,Phishing
+wepurple-support.com,Domain,Phishing
+growth-support.net,Domain,Phishing
+ks-support.net,Domain,Phishing
+re-support.net,Domain,Phishing
+research-support.net,Domain,Phishing
+setsuritsu-support.net,Domain,Phishing
+accountsuite-help.com,Domain,Phishing
+ads-help.com,Domain,Phishing
+anshin-help.com,Domain,Phishing
+eci-help.com,Domain,Phishing
+facebookdirect-help.com,Domain,Phishing
+hoken-help.com,Domain,Phishing
+information-canada-post18036-help.com,Domain,Phishing
+legal-consumer-help.com,Domain,Phishing
+oei-help.com,Domain,Phishing
+packaging-help.com,Domain,Phishing
+phantom-help.com,Domain,Phishing
+rhino-help.com,Domain,Phishing
+studio-help.com,Domain,Phishing
+truck-accident-help.com,Domain,Phishing
+uro-help.com,Domain,Phishing
+109.110.184.224,IPv4 address,Quasar RAT
+159.223.52.78,IPv4 address,Quasar RAT
+190.134.52.146,IPv4 address,Quasar RAT
+209.145.59.89,IPv4 address,Quasar RAT
+193.242.208.53,IPv4 address,Quasar RAT
+121.169.59.210,IPv4 address,Quasar RAT
+102.205.170.10,IPv4 address,Quasar RAT
+43.154.232.190,IPv4 address,Quasar RAT
+8.218.71.187,IPv4 address,Quasar RAT
+222.253.182.185,IPv4 address,Quasar RAT
+8.134.74.227,IPv4 address,Quasar RAT
+82.34.162.127,IPv4 address,Quasar RAT
+152.32.247.91,IPv4 address,Quasar RAT
+94.131.130.193,IPv4 address,Quasar RAT
+107.173.229.64,IPv4 address,Cobalt Strike
+38.180.159.137,IPv4 address,Cobalt Strike
+164.90.193.132,IPv4 address,Cobalt Strike
+38.180.232.152,IPv4 address,Cobalt Strike
+172.171.130.40,IPv4 address,Cobalt Strike
+2.58.14.73,IPv4 address,Cobalt Strike
+179.43.148.221,IPv4 address,Cobalt Strike
+178.62.245.228,IPv4 address,Cobalt Strike
+134.209.92.225,IPv4 address,Cobalt Strike
+193.43.104.99,IPv4 address,Cobalt Strike
+57.129.31.214,IPv4 address,Cobalt Strike
+45.86.162.222,IPv4 address,Cobalt Strike
+146.103.40.46,IPv4 address,Cobalt Strike
+152.42.142.116,IPv4 address,Cobalt Strike
+107.189.17.140,IPv4 address,Cobalt Strike
+159.223.222.221,IPv4 address,Cobalt Strike
+13.89.225.15,IPv4 address,Cobalt Strike
+145.223.69.185,IPv4 address,Cobalt Strike
+210.56.8.83,IPv4 address,Cobalt Strike
+44.193.204.43,IPv4 address,Cobalt Strike
+3.208.93.169,IPv4 address,Cobalt Strike
+45.156.87.213,IPv4 address,Cobalt Strike
+40.69.131.84,IPv4 address,Cobalt Strike
+23.227.196.95,IPv4 address,Cobalt Strike

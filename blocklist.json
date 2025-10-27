@@ -1,1510 +1,5 @@
 [
     {
-        "indicator": "212.11.64.126",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "188.218.110.200",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "158.94.208.206",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "164.68.120.30",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "185.196.11.223",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "178.16.54.222",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "94.154.35.73",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "45.81.23.27",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "185.62.87.191",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "191.93.118.254",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "157.230.173.109",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "157.20.182.24",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "157.20.182.23",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "2.58.56.187",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "176.96.137.140",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "45.141.215.69",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "195.3.223.146",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "124.198.132.186",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "82.65.19.134",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "176.202.9.84",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "103.190.107.26",
-        "type": "IPv4 address",
-        "description": "AsyncRAT"
-    },
-    {
-        "indicator": "64.176.80.33",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "43.159.37.130",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "103.51.144.19",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "152.114.194.166",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "185.167.61.179",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "5.252.178.31",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "45.129.199.190",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "5.252.178.38",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "104.167.16.95",
-        "type": "IPv4 address",
-        "description": "ShadowPad"
-    },
-    {
-        "indicator": "hr-aerzte.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-aitech.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-brightport.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-comfortitalia.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-consult.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-freelance.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-horizons.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-horizons.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-snpc.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-ssmpcoop.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-station.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-supply.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-swift.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-trak.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-valve.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hr-woodworking.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-id.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-inter.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-mlnc-q7sk.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-substack.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sso-tktk-l8sy.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-archived.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-at-ft.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-gateway.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-gdc.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-hammerhead.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-haruno.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-jsnode-call.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-platform.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cdn-sj.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-app.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-biz.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-customers.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-energie.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-fastgeolocate.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-for-customers-online.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-gsi.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-happyhome.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-lunchalpha.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-o-meter.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-pp.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-shopify.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-standing-order-cancel.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "support-your-gathering.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-123hp.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-4u-meeting.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-activefanpagesupport.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-bit.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-center-thailand.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-ehs.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-kj.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-portalrecovery.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-secure-ledger.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-sentinelwealthr.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-sentinelwealthrecovery.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-sentinelwealthrecovery.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "help-trust-wallet.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "adfs-alliance.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "20bet-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "abm-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "alcatel-lucent-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "alice-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "alphago-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "arab-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ascend-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "axon-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "berkom-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bet365-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "calendar-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "canna-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "catalyze-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cc-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "copula-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cortlandacres-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cubic-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "fab-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ffjy-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "goway-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "grazia-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hey-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "highridge-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kwp-inside-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lattice-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mission-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "nobs-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ogilvy-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "pioneer-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "prosper-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "raise-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "referral-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "reliance-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "riotgames-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sasha-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "shareek-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "smartlink-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sx-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "techcycle-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tobe-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "vantage-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "won-hr.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cad-hr.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ma-hr.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "it-sso.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tha-sso.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tml-sso.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bolt-eu-okta.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ledgerfr-okta.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "5t-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "9bf9f797be0a4677a8-akamai-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ab-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "api2-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bbcg-staging-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "budwatcher-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ce-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "contentpaul-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dd-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dev-trancsend-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ed-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "effective-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "grv-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hedgeapple-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ibsplc-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "imgs-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "info-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lazada-g-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lefestin-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "netgear-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "railnation-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "rubiks-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "si-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sss-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "storm-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "vivendimmo-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "xi-cdn.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cplace-cdn.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "cronous-cdn.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "diy-cdn.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "paheal-cdn.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "4-your-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "albites-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "amour-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "baha-users-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "box-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bpa-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "bush-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "coinbase-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "complice-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "connectifit-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "consuls-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "doctor-activity-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "elite-business-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "empowering-care-disability-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "energy-business-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "english-literacy-and-wellbeing-tuition-and-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "exe-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hi-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hiroshimaken-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "home-computers-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ibsplc-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kamon-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "kokki-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lifebiz-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "longtrip-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lyft-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mainte-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "megasoft-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "megumi-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ministry-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "mynet-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "myob-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "nightliner-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "optimized-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "passport-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "physio-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "pure-desk-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ramms-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "repair-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "resumegig-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "richka-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "screenprinting-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sll-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "talent-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "technology-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tf-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "tmw-support.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "clinic-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dojin-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "doula-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "furusato-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lien-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "next-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "syougai-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "walker-it-support.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "breast-cancer-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "corals-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dating-4u-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "dogs-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "gaaza-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "gettech-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "hunt-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "ics-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lystafood-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "lystdevtool-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "master-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "meds-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "quotewzrd-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sanmarino-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sentinelwealthr-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sentri-pass-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "syukatsu-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "techni-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "wordle-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "writing-help.com",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "adguardvpn-help.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "sentinelwealthr-help.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "white-magic-help.net",
-        "type": "Domain",
-        "description": "Phishing"
-    },
-    {
-        "indicator": "91.92.240.209",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "94.72.115.145",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "178.16.55.65",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "91.92.242.251",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "135.125.165.178",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "91.191.209.6",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.227.254.10",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "47.117.93.94",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "45.142.193.72",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "66.132.153.138",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "8.219.252.194",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "85.121.4.88",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "98.80.4.78",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "198.235.24.129",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "205.210.31.196",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "216.218.206.66",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "162.142.125.219",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "66.132.153.130",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "198.235.24.64",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "152.32.141.202",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "88.210.63.182",
-        "type": "IPv4 address",
-        "description": "Active Scanning"
-    },
-    {
-        "indicator": "78.128.112.74",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "154.241.80.224",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "188.254.76.32",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.33",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "101.47.50.16",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.32.162.157",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.20",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "80.94.93.119",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "131.221.133.6",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "175.214.97.14",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.244",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "80.94.93.233",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "159.223.228.216",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "134.101.159.220",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "62.60.131.157",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "35.221.193.149",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.7",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "195.178.110.30",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "190.171.189.85",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.159",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "196.203.106.44",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "104.248.95.250",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.103",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "23.97.62.145",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.217",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "206.189.9.10",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "193.46.255.99",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "160.25.81.48",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "161.142.172.77",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "159.224.132.77",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "159.223.216.217",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "137.184.30.165",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "209.38.108.157",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
-        "indicator": "129.146.139.167",
-        "type": "IPv4 address",
-        "description": "Brute Force"
-    },
-    {
         "indicator": "117.72.184.172",
         "type": "IPv4 address",
         "description": "Cobalt Strike"
@@ -16583,5 +15078,4720 @@
         "indicator": "64.31.63.110",
         "type": "IPv4 address",
         "description": "ShadowPad"
+    },
+    {
+        "indicator": "hr-007.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-169tix.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-box-office.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-buddy.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-coop.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-employers.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-foodsafe.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-fuelcell.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-gmagarnet.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-horizon.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-icon.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-immo.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-in.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-kristenlindquist.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-manajoy.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-miyako.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-motivator.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-office-worker.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-portalen.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-promotion.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-reit.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hr-willdesign.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "okta-auth-verify.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "okta-developer-ashley.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "okta-us.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-choangtv.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-coulier.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-day.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-iphim.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-itcs.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-lgpo.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-myshopify.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-queenofbounty.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-resident-music.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-rico20.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cdn-sphere-pro.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-360.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-betcrisarizona.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-cherry.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-desk-on-demand.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-drinkotec.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-funnels.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-js.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-mutuel.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-pp-admin.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-s219.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-safewayins.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-snap.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "support-wlac-employees.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-1biz.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-advice.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-disneyplusbegin.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-kraken.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-marco-buy-a-prosthetic-hand.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-netflix-sms.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-portrait-edmonton.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-requests.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-sell.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-shithole-africa.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-site.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-translate.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "help-u-motor.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "32red-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "allinone-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "avicon-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bbdo-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bhs-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "capua-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "carem-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "chickenroad2-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "connected-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "elli-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "estem-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "eurosia-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "grondig-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ilhc-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "insideout-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "leap-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "maqasa-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "meadowbrook-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "noble-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "npb-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "pathway-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "recrutare-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "rodrigoc-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ruby-fortune-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "schatz-finder-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tactical-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tasheel-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "virtus-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "zy-hr.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ai-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "gd-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tree-hr.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "krutus-sso.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "stoneridge-okta.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "66-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bunny-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "co-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cpt-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ent-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "evo-games-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "imarcom-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "itservices-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lakesregionrentals-icnd-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lapassione-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lol-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ne-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "offergate-ecommerce-update4-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "s1-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "shopstyle-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "symbl-cdn.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cache-cdn.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "alumni-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "amy-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "apple-center-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "applemx-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "asunaro-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bitpanda-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "communitypage-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "confirmation-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "crane-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "etesting-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "femcare-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "germany-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "gifuec-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "hack-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "icloudd-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "infinity-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "kodomo-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "komorebi-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "m2-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mbcs-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mitas-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "mizu-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "moda-flx-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "oorjabio-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "philippines-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "pin-up-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "premium-email-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "rough-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "shoes-total-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "ssc-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "thevirtual-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "yuzawa-support.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "csirt-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "dh-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "fleetworks-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tech-support.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "antigua-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "autoinscvg-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bahamas-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bahrain-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "bangladesh-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "buhfin-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cars-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "claim-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "companies-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "cs-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "food-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lithium-battery-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lithium-metal-battery-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "locks-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "lonelysweethrts-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "newzealand-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "podenco-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "renew-info-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "selftape-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "statistics-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "tracelo-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "trainitec-help.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "your-help.net",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "test-servicenow.com",
+        "type": "Domain",
+        "description": "Phishing"
+    },
+    {
+        "indicator": "45.38.42.189",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "5.129.250.82",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "140.82.30.66",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "91.218.141.72",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "134.199.166.195",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "78.47.26.0",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "48.217.187.10",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "139.59.181.253",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "68.183.255.53",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "67.205.141.81",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "195.65.41.209",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "150.5.174.231",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "43.134.38.218",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "146.190.161.203",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "64.226.108.63",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "23.88.39.201",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "164.90.179.136",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "194.171.96.118",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "149.104.26.229",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "45.150.108.175",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "45.78.225.208",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "164.90.158.199",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "145.131.8.169",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "4.210.171.193",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "167.71.155.231",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "20.115.66.63",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "64.226.102.22",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "20.46.236.73",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "45.43.163.22",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "179.43.186.228",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "161.35.218.205",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "204.48.27.82",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "104.245.145.186",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "88.80.145.250",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.61.22.123",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "158.220.109.150",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.54.134.113",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "164.90.166.202",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "161.35.246.140",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "194.12.8.26",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "37.60.254.174",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "134.122.55.34",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "167.172.44.149",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "222.255.214.206",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "37.97.133.245",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "158.158.0.196",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "143.110.247.108",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "194.34.232.115",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "73.213.108.128",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.81.131.230",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.55.203.114",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "134.199.168.188",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "116.203.56.37",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "216.144.226.242",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "196.251.80.15",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "20.55.64.14",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "9.141.105.167",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "161.35.224.107",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "47.83.128.138",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "165.232.68.53",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "18.234.143.128",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "158.160.56.208",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "104.200.20.89",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "159.89.36.127",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "47.83.219.200",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "196.251.116.232",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.245.126.247",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "43.200.42.167",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "74.235.137.249",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.59.225.23",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "91.99.72.91",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.86.224.232",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "103.214.112.9",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "140.143.238.164",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.232.197.207",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "174.138.103.46",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.69.221.5",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "100.26.145.36",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "109.205.181.248",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "157.180.12.45",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "135.125.241.31",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.133.131.110",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.73.128.242",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "18.191.215.60",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.161.5",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.156.11.181",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.53.207.84",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "20.185.29.172",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.130.139.181",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "74.235.82.223",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "87.228.114.68",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.206.57.180",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.132.43.209",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.237.128.48",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.31.178.96",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "162.248.102.237",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.21.58.159",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.174.130.200",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "82.157.10.22",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.162.33",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.145.49.56",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "138.68.177.82",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "213.218.234.181",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.170.68",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "98.91.100.78",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "196.251.115.73",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "151.245.54.181",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "51.15.224.30",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "44.249.52.113",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.70.1.106",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "13.216.79.128",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "143.110.187.124",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.225.226.129",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "15.206.72.142",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.206.10.171",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "84.252.95.205",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "146.190.69.218",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "159.223.8.217",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "217.154.232.229",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "77.110.106.27",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.129.42.221",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.76.47.39",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "174.138.55.211",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "103.172.92.80",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "8.219.69.133",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.135.17.162",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "13.41.157.2",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "64.225.117.10",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "20.163.58.233",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "148.71.144.230",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "139.59.111.220",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.118.177.200",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.175.34.208",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "18.206.0.221",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "63.177.93.228",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "134.199.163.239",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.143.55.137",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "89.147.108.143",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.86.113.198",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "151.241.228.128",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "165.227.26.215",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.166.52",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "120.26.232.58",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "192.241.157.169",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "194.163.131.46",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.51.44.169",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.169.39.199",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "51.81.13.63",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "180.149.37.61",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "35.172.207.101",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.170.48.16",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "3.144.96.86",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "77.223.100.85",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.172.95",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "77.73.129.82",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "165.232.148.135",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "107.189.24.66",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "196.251.117.219",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "107.189.17.249",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "164.92.149.255",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "64.227.126.87",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "102.117.169.202",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "54.234.9.84",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.2.184.42",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "217.60.38.16",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "111.229.194.248",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "157.245.146.223",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "35.222.81.7",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "45.154.98.48",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "109.199.116.74",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "52.188.184.174",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "164.92.233.64",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "151.106.10.246",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "185.76.78.105",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.63.8.239",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.70.18.155",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "64.226.120.251",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "107.191.49.75",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "172.191.69.130",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "4.206.46.1",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "51.75.250.56",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "34.174.231.105",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "35.187.169.204",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "196.251.69.134",
+        "type": "IPv4 address",
+        "description": "Apollo"
+    },
+    {
+        "indicator": "8.152.99.85",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.163.112.217",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "140.143.194.253",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "193.233.244.34",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.55.41.37",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "117.72.184.172",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.207.193.76",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.149.192.54",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "112.124.24.132",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "172.190.244.213",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.138.222.215",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.105.36.109",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "195.178.110.135",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "150.158.170.241",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "40.77.86.17",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "179.43.186.223",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.109.48.57",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "156.227.233.153",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.35.223.90",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "124.223.114.203",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.137.114.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.138.0.179",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.110.67.64",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "39.104.78.25",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "103.125.248.109",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.153.222.28",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "129.28.85.210",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.113.186.138",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.32.109.112",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "117.72.181.104",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "45.204.216.24",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.116.208.81",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.100.184.216",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "156.244.44.185",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "20.74.209.192",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "152.32.202.240",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "93.95.97.102",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "211.184.175.246",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "152.32.157.188",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "156.238.249.5",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "121.43.57.122",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.200.86.176",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "82.156.145.11",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.56.42.78",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "81.70.37.146",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "121.41.18.122",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "176.223.112.108",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "124.221.255.4",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "54.180.93.64",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "120.55.64.133",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.173.221.187",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "121.196.235.130",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.100.183.39",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "124.70.203.28",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "87.251.67.92",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "107.172.86.55",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.137.70.120",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.84.55.172",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "49.232.62.197",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "121.43.26.174",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.132.148.165",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "118.31.0.235",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "47.96.123.15",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "43.155.143.29",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "167.172.75.250",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "116.198.233.179",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "159.223.41.3",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "83.229.122.83",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "165.154.238.214",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "68.183.36.134",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "118.31.173.19",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "8.141.120.99",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "39.97.161.126",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "179.43.139.125",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "1.12.232.254",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "175.178.195.139",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.45.14.108",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "118.89.73.78",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "138.197.83.165",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "34.122.216.148",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "144.172.108.70",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "112.125.88.176",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "119.91.236.181",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "101.133.229.117",
+        "type": "IPv4 address",
+        "description": "Cobalt Strike"
+    },
+    {
+        "indicator": "154.37.155.252",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "47.83.134.97",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "206.189.32.112",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "23.92.20.65",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "101.126.149.119",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "45.137.99.68",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "167.114.113.96",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "164.92.79.49",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "40.66.42.246",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "207.244.236.115",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "34.219.200.70",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "51.81.171.234",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "69.5.189.9",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "176.103.63.246",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "194.69.162.205",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "159.203.143.205",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "167.86.110.155",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "68.183.183.150",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "185.43.207.58",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "13.216.130.82",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "20.188.119.195",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "185.196.11.90",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "161.35.239.147",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "195.209.210.34",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "89.117.2.138",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "173.249.45.65",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "172.167.163.14",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "45.55.123.49",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "176.126.87.35",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "138.197.32.49",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "161.35.176.231",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "103.235.75.42",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "118.173.233.105",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "13.51.84.181",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "77.110.106.27",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "212.11.64.49",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "165.232.168.59",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "8.212.58.172",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "54.46.100.212",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "104.129.12.197",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "3.27.140.57",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "34.47.138.207",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "216.49.29.31",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "13.62.134.6",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "20.169.181.39",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "181.174.164.116",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "172.104.206.108",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "216.245.184.2",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "4.180.20.2",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "31.58.220.77",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "82.153.138.122",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "64.225.126.237",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "91.206.14.228",
+        "type": "IPv4 address",
+        "description": "Havoc"
+    },
+    {
+        "indicator": "51.17.159.208",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.62.51.182",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "221.214.111.106",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.81.245.154",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "157.175.147.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "185.156.73.99",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.79.198.18",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "37.221.196.152",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "207.246.93.127",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "157.175.42.134",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.194.97.139",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "162.55.91.224",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "208.85.17.127",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "202.112.238.106",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "138.197.18.115",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "2.57.122.72",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "37.187.20.127",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "202.154.57.243",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "194.233.90.144",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "95.179.151.134",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "66.85.173.48",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "107.172.209.203",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "217.114.222.12",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "46.101.95.235",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.240.223.126",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.188.13.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "62.84.102.124",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "217.114.222.10",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "146.59.199.61",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.53.171.25",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "161.35.177.190",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "157.230.201.114",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "77.246.99.16",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.138.48.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "143.198.208.174",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.255.46.245",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "67.207.69.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "165.227.136.106",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "77.88.193.133",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.108.41.91",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "188.214.128.130",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "89.58.40.80",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "164.132.50.235",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "184.185.107.7",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "109.248.6.246",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "212.92.23.152",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "88.99.214.170",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "209.195.169.238",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.8.148.165",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "109.228.59.27",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "144.91.86.133",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "38.129.139.12",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "193.29.56.122",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "139.0.15.189",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "38.55.193.188",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "218.29.158.91",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "167.99.210.92",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "144.126.130.139",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.250.186.160",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "174.79.173.253",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "79.143.87.222",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "213.252.246.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "46.240.140.66",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "88.99.213.30",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "129.80.69.114",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.154.14.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "173.212.214.79",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "162.243.22.15",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "185.216.119.142",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "186.17.213.66",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "165.22.184.26",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "146.185.166.202",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.175.81.231",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "207.180.215.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "122.155.223.144",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "120.237.147.54",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "49.232.236.39",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.227.254.4",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "167.172.145.51",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "137.184.97.20",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "109.123.242.116",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "198.211.103.111",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.159.50.194",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "209.10.188.204",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "88.119.170.212",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.253.147.9",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "104.219.232.178",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "108.181.157.69",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "192.52.166.48",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "83.243.64.180",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "88.218.17.218",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "146.190.51.91",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "104.168.133.116",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "195.154.203.12",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.49.75.242",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.130.121.66",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "202.71.14.168",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.183.6.98",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.177.234.9",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.70.98.217",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.152.3.245",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.108.41.90",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.233.3.68",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "94.72.115.192",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "115.190.123.59",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.3.8.179",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "5.249.145.51",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "109.172.90.162",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "64.255.203.222",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "63.210.148.42",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "89.58.9.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "8.148.80.112",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "107.174.231.200",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "94.154.46.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.107.78.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.24.206.182",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "168.245.202.200",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.169.225.79",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.20.140.23",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.176.198.121",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.86.114.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "115.29.241.139",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "185.130.212.73",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.246.37.250",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.29.125.64",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.19.95.62",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.157.61.61",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.185.81.156",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.193.239",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.228.10.219",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.193.120",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "193.32.162.64",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.27.230.215",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.213.75.53",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.212.91.17",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.44.169.193",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.175.35",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.61.53.194",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "199.101.109.82",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "47.128.242.53",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.203.225.73",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.85.41.70",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.112.187.73",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.91.166.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.200.241.99",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.26.180.107",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.8.28.225",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "217.154.212.25",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "185.197.251.134",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.184.211.156",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.24.208.77",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.180.140.208",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.164.238",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.222.252.163",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "44.223.6.99",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.201.104.209",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.196.82.167",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.208.117.126",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.166.223.88",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.231.244.223",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.52.170.175",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.78.28.157",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "44.247.249.88",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.198.245.174",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "40.172.121.232",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.255.182.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.247.99.237",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.157.63.21",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.169.205.254",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.29.126.242",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.245.104.88",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.70.72.9",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.180.250.88",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.228.27.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.193.103.5",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.152.3.62",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.218.138.143",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.8.173.26",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.113.25.216",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.152.84.27",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.168.8.42",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.88.19.250",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.245.164.216",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "108.136.165.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.216.113.48",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.179.107.68",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.233.50.199",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.171.237.236",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.182.70",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.168.174.81",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.78.28.43",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.191.240.160",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.56.237.231",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.48.89.97",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.177.119.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.189.195.57",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.47.164.170",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.215.253.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.72.41.90",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.50.207.217",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.209.66.67",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.16.52.9",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.245.108.242",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.85.161",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.56.155.173",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.21.130.27",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.69.81",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.60.235.191",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.179.140.104",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.80.223.90",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.206.50",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.145.39.219",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.130.235.247",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.95.172.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.17.240.230",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.65.27",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.233.37.233",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.60.227.187",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.201.10.169",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.176.126.74",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.26.40.191",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.67.147.212",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.250.60.81",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.24.181.4",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.228.223.134",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.26.193.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "108.136.41.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "46.62.133.190",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.93.183.15",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.151.174.105",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.88.38.110",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.181.52.250",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.10.23.85",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.61.119.172",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.78.76.229",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.244.121.91",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.193.102.182",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.25.129.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "139.59.59.97",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.16.52.154",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.148.59",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.230.177.29",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.246.230.58",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.130.10.237",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.229.226.113",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.239.137.113",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.51.93.220",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.67.130.158",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.130.135.43",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "168.245.202.209",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "104.237.240.112",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "199.101.108.109",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "209.46.127.132",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.145.87.37",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.125.34.179",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.64.194.159",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.61.85.173",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.16.244.0",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.228.245.246",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "157.175.197.39",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "44.248.41.190",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.77.238.231",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "40.192.27.2",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.201.97.245",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.57.19",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "47.129.160.227",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.45.16",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.82.165.118",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.64.142.191",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "47.129.144.247",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.161.46.91",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.170.226.214",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.44.167.27",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.108.221.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.152.3.76",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.17.222.156",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.99.186.82",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.96.175.204",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.173.251",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "38.87.197.236",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.61.71.225",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.28.29.88",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.92.90.102",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "168.245.203.161",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.93.248.157",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "168.245.203.156",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.178.54.217",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.2.29",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.101.218.62",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.163.46.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "56.125.164.252",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.72.7.35",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "157.175.188.210",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.222.30.245",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.198.211.36",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.28.39.151",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.253.201.106",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "47.130.132.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.124.188.138",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.49.119.65",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.50.42.150",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.65.183.64",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.173.134",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.101.178.164",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.212.235.172",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.127.231.160",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.112.45.229",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.107.5.229",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "83.168.110.172",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.208.142.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.169.14",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.183.62.239",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.26.161.13",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.89.191.13",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.60.39.72",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.137.220.207",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.172.180.231",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.118.253.11",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.26.204.71",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.25.150.18",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.77.250.159",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.40.147.152",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.61.174.46",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.156.129.232",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.94.30.230",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.67.53.13",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.200.235.67",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.201.112.81",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.161.155.46",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.50.233.0",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.89.41.168",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.255.179.26",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.223.120.190",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.60.154.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.199.144.6",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.147.72.233",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.176.134.210",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.222.238.6",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.72.226.113",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.101.132.96",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.112.44.69",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "45.63.86.203",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "103.8.28.6",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.125.238.228",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.160.140.225",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.181.200.220",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.101.111.176",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.96.122.2",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "40.192.26.219",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.218.124.18",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.181.4.22",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.255.196.35",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.213.82",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "185.202.236.250",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.255.174.164",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "63.178.22.145",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "56.155.45.144",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.60.186.75",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.198.251.34",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.130.124.14",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "199.101.109.14",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.143.132.177",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.8.77.23",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.223.69.31",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "38.87.199.126",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "177.71.160.237",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.34.49.119",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.64.130.165",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "98.88.25.37",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.244.104.116",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.26.27.75",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.213.118.45",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.163.122.242",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.96.101.204",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.224.27.58",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "44.243.25.54",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.28.44.184",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.78.106.159",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.185.142.2",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "147.182.187.72",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.78.158.223",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.26.53.95",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.62.221.144",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.91.8.129",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.220.185.109",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.79.60.61",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "56.155.113.1",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.251.239.112",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.228.188.63",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.204.49.149",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.84.213.95",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.176.173.188",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.196.31.119",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.178.162.29",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.170.217.143",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "52.43.164.83",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.203",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.163",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.186",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.7",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.114",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "74.208.147.234",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.223.43.59",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.144.17.223",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.17.24.58",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "40.192.100.1",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.134.196.238",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.56.200.171",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.247.181.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.50.207.242",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "184.72.212.196",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.152.254.149",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "168.245.200.235",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.218.240.1",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.38.35.147",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.148.102.159",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.160.182.150",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.146.233.96",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.36.100.156",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "34.245.199.154",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.170.91.114",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "78.159.131.56",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.133.125.80",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "141.11.208.189",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.38.109.233",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.156.128.93",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.145.35.1",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.237.130.185",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.96.172.34",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.79.135.182",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "15.160.169.231",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.50.117.188",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "56.155.135.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "16.51.57.225",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.182.59.198",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.157.139.237",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.183.81.171",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.88.142.106",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "35.152.141.238",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.130.225.150",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.39.249.246",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "13.212.251.175",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "3.107.45.46",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.218.79.163",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "51.21.221.160",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "204.236.186.129",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "43.201.14.10",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "54.207.33.202",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
+    },
+    {
+        "indicator": "18.117.102.152",
+        "type": "IPv4 address",
+        "description": "Meterpreter (Windows)"
     }
 ]

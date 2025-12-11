@@ -1,137 +1,4 @@
 Indicator,Type,Description
-3.1.85.162,IPv4 address,Cobalt Strike
-45.158.21.149,IPv4 address,Cobalt Strike
-156.238.234.107,IPv4 address,Cobalt Strike
-18.159.106.50,IPv4 address,Cobalt Strike
-45.137.10.110,IPv4 address,Cobalt Strike
-156.238.234.135,IPv4 address,Cobalt Strike
-47.121.136.191,IPv4 address,Cobalt Strike
-23.95.233.180,IPv4 address,Cobalt Strike
-154.201.81.165,IPv4 address,Cobalt Strike
-93.115.203.34,IPv4 address,Cobalt Strike
-154.12.91.226,IPv4 address,Cobalt Strike
-113.44.39.1,IPv4 address,Cobalt Strike
-178.16.54.124,IPv4 address,Cobalt Strike
-43.156.239.71,IPv4 address,Cobalt Strike
-47.76.241.215,IPv4 address,Cobalt Strike
-115.190.35.210,IPv4 address,Cobalt Strike
-115.233.60.197,IPv4 address,Cobalt Strike
-124.156.152.46,IPv4 address,Cobalt Strike
-89.248.165.43,IPv4 address,Cobalt Strike
-43.251.117.203,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-103.136.150.48,IPv4 address,Cobalt Strike
-89.23.113.140,IPv4 address,Cobalt Strike
-154.201.81.176,IPv4 address,Cobalt Strike
-149.88.64.122,IPv4 address,Cobalt Strike
-103.43.11.215,IPv4 address,Cobalt Strike
-156.238.235.104,IPv4 address,Cobalt Strike
-103.43.11.101,IPv4 address,Cobalt Strike
-154.12.86.154,IPv4 address,Cobalt Strike
-43.156.59.110,IPv4 address,Cobalt Strike
-117.72.168.103,IPv4 address,Cobalt Strike
-103.43.11.6,IPv4 address,Cobalt Strike
-193.124.33.172,IPv4 address,Cobalt Strike
-182.255.45.244,IPv4 address,Cobalt Strike
-hr-agathrum.com,Domain,Phishing
-hr-fest.com,Domain,Phishing
-hr-krismar-group.com,Domain,Phishing
-hr-krismar-recruitment.com,Domain,Phishing
-hr-rtx.com,Domain,Phishing
-hr-trd.com,Domain,Phishing
-sso-app-sign-in.com,Domain,Phishing
-sso-calc-site.com,Domain,Phishing
-cdn-bootstraps.com,Domain,Phishing
-cdn-lightsightai.com,Domain,Phishing
-cdn-res-oss-cn-hongkong-aliyuncs-file.com,Domain,Phishing
-support-aide-navigo.com,Domain,Phishing
-support-cloud-iforgot.com,Domain,Phishing
-support-findmygps.com,Domain,Phishing
-support-kev-keatrans.com,Domain,Phishing
-support-mydevice-icloud.com,Domain,Phishing
-support-true-client-support.com,Domain,Phishing
-support-xiecheng.com,Domain,Phishing
-help-ellipal.com,Domain,Phishing
-auralent-hr.com,Domain,Phishing
-chicken-road-hr.com,Domain,Phishing
-maperso-hr.com,Domain,Phishing
-meetang24-hr.com,Domain,Phishing
-openminds-hr.com,Domain,Phishing
-smartbridge-hr.com,Domain,Phishing
-thrivesparrow-hr.com,Domain,Phishing
-tradepiq-hr.com,Domain,Phishing
-wildorchid-hr.com,Domain,Phishing
-alerts-okta.com,Domain,Phishing
-viame-cdn.com,Domain,Phishing
-e626-cdn.net,Domain,Phishing
-aave-support.com,Domain,Phishing
-citib-support.com,Domain,Phishing
-name-support.com,Domain,Phishing
-piyosensei-support.com,Domain,Phishing
-rbcloginbusiness-support.com,Domain,Phishing
-showpay-support.com,Domain,Phishing
-totalenergie-support.com,Domain,Phishing
-worldwide-support.com,Domain,Phishing
-yao-support.net,Domain,Phishing
-cripto-help.com,Domain,Phishing
-diy-help.com,Domain,Phishing
-patna-pomosht-grekov-help.com,Domain,Phishing
-quest-help.com,Domain,Phishing
-twjcb-help.com,Domain,Phishing
-158.94.210.67,IPv4 address,Brute Force
-158.94.210.65,IPv4 address,Brute Force
-178.16.54.169,IPv4 address,Brute Force
-83.229.17.91,IPv4 address,Brute Force
-158.94.208.176,IPv4 address,Brute Force
-158.94.208.167,IPv4 address,Brute Force
-178.22.24.60,IPv4 address,Brute Force
-185.156.73.166,IPv4 address,Brute Force
-158.94.208.175,IPv4 address,Brute Force
-185.156.73.167,IPv4 address,Brute Force
-158.94.210.68,IPv4 address,Brute Force
-135.125.165.178,IPv4 address,Brute Force
-62.164.177.73,IPv4 address,Brute Force
-158.94.210.66,IPv4 address,Brute Force
-158.94.208.182,IPv4 address,Brute Force
-158.94.209.186,IPv4 address,Brute Force
-92.63.197.59,IPv4 address,Brute Force
-158.94.210.64,IPv4 address,Brute Force
-88.119.165.238,IPv4 address,Brute Force
-62.164.177.161,IPv4 address,Brute Force
-185.190.24.102,IPv4 address,Brute Force
-92.63.197.55,IPv4 address,Brute Force
-158.94.208.174,IPv4 address,Brute Force
-91.92.243.49,IPv4 address,Brute Force
-178.22.24.61,IPv4 address,Brute Force
-91.196.152.132,IPv4 address,Active Scanning
-91.84.107.135,IPv4 address,Active Scanning
-85.11.183.6,IPv4 address,Active Scanning
-91.196.152.249,IPv4 address,Active Scanning
-43.132.207.18,IPv4 address,Active Scanning
-65.49.1.107,IPv4 address,Active Scanning
-65.49.1.94,IPv4 address,Active Scanning
-62.164.177.72,IPv4 address,Active Scanning
-20.102.117.55,IPv4 address,Active Scanning
-195.184.76.254,IPv4 address,Active Scanning
-65.49.1.106,IPv4 address,Active Scanning
-101.36.114.222,IPv4 address,Active Scanning
-3.132.23.201,IPv4 address,Active Scanning
-44.220.185.175,IPv4 address,Active Scanning
-185.73.124.35,IPv4 address,Active Scanning
-44.220.185.43,IPv4 address,Active Scanning
-62.60.135.169,IPv4 address,Active Scanning
-198.235.24.90,IPv4 address,Active Scanning
-91.92.241.175,IPv4 address,Active Scanning
-65.49.1.101,IPv4 address,Active Scanning
-205.210.31.69,IPv4 address,Active Scanning
-44.220.185.22,IPv4 address,Active Scanning
-45.156.129.56,IPv4 address,Active Scanning
-65.49.1.96,IPv4 address,Active Scanning
-198.235.24.203,IPv4 address,Active Scanning
-206.168.34.212,IPv4 address,Active Scanning
-47.237.86.52,IPv4 address,Active Scanning
-62.60.135.174,IPv4 address,Active Scanning
-195.184.76.251,IPv4 address,Active Scanning
 167.179.89.246,IPv4 address,PlugX
 111.68.8.106,IPv4 address,PlugX
 61.160.236.70,IPv4 address,PlugX
@@ -2603,3 +2470,282 @@ ads99.my,Domain,Cobalt Strike
 3.149.59.26,IPv4 address,Active Scanning
 195.184.76.40,IPv4 address,Active Scanning
 147.182.149.75,IPv4 address,Active Scanning
+47.100.204.47,IPv4 address,Cobalt Strike
+45.158.21.149,IPv4 address,Cobalt Strike
+149.88.64.122,IPv4 address,Cobalt Strike
+154.201.81.165,IPv4 address,Cobalt Strike
+115.233.60.197,IPv4 address,Cobalt Strike
+156.238.234.135,IPv4 address,Cobalt Strike
+154.12.91.226,IPv4 address,Cobalt Strike
+8.210.10.150,IPv4 address,Cobalt Strike
+156.238.234.107,IPv4 address,Cobalt Strike
+124.156.152.46,IPv4 address,Cobalt Strike
+47.76.241.215,IPv4 address,Cobalt Strike
+129.226.177.17,IPv4 address,Cobalt Strike
+3.1.85.162,IPv4 address,Cobalt Strike
+18.159.106.50,IPv4 address,Cobalt Strike
+45.137.10.110,IPv4 address,Cobalt Strike
+47.121.136.191,IPv4 address,Cobalt Strike
+23.95.233.180,IPv4 address,Cobalt Strike
+93.115.203.34,IPv4 address,Cobalt Strike
+113.44.39.1,IPv4 address,Cobalt Strike
+178.16.54.124,IPv4 address,Cobalt Strike
+43.156.239.71,IPv4 address,Cobalt Strike
+115.190.35.210,IPv4 address,Cobalt Strike
+89.248.165.43,IPv4 address,Cobalt Strike
+43.251.117.203,IPv4 address,Cobalt Strike
+43.135.88.242,IPv4 address,Cobalt Strike
+103.136.150.48,IPv4 address,Cobalt Strike
+89.23.113.140,IPv4 address,Cobalt Strike
+154.201.81.176,IPv4 address,Cobalt Strike
+103.43.11.215,IPv4 address,Cobalt Strike
+156.238.235.104,IPv4 address,Cobalt Strike
+103.43.11.101,IPv4 address,Cobalt Strike
+154.12.86.154,IPv4 address,Cobalt Strike
+hr-alliedbenefit.com,Domain,Phishing
+hr-beaconcrate.com,Domain,Phishing
+hr-consultplus.com,Domain,Phishing
+hr-grabph.com,Domain,Phishing
+hr-israel.com,Domain,Phishing
+sso-databricks.com,Domain,Phishing
+sso-ggl.com,Domain,Phishing
+support-commercial.com,Domain,Phishing
+support-ewallets.com,Domain,Phishing
+support-mailgun.com,Domain,Phishing
+support-makkoessentialsph.com,Domain,Phishing
+support-map.com,Domain,Phishing
+support-services-commercial.com,Domain,Phishing
+support-tmstunisia.com,Domain,Phishing
+help-mygovlink-login.com,Domain,Phishing
+aiexecutive-hr.com,Domain,Phishing
+functionly-hr.com,Domain,Phishing
+israel-hr.com,Domain,Phishing
+legend-hr.com,Domain,Phishing
+norma-hr.com,Domain,Phishing
+redsky-hr.com,Domain,Phishing
+voxcasino-hr.com,Domain,Phishing
+vuelta-hr.com,Domain,Phishing
+giftcards-sso.com,Domain,Phishing
+tifa-cdn.com,Domain,Phishing
+victor-probva-cdn.com,Domain,Phishing
+windows-cdn.net,Domain,Phishing
+denryoku-support.com,Domain,Phishing
+elum-support.com,Domain,Phishing
+enjerbet-support.com,Domain,Phishing
+kristinstahl-support.com,Domain,Phishing
+mbits-support.com,Domain,Phishing
+recovery-g-support.com,Domain,Phishing
+stegmann-support.com,Domain,Phishing
+totalenergies-my-support.com,Domain,Phishing
+visa-mbb-support.com,Domain,Phishing
+zline-support.com,Domain,Phishing
+fsa-adhoc-help.com,Domain,Phishing
+netflix-help.com,Domain,Phishing
+nt-factory-help.com,Domain,Phishing
+pers-help.com,Domain,Phishing
+rayyona-help.com,Domain,Phishing
+88.210.63.12,IPv4 address,Brute Force
+88.210.63.61,IPv4 address,Brute Force
+45.145.128.35,IPv4 address,Brute Force
+158.94.210.66,IPv4 address,Brute Force
+77.83.27.36,IPv4 address,Brute Force
+216.40.73.148,IPv4 address,Brute Force
+194.38.20.81,IPv4 address,Brute Force
+91.92.243.49,IPv4 address,Brute Force
+88.210.63.8,IPv4 address,Brute Force
+212.119.40.245,IPv4 address,Brute Force
+45.80.107.38,IPv4 address,Brute Force
+45.145.131.154,IPv4 address,Brute Force
+172.83.252.153,IPv4 address,Brute Force
+194.38.21.21,IPv4 address,Brute Force
+31.134.6.95,IPv4 address,Brute Force
+193.56.20.201,IPv4 address,Brute Force
+31.134.9.230,IPv4 address,Brute Force
+88.210.63.13,IPv4 address,Brute Force
+158.94.208.182,IPv4 address,Brute Force
+140.235.169.186,IPv4 address,Brute Force
+92.63.197.34,IPv4 address,Brute Force
+92.63.197.33,IPv4 address,Brute Force
+185.212.115.53,IPv4 address,Brute Force
+185.243.96.16,IPv4 address,Brute Force
+158.94.208.176,IPv4 address,Brute Force
+140.235.171.52,IPv4 address,Brute Force
+37.72.141.106,IPv4 address,Brute Force
+194.38.22.14,IPv4 address,Brute Force
+88.210.63.9,IPv4 address,Brute Force
+158.94.210.64,IPv4 address,Brute Force
+104.245.241.118,IPv4 address,Brute Force
+195.178.136.26,IPv4 address,Brute Force
+212.87.219.244,IPv4 address,Brute Force
+31.134.11.166,IPv4 address,Brute Force
+88.210.63.11,IPv4 address,Brute Force
+83.97.119.101,IPv4 address,Brute Force
+94.154.113.66,IPv4 address,Brute Force
+172.83.254.33,IPv4 address,Brute Force
+158.94.208.167,IPv4 address,Brute Force
+31.134.10.54,IPv4 address,Brute Force
+64.49.36.243,IPv4 address,Brute Force
+185.156.73.167,IPv4 address,Brute Force
+92.63.197.78,IPv4 address,Brute Force
+158.94.208.175,IPv4 address,Brute Force
+193.42.245.86,IPv4 address,Brute Force
+31.134.6.41,IPv4 address,Brute Force
+212.87.219.82,IPv4 address,Brute Force
+158.94.210.65,IPv4 address,Brute Force
+83.229.17.91,IPv4 address,Brute Force
+31.134.13.15,IPv4 address,Brute Force
+45.147.234.233,IPv4 address,Brute Force
+92.63.197.79,IPv4 address,Brute Force
+135.125.165.178,IPv4 address,Brute Force
+185.77.220.23,IPv4 address,Brute Force
+185.156.73.166,IPv4 address,Brute Force
+88.210.63.62,IPv4 address,Brute Force
+92.63.197.80,IPv4 address,Brute Force
+166.88.172.160,IPv4 address,Brute Force
+45.141.128.154,IPv4 address,Brute Force
+193.163.89.96,IPv4 address,Brute Force
+185.243.96.8,IPv4 address,Brute Force
+158.94.208.174,IPv4 address,Brute Force
+62.204.49.150,IPv4 address,Brute Force
+178.16.54.169,IPv4 address,Brute Force
+193.56.20.20,IPv4 address,Brute Force
+158.94.210.68,IPv4 address,Brute Force
+94.154.113.87,IPv4 address,Brute Force
+45.145.128.62,IPv4 address,Brute Force
+172.83.252.116,IPv4 address,Brute Force
+45.136.26.215,IPv4 address,Brute Force
+92.63.197.59,IPv4 address,Brute Force
+31.134.5.215,IPv4 address,Brute Force
+172.83.255.106,IPv4 address,Brute Force
+88.210.63.10,IPv4 address,Brute Force
+64.49.37.226,IPv4 address,Brute Force
+45.147.235.171,IPv4 address,Brute Force
+185.212.115.195,IPv4 address,Brute Force
+167.253.16.131,IPv4 address,Brute Force
+92.63.197.77,IPv4 address,Brute Force
+194.38.21.14,IPv4 address,Brute Force
+193.42.245.75,IPv4 address,Brute Force
+92.63.197.55,IPv4 address,Brute Force
+158.94.210.67,IPv4 address,Brute Force
+172.83.252.120,IPv4 address,Brute Force
+195.184.76.21,IPv4 address,Active Scanning
+8.219.252.165,IPv4 address,Active Scanning
+65.49.1.10,IPv4 address,Active Scanning
+185.247.137.176,IPv4 address,Active Scanning
+65.49.1.19,IPv4 address,Active Scanning
+62.60.135.174,IPv4 address,Active Scanning
+91.92.243.223,IPv4 address,Active Scanning
+172.233.58.223,IPv4 address,Active Scanning
+195.184.76.253,IPv4 address,Active Scanning
+198.235.24.50,IPv4 address,Active Scanning
+195.184.76.1,IPv4 address,Active Scanning
+158.94.210.112,IPv4 address,Active Scanning
+195.184.76.97,IPv4 address,Active Scanning
+91.196.152.129,IPv4 address,Active Scanning
+91.230.168.136,IPv4 address,Active Scanning
+144.31.4.70,IPv4 address,Active Scanning
+195.184.76.15,IPv4 address,Active Scanning
+3.130.96.91,IPv4 address,Active Scanning
+85.208.84.59,IPv4 address,Active Scanning
+91.230.168.10,IPv4 address,Active Scanning
+147.185.132.132,IPv4 address,Active Scanning
+65.49.1.11,IPv4 address,Active Scanning
+195.184.76.43,IPv4 address,Active Scanning
+195.184.76.127,IPv4 address,Active Scanning
+91.196.152.252,IPv4 address,Active Scanning
+62.60.135.185,IPv4 address,Active Scanning
+195.184.76.13,IPv4 address,Active Scanning
+47.236.240.52,IPv4 address,Active Scanning
+167.94.138.45,IPv4 address,Active Scanning
+91.231.89.210,IPv4 address,Active Scanning
+62.60.135.169,IPv4 address,Active Scanning
+65.49.1.21,IPv4 address,Active Scanning
+198.235.24.215,IPv4 address,Active Scanning
+193.32.162.205,IPv4 address,Active Scanning
+195.184.76.213,IPv4 address,Active Scanning
+62.60.135.186,IPv4 address,Active Scanning
+118.193.59.10,IPv4 address,Active Scanning
+195.184.76.8,IPv4 address,Active Scanning
+70.34.197.27,IPv4 address,PlugX
+139.84.227.139,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+95.179.245.146,IPv4 address,PlugX
+208.85.16.182,IPv4 address,PlugX
+64.176.60.59,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+154.213.178.185,IPv4 address,PlugX
+45.32.148.180,IPv4 address,PlugX
+45.134.36.36,IPv4 address,PlugX
+47.75.177.15,IPv4 address,PlugX
+149.30.255.212,IPv4 address,PlugX
+47.82.7.109,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+111.68.8.106,IPv4 address,PlugX
+61.160.236.70,IPv4 address,PlugX
+124.222.243.4,IPv4 address,PlugX
+47.242.227.225,IPv4 address,PlugX
+101.43.68.33,IPv4 address,PlugX
+43.198.232.134,IPv4 address,PlugX
+220.130.204.242,IPv4 address,PlugX
+154.213.178.188,IPv4 address,PlugX
+123.60.168.129,IPv4 address,PlugX
+8.136.206.39,IPv4 address,PlugX
+182.16.47.26,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+180.178.47.18,IPv4 address,PlugX
+182.16.47.28,IPv4 address,PlugX
+180.178.47.21,IPv4 address,PlugX
+182.16.47.30,IPv4 address,PlugX
+182.16.47.29,IPv4 address,PlugX
+182.16.47.27,IPv4 address,PlugX
+180.178.47.19,IPv4 address,PlugX
+180.178.47.22,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+180.178.47.20,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+203.12.200.129,IPv4 address,PlugX
+52.192.183.29,IPv4 address,PlugX
+38.54.85.243,IPv4 address,PlugX
+154.36.161.95,IPv4 address,PlugX
+62.60.232.173,IPv4 address,PlugX
+140.82.55.149,IPv4 address,PlugX
+64.176.6.235,IPv4 address,PlugX
+208.85.18.176,IPv4 address,PlugX
+208.85.17.4,IPv4 address,PlugX
+70.34.215.167,IPv4 address,PlugX
+64.176.65.165,IPv4 address,PlugX
+14.18.91.181,IPv4 address,PlugX
+208.85.19.80,IPv4 address,PlugX
+38.54.85.77,IPv4 address,PlugX
+180.188.197.121,IPv4 address,PlugX
+70.34.215.62,IPv4 address,PlugX
+103.21.89.168,IPv4 address,PlugX
+103.21.89.178,IPv4 address,PlugX
+103.171.34.199,IPv4 address,PlugX
+158.247.223.202,IPv4 address,PlugX
+180.188.197.123,IPv4 address,PlugX
+103.171.35.175,IPv4 address,PlugX
+45.115.38.116,IPv4 address,PlugX
+160.124.145.98,IPv4 address,PlugX
+8.209.221.211,IPv4 address,PlugX
+45.76.218.225,IPv4 address,PlugX
+154.216.112.194,IPv4 address,PlugX
+160.124.88.194,IPv4 address,PlugX
+52.128.229.102,IPv4 address,PlugX
+52.128.229.100,IPv4 address,PlugX
+52.128.229.101,IPv4 address,PlugX
+52.128.229.98,IPv4 address,PlugX
+52.128.229.99,IPv4 address,PlugX
+45.115.38.119,IPv4 address,PlugX
+18.142.104.204,IPv4 address,PlugX
+52.77.35.23,IPv4 address,PlugX
+72.18.215.38,IPv4 address,PlugX
+118.193.35.61,IPv4 address,PlugX
+64.176.45.53,IPv4 address,PlugX
+160.124.88.195,IPv4 address,PlugX
+112.121.161.109,IPv4 address,PlugX
+45.115.38.118,IPv4 address,PlugX
+210.59.162.230,IPv4 address,PlugX
+38.60.203.197,IPv4 address,PlugX
+116.62.194.46,IPv4 address,PlugX
+121.43.186.132,IPv4 address,PlugX

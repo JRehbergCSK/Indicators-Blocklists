@@ -1,606 +1,4 @@
 Indicator,Type,Description
-38.181.144.48,IPv4 address,MgBot
-38.180.94.244,IPv4 address,MgBot
-210.16.188.254,IPv4 address,MgBot
-38.181.141.20,IPv4 address,MgBot
-38.181.144.46,IPv4 address,MgBot
-38.181.141.37,IPv4 address,MgBot
-114.64.255.138,IPv4 address,MgBot
-38.181.142.27,IPv4 address,MgBot
-38.181.177.71,IPv4 address,MgBot
-38.181.176.76,IPv4 address,MgBot
-38.181.177.67,IPv4 address,MgBot
-3.39.250.225,IPv4 address,Cobalt Strike
-89.44.9.149,IPv4 address,Cobalt Strike
-172.245.228.91,IPv4 address,Cobalt Strike
-43.100.27.142,IPv4 address,Cobalt Strike
-51.79.207.53,IPv4 address,Cobalt Strike
-31.56.196.84,IPv4 address,Cobalt Strike
-104.168.159.60,IPv4 address,Cobalt Strike
-82.117.255.144,IPv4 address,Cobalt Strike
-149.28.26.105,IPv4 address,Cobalt Strike
-35.241.97.145,IPv4 address,Cobalt Strike
-23.254.202.110,IPv4 address,Cobalt Strike
-192.236.199.37,IPv4 address,Cobalt Strike
-3.125.51.215,IPv4 address,Cobalt Strike
-31.57.61.223,IPv4 address,Cobalt Strike
-198.44.186.73,IPv4 address,Cobalt Strike
-3.35.168.182,IPv4 address,Cobalt Strike
-209.17.118.74,IPv4 address,Cobalt Strike
-4.211.190.105,IPv4 address,Cobalt Strike
-172.86.83.200,IPv4 address,Cobalt Strike
-3.35.230.37,IPv4 address,Cobalt Strike
-13.158.113.213,IPv4 address,Cobalt Strike
-38.54.13.163,IPv4 address,Cobalt Strike
-43.156.76.31,IPv4 address,Cobalt Strike
-103.208.85.178,IPv4 address,Cobalt Strike
-165.154.230.180,IPv4 address,Cobalt Strike
-185.146.233.154,IPv4 address,Cobalt Strike
-47.113.98.240,IPv4 address,Cobalt Strike
-172.245.238.65,IPv4 address,Cobalt Strike
-43.202.54.212,IPv4 address,Cobalt Strike
-3.65.35.171,IPv4 address,Cobalt Strike
-47.243.107.63,IPv4 address,Cobalt Strike
-43.100.18.178,IPv4 address,Cobalt Strike
-154.8.225.85,IPv4 address,Cobalt Strike
-52.79.249.231,IPv4 address,Cobalt Strike
-4.211.105.94,IPv4 address,Cobalt Strike
-34.80.78.79,IPv4 address,Cobalt Strike
-123.56.5.210,IPv4 address,Cobalt Strike
-43.100.27.141,IPv4 address,Cobalt Strike
-3.35.222.223,IPv4 address,Cobalt Strike
-107.172.141.181,IPv4 address,Cobalt Strike
-4.233.108.232,IPv4 address,Cobalt Strike
-103.181.143.178,IPv4 address,Cobalt Strike
-13.124.93.250,IPv4 address,Cobalt Strike
-3.36.114.150,IPv4 address,Cobalt Strike
-3.150.168.45,IPv4 address,Cobalt Strike
-3.1.79.227,IPv4 address,Cobalt Strike
-104.168.134.112,IPv4 address,Cobalt Strike
-54.180.172.127,IPv4 address,Cobalt Strike
-137.220.50.6,IPv4 address,Cobalt Strike
-43.203.46.238,IPv4 address,Cobalt Strike
-38.246.251.189,IPv4 address,Cobalt Strike
-103.106.229.249,IPv4 address,Cobalt Strike
-43.251.17.118,IPv4 address,Cobalt Strike
-35.241.119.0,IPv4 address,Cobalt Strike
-210.34.80.112,IPv4 address,Cobalt Strike
-1.14.66.160,IPv4 address,Cobalt Strike
-ec2-3-39-250-225.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.ourfamilyshealth.org,Domain,Cobalt Strike
-rucom.digital,Domain,Cobalt Strike
-172-245-228-91-host.colocrossing.com,Domain,Cobalt Strike
-vps-e8621d8c.vps.ovh.ca,Domain,Cobalt Strike
-fcakbook.top,Domain,Cobalt Strike
-hwsrv-1287849.hostwindsdns.com,Domain,Cobalt Strike
-vds1438675.hosted-by-itldc.com,Domain,Cobalt Strike
-149.28.26.105.vultrusercontent.com,Domain,Cobalt Strike
-timeproscirpt.org,Domain,Cobalt Strike
-145.97.241.35.bc.googleusercontent.com,Domain,Cobalt Strike
-hwsrv-1288578.hostwindsdns.com,Domain,Cobalt Strike
-addes.top,Domain,Cobalt Strike
-hwsrv-1248650.hostwindsdns.com,Domain,Cobalt Strike
-ec2-3-125-51-215.eu-central-1.compute.amazonaws.com,Domain,Cobalt Strike
-e-mailru.com,Domain,Cobalt Strike
-ec2-3-35-168-182.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.healthncares.com,Domain,Cobalt Strike
-automotive-chemical.com,Domain,Cobalt Strike
-200.83.86.172.static.cloudzy.com,Domain,Cobalt Strike
-updatejavascriptcode.com,Domain,Cobalt Strike
-www.mihealthyplace.com,Domain,Cobalt Strike
-ec2-3-35-230-37.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.cchealthwv.com,Domain,Cobalt Strike
-ec2-13-158-113-213.ap-northeast-1.compute.amazonaws.com,Domain,Cobalt Strike
-panel.wmiprvse.org,Domain,Cobalt Strike
-dwaxcsaa.ggff.net,Domain,Cobalt Strike
-pakistancode.com,Domain,Cobalt Strike
-api.managingtimes.com,Domain,Cobalt Strike
-ec2-43-202-54-212.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.promedicalhhc.com,Domain,Cobalt Strike
-ec2-3-65-35-171.eu-central-1.compute.amazonaws.com,Domain,Cobalt Strike
-mscedc.top,Domain,Cobalt Strike
-hag505.com,Domain,Cobalt Strike
-haihaihai.top,Domain,Cobalt Strike
-ec2-52-79-249-231.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.cpenshop.com,Domain,Cobalt Strike
-79.78.80.34.bc.googleusercontent.com,Domain,Cobalt Strike
-ec2-3-35-222-223.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.red6969.com,Domain,Cobalt Strike
-107-172-141-181-host.colocrossing.com,Domain,Cobalt Strike
-thisisserious.fr,Domain,Cobalt Strike
-cdn-lintasarta.com,Domain,Cobalt Strike
-ec2-13-124-93-250.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.acchihealth.com,Domain,Cobalt Strike
-www.namgi.store,Domain,Cobalt Strike
-ec2-3-36-114-150.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-ec2-3-150-168-45.us-east-2.compute.amazonaws.com,Domain,Cobalt Strike
-www.upmc-portal.com,Domain,Cobalt Strike
-inbox-validation.com,Domain,Cobalt Strike
-ec2-3-1-79-227.ap-southeast-1.compute.amazonaws.com,Domain,Cobalt Strike
-repocentos.com,Domain,Cobalt Strike
-hwsrv-1236709.hostwindsdns.com,Domain,Cobalt Strike
-rtplaybook.com,Domain,Cobalt Strike
-ec2-54-180-172-127.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-223998.xyz,Domain,Cobalt Strike
-gmaiill.top,Domain,Cobalt Strike
-timeupshapesync.com,Domain,Cobalt Strike
-137.220.50.6.vultrusercontent.com,Domain,Cobalt Strike
-cdn-korea.shealthinsurance.com,Domain,Cobalt Strike
-ec2-43-203-46-238.ap-northeast-2.compute.amazonaws.com,Domain,Cobalt Strike
-adldas.top,Domain,Cobalt Strike
-plshunter.me,Domain,Cobalt Strike
-baiduapp.work,Domain,Cobalt Strike
-wwwsec.top,Domain,Cobalt Strike
-0.119.241.35.bc.googleusercontent.com,Domain,Cobalt Strike
-fafu.edu.cn,Domain,Cobalt Strike
-167.172.40.19,IPv4 address,Cobalt Strike
-173.44.62.141,IPv4 address,Cobalt Strike
-192.253.231.230,IPv4 address,Cobalt Strike
-8.217.254.2,IPv4 address,Cobalt Strike
-159.203.111.219,IPv4 address,Cobalt Strike
-42.194.168.128,IPv4 address,Cobalt Strike
-162.254.32.157,IPv4 address,Cobalt Strike
-tractor.limited,Domain,Cobalt Strike
-presence.ru,Domain,Cobalt Strike
-biying007.xyz,Domain,Cobalt Strike
-173-44-62-141-host.colocrossing.com,Domain,Cobalt Strike
-micorsoft-update.com,Domain,Cobalt Strike
-qianxin.art,Domain,Cobalt Strike
-167.253.156.219,IPv4 address,Cobalt Strike
-45.200.17.43,IPv4 address,Cobalt Strike
-150.158.119.242,IPv4 address,Cobalt Strike
-91.99.179.61,IPv4 address,Cobalt Strike
-47.242.129.79,IPv4 address,Cobalt Strike
-192.210.206.196,IPv4 address,Cobalt Strike
-103.234.53.45,IPv4 address,Cobalt Strike
-154.193.244.146,IPv4 address,Cobalt Strike
-81.70.186.19,IPv4 address,Cobalt Strike
-103.73.161.205,IPv4 address,Cobalt Strike
-34.8.25.120,IPv4 address,Cobalt Strike
-154.12.31.61,IPv4 address,Cobalt Strike
-107.172.217.220,IPv4 address,Cobalt Strike
-193.188.20.239,IPv4 address,Cobalt Strike
-51.75.49.165,IPv4 address,Cobalt Strike
-77.221.141.166,IPv4 address,Cobalt Strike
-207.148.92.118,IPv4 address,Cobalt Strike
-156.241.0.94,IPv4 address,Cobalt Strike
-80.97.160.90,IPv4 address,Cobalt Strike
-8.147.128.54,IPv4 address,Cobalt Strike
-104.168.157.238,IPv4 address,Cobalt Strike
-8.210.34.3,IPv4 address,Cobalt Strike
-8.138.99.234,IPv4 address,Cobalt Strike
-172.232.211.140,IPv4 address,Cobalt Strike
-172.245.55.140,IPv4 address,Cobalt Strike
-107.175.115.91,IPv4 address,Cobalt Strike
-31.58.171.197,IPv4 address,Cobalt Strike
-156.226.170.79,IPv4 address,Cobalt Strike
-94.228.164.93,IPv4 address,Cobalt Strike
-89.22.225.224,IPv4 address,Cobalt Strike
-89.116.181.131,IPv4 address,Cobalt Strike
-138.2.73.69,IPv4 address,Cobalt Strike
-192.227.128.8,IPv4 address,Cobalt Strike
-107.189.5.227,IPv4 address,Cobalt Strike
-34.194.223.37,IPv4 address,Cobalt Strike
-104.243.20.196,IPv4 address,Cobalt Strike
-199.195.252.114,IPv4 address,Cobalt Strike
-34.194.104.93,IPv4 address,Cobalt Strike
-8.219.53.12,IPv4 address,Cobalt Strike
-82.117.255.144,IPv4 address,Cobalt Strike
-45.76.162.211,IPv4 address,Cobalt Strike
-172.93.218.82,IPv4 address,Cobalt Strike
-45.66.131.95,IPv4 address,Cobalt Strike
-96.62.214.108,IPv4 address,Cobalt Strike
-204.44.70.29,IPv4 address,Cobalt Strike
-34.87.46.71,IPv4 address,Cobalt Strike
-67.216.203.164,IPv4 address,Cobalt Strike
-216.185.57.149,IPv4 address,Cobalt Strike
-35.241.31.251,IPv4 address,Cobalt Strike
-146.70.232.43,IPv4 address,Cobalt Strike
-45.128.220.35,IPv4 address,Cobalt Strike
-43.163.229.107,IPv4 address,Cobalt Strike
-45.128.12.19,IPv4 address,Cobalt Strike
-154.12.179.93,IPv4 address,Cobalt Strike
-37.1.217.119,IPv4 address,Cobalt Strike
-92.119.125.251,IPv4 address,Cobalt Strike
-176.100.36.4,IPv4 address,Cobalt Strike
-80.66.196.119,IPv4 address,Cobalt Strike
-54.83.199.224,IPv4 address,Cobalt Strike
-192.3.98.27,IPv4 address,Cobalt Strike
-45.159.48.157,IPv4 address,Cobalt Strike
-193.168.172.41,IPv4 address,Cobalt Strike
-154.26.215.86,IPv4 address,Cobalt Strike
-107.172.167.175,IPv4 address,Cobalt Strike
-206.206.78.9,IPv4 address,Cobalt Strike
-192.210.162.35,IPv4 address,Cobalt Strike
-91.99.211.142,IPv4 address,Cobalt Strike
-172.86.93.77,IPv4 address,Cobalt Strike
-185.184.223.138,IPv4 address,Cobalt Strike
-144.34.165.185,IPv4 address,Cobalt Strike
-148.135.73.53,IPv4 address,Cobalt Strike
-18.232.16.168,IPv4 address,Cobalt Strike
-50.116.12.237,IPv4 address,Cobalt Strike
-34.92.77.239,IPv4 address,Cobalt Strike
-165.22.181.151,IPv4 address,Cobalt Strike
-45.93.8.97,IPv4 address,Cobalt Strike
-212.50.235.165,IPv4 address,Cobalt Strike
-149.104.111.136,IPv4 address,Cobalt Strike
-192.3.166.110,IPv4 address,Cobalt Strike
-132.145.93.206,IPv4 address,Cobalt Strike
-107.189.2.42,IPv4 address,Cobalt Strike
-45.59.124.111,IPv4 address,Cobalt Strike
-74.48.175.22,IPv4 address,Cobalt Strike
-185.121.13.82,IPv4 address,Cobalt Strike
-146.235.217.200,IPv4 address,Cobalt Strike
-198.98.52.203,IPv4 address,Cobalt Strike
-103.164.81.113,IPv4 address,Cobalt Strike
-107.173.202.145,IPv4 address,Cobalt Strike
-154.26.215.88,IPv4 address,Cobalt Strike
-18.195.106.105,IPv4 address,Cobalt Strike
-132.226.173.175,IPv4 address,Cobalt Strike
-154.198.162.92,IPv4 address,Cobalt Strike
-159.223.86.108,IPv4 address,Cobalt Strike
-204.194.48.58,IPv4 address,Cobalt Strike
-44.221.11.218,IPv4 address,Cobalt Strike
-34.92.228.80,IPv4 address,Cobalt Strike
-212.127.73.153,IPv4 address,Cobalt Strike
-47.76.236.58,IPv4 address,Cobalt Strike
-173.44.62.141,IPv4 address,Cobalt Strike
-45.86.162.111,IPv4 address,Cobalt Strike
-199.195.253.92,IPv4 address,Cobalt Strike
-198.46.217.168,IPv4 address,Cobalt Strike
-34.226.4.204,IPv4 address,Cobalt Strike
-106.54.61.188,IPv4 address,Cobalt Strike
-118.25.91.151,IPv4 address,Cobalt Strike
-77.90.13.105,IPv4 address,Cobalt Strike
-47.89.173.214,IPv4 address,Cobalt Strike
-107.172.43.189,IPv4 address,Cobalt Strike
-43.134.47.80,IPv4 address,Cobalt Strike
-104.168.117.21,IPv4 address,Cobalt Strike
-198.46.226.210,IPv4 address,Cobalt Strike
-213.165.63.32,IPv4 address,Cobalt Strike
-107.172.139.160,IPv4 address,Cobalt Strike
-216.40.86.139,IPv4 address,Cobalt Strike
-101.33.225.49,IPv4 address,Cobalt Strike
-107.178.254.84,IPv4 address,Cobalt Strike
-203.91.78.56,IPv4 address,Cobalt Strike
-165.154.225.239,IPv4 address,Cobalt Strike
-170.205.31.53,IPv4 address,Cobalt Strike
-45.133.73.57,IPv4 address,Cobalt Strike
-47.79.123.76,IPv4 address,Cobalt Strike
-154.17.22.164,IPv4 address,Cobalt Strike
-cvix.de,Domain,Cobalt Strike
-www.acd852.me,Domain,Cobalt Strike
-hibmarket.help,Domain,Cobalt Strike
-static.61.179.99.91.clients.your-server.de,Domain,Cobalt Strike
-alphawolf.ir,Domain,Cobalt Strike
-clickckckck.click,Domain,Cobalt Strike
-centosonline.top,Domain,Cobalt Strike
-caxen.eu.org,Domain,Cobalt Strike
-itechno.cc,Domain,Cobalt Strike
-mincrosoft.com.cn,Domain,Cobalt Strike
-al1trust.com,Domain,Cobalt Strike
-120.25.8.34.bc.googleusercontent.com,Domain,Cobalt Strike
-admin.tarotempress.com,Domain,Cobalt Strike
-api.vnaillslivns.shop,Domain,Cobalt Strike
-teamcolors.xyz,Domain,Cobalt Strike
-mail6.phloi.com,Domain,Cobalt Strike
-cousin-amir.ptr.network,Domain,Cobalt Strike
-outserv.shop,Domain,Cobalt Strike
-outser.online,Domain,Cobalt Strike
-51-75-49-165.pl-waw.ipv4.chunkserve.eu,Domain,Cobalt Strike
-hasan3.ptr.network,Domain,Cobalt Strike
-mdstech.com.tw,Domain,Cobalt Strike
-207.148.92.118.vultrusercontent.com,Domain,Cobalt Strike
-vpnel.papiren.xyz,Domain,Cobalt Strike
-wikipedla.blog,Domain,Cobalt Strike
-monahan.myservicemysay.org,Domain,Cobalt Strike
-co10rway.dpdns.org,Domain,Cobalt Strike
-hwsrv-1159926.hostwindsdns.com,Domain,Cobalt Strike
-wefkajdsff.xyz,Domain,Cobalt Strike
-officeclicktorun.com,Domain,Cobalt Strike
-namemic.icu,Domain,Cobalt Strike
-172-232-211-140.ip.linodeusercontent.com,Domain,Cobalt Strike
-translatevv.com,Domain,Cobalt Strike
-172-245-55-140-host.colocrossing.com,Domain,Cobalt Strike
-popon.top,Domain,Cobalt Strike
-107-175-115-91-host.colocrossing.com,Domain,Cobalt Strike
-speedclothing.top,Domain,Cobalt Strike
-edgeupdate.dpdns.org,Domain,Cobalt Strike
-meitianhq.us.kg,Domain,Cobalt Strike
-shabani.ptr.network,Domain,Cobalt Strike
-gikash.shop,Domain,Cobalt Strike
-hasan2.ptr.network,Domain,Cobalt Strike
-ablong.top,Domain,Cobalt Strike
-876588.xyz,Domain,Cobalt Strike
-192-227-128-8-host.colocrossing.com,Domain,Cobalt Strike
-wtcx.top,Domain,Cobalt Strike
-backendadserver.com,Domain,Cobalt Strike
-ec2-34-194-223-37.compute-1.amazonaws.com,Domain,Cobalt Strike
-104.243.20.196.16clouds.com,Domain,Cobalt Strike
-xpydpy.xyz,Domain,Cobalt Strike
-box.enene.es,Domain,Cobalt Strike
-ec2-34-194-104-93.compute-1.amazonaws.com,Domain,Cobalt Strike
-ogsqual.i3verticals.cloud,Domain,Cobalt Strike
-ms-tray.top,Domain,Cobalt Strike
-mywibes.top,Domain,Cobalt Strike
-vds1438675.hosted-by-itldc.com,Domain,Cobalt Strike
-centos-yum.net,Domain,Cobalt Strike
-45.76.162.211.vultrusercontent.com,Domain,Cobalt Strike
-lovedetal.shop,Domain,Cobalt Strike
-bugsupportdns.com,Domain,Cobalt Strike
-blueregion.top,Domain,Cobalt Strike
-204-44-70-29-host.colocrossing.com,Domain,Cobalt Strike
-71.46.87.34.bc.googleusercontent.com,Domain,Cobalt Strike
-okbaby.live,Domain,Cobalt Strike
-localhost.localdomain,Domain,Cobalt Strike
-latterme.com,Domain,Cobalt Strike
-momdata.org,Domain,Cobalt Strike
-251.31.241.35.bc.googleusercontent.com,Domain,Cobalt Strike
-ethiotelecom.it.com,Domain,Cobalt Strike
-data-launch.info,Domain,Cobalt Strike
-microsoft-support.cfd,Domain,Cobalt Strike
-host-by.dmit.com,Domain,Cobalt Strike
-viewerbot.webcam,Domain,Cobalt Strike
-080597.xyz,Domain,Cobalt Strike
-4.36.100.176.in-addr.arpa,Domain,Cobalt Strike
-moshop.sbs,Domain,Cobalt Strike
-s12035.vps.hosting,Domain,Cobalt Strike
-ec2-54-83-199-224.compute-1.amazonaws.com,Domain,Cobalt Strike
-gotobbq2024.top,Domain,Cobalt Strike
-192-3-98-27-host.colocrossing.com,Domain,Cobalt Strike
-leasewebless.com,Domain,Cobalt Strike
-webhook.s3-azure.com,Domain,Cobalt Strike
-107-172-167-175-host.colocrossing.com,Domain,Cobalt Strike
-taipeinews.life,Domain,Cobalt Strike
-osupdates.online,Domain,Cobalt Strike
-8axjc.top,Domain,Cobalt Strike
-192-210-162-35-host.colocrossing.com,Domain,Cobalt Strike
-hnovinit.ir,Domain,Cobalt Strike
-static.142.211.99.91.clients.your-server.de,Domain,Cobalt Strike
-77.93.86.172.static.cloudzy.com,Domain,Cobalt Strike
-synccodetime.com,Domain,Cobalt Strike
-yhycslsgmscb.uk,Domain,Cobalt Strike
-144.34.165.185.16clouds.com,Domain,Cobalt Strike
-rockeyfish.com,Domain,Cobalt Strike
-ec2-18-232-16-168.compute-1.amazonaws.com,Domain,Cobalt Strike
-ogstest.i3verticals.cloud,Domain,Cobalt Strike
-li470-237.members.linode.com,Domain,Cobalt Strike
-stata.buzz,Domain,Cobalt Strike
-carophi.info,Domain,Cobalt Strike
-239.77.92.34.bc.googleusercontent.com,Domain,Cobalt Strike
-search-email.com,Domain,Cobalt Strike
-global-reia.com,Domain,Cobalt Strike
-cbd3328.shop,Domain,Cobalt Strike
-212.50.235.165.16clouds.com,Domain,Cobalt Strike
-rateoftwist.com,Domain,Cobalt Strike
-21666.top,Domain,Cobalt Strike
-192-3-166-110-host.colocrossing.com,Domain,Cobalt Strike
-imkiki.tk,Domain,Cobalt Strike
-111.124.59.45.static.cloudzy.com,Domain,Cobalt Strike
-searchkrname.com,Domain,Cobalt Strike
-22-219-166-108-dedicated.multacom.com,Domain,Cobalt Strike
-umbriachannel.site,Domain,Cobalt Strike
-nl.miracles-vpn.uk,Domain,Cobalt Strike
-amw3.eu.org,Domain,Cobalt Strike
-microsharepolnt.store,Domain,Cobalt Strike
-107-173-202-145-host.colocrossing.com,Domain,Cobalt Strike
-moralismoney.com,Domain,Cobalt Strike
-ec2-18-195-106-105.eu-central-1.compute.amazonaws.com,Domain,Cobalt Strike
-imkiki.cf,Domain,Cobalt Strike
-prompti.top,Domain,Cobalt Strike
-sissy.game,Domain,Cobalt Strike
-cisqa.i3verticals.cloud,Domain,Cobalt Strike
-ec2-44-221-11-218.compute-1.amazonaws.com,Domain,Cobalt Strike
-api.aiimshouse.world,Domain,Cobalt Strike
-80.228.92.34.bc.googleusercontent.com,Domain,Cobalt Strike
-cakho123.xyz,Domain,Cobalt Strike
-g0.finansowanie-eu.com.pl,Domain,Cobalt Strike
-ccupdatetime.com,Domain,Cobalt Strike
-lsmartv.com,Domain,Cobalt Strike
-biying007.xyz,Domain,Cobalt Strike
-173-44-62-141-host.colocrossing.com,Domain,Cobalt Strike
-mailz1.v-btlcz.top,Domain,Cobalt Strike
-softwareservices.top,Domain,Cobalt Strike
-ec2-34-226-4-204.compute-1.amazonaws.com,Domain,Cobalt Strike
-su57.xyz,Domain,Cobalt Strike
-beta-blaze.com,Domain,Cobalt Strike
-105.13.90.77.hostbrr.com,Domain,Cobalt Strike
-window.hair,Domain,Cobalt Strike
-googleapi2.com,Domain,Cobalt Strike
-107-172-43-189-host.colocrossing.com,Domain,Cobalt Strike
-68chat3.xyz,Domain,Cobalt Strike
-flatearth.life,Domain,Cobalt Strike
-104-168-117-21-host.colocrossing.com,Domain,Cobalt Strike
-cruset.becausalem.us,Domain,Cobalt Strike
-searchverse.help,Domain,Cobalt Strike
-ampolice.org,Domain,Cobalt Strike
-xxxxtest.site,Domain,Cobalt Strike
-107-172-139-160-host.colocrossing.com,Domain,Cobalt Strike
-rysonai.com,Domain,Cobalt Strike
-84.254.178.107.bc.googleusercontent.com,Domain,Cobalt Strike
-owcew5w8u.xyz,Domain,Cobalt Strike
-factsec.cc,Domain,Cobalt Strike
-m1crosoft.site,Domain,Cobalt Strike
-lain.45.133.73.57.al.uy,Domain,Cobalt Strike
-dichvubiendong.com,Domain,Cobalt Strike
-8.135.34.249,IPv4 address,Cobalt Strike
-45.200.17.43,IPv4 address,Cobalt Strike
-47.242.129.79,IPv4 address,Cobalt Strike
-81.70.186.19,IPv4 address,Cobalt Strike
-154.12.31.61,IPv4 address,Cobalt Strike
-107.172.217.220,IPv4 address,Cobalt Strike
-178.16.55.53,IPv4 address,Cobalt Strike
-8.147.128.54,IPv4 address,Cobalt Strike
-104.168.157.238,IPv4 address,Cobalt Strike
-172.232.211.140,IPv4 address,Cobalt Strike
-172.245.55.140,IPv4 address,Cobalt Strike
-103.106.230.222,IPv4 address,Cobalt Strike
-89.116.181.131,IPv4 address,Cobalt Strike
-8.219.53.12,IPv4 address,Cobalt Strike
-45.76.162.211,IPv4 address,Cobalt Strike
-204.44.70.29,IPv4 address,Cobalt Strike
-216.185.57.149,IPv4 address,Cobalt Strike
-154.12.179.93,IPv4 address,Cobalt Strike
-192.3.98.27,IPv4 address,Cobalt Strike
-47.99.100.21,IPv4 address,Cobalt Strike
-154.26.215.86,IPv4 address,Cobalt Strike
-107.172.167.175,IPv4 address,Cobalt Strike
-172.86.93.77,IPv4 address,Cobalt Strike
-144.34.165.185,IPv4 address,Cobalt Strike
-50.116.12.237,IPv4 address,Cobalt Strike
-165.22.181.151,IPv4 address,Cobalt Strike
-149.104.111.136,IPv4 address,Cobalt Strike
-192.3.166.110,IPv4 address,Cobalt Strike
-85.121.5.202,IPv4 address,Cobalt Strike
-45.59.124.111,IPv4 address,Cobalt Strike
-74.48.175.22,IPv4 address,Cobalt Strike
-154.26.215.88,IPv4 address,Cobalt Strike
-216.126.229.46,IPv4 address,Cobalt Strike
-212.127.73.153,IPv4 address,Cobalt Strike
-47.76.236.58,IPv4 address,Cobalt Strike
-173.44.62.141,IPv4 address,Cobalt Strike
-106.54.61.188,IPv4 address,Cobalt Strike
-118.25.91.151,IPv4 address,Cobalt Strike
-104.168.117.21,IPv4 address,Cobalt Strike
-198.46.226.210,IPv4 address,Cobalt Strike
-107.172.139.160,IPv4 address,Cobalt Strike
-101.33.225.49,IPv4 address,Cobalt Strike
-203.91.78.56,IPv4 address,Cobalt Strike
-cloud1961021.xyz,Domain,Cobalt Strike
-www.acd852.me,Domain,Cobalt Strike
-clickckckck.click,Domain,Cobalt Strike
-mincrosoft.com.cn,Domain,Cobalt Strike
-api.vnaillslivns.shop,Domain,Cobalt Strike
-teamcolors.xyz,Domain,Cobalt Strike
-mail6.phloi.com,Domain,Cobalt Strike
-co10rway.dpdns.org,Domain,Cobalt Strike
-hwsrv-1159926.hostwindsdns.com,Domain,Cobalt Strike
-wefkajdsff.xyz,Domain,Cobalt Strike
-172-232-211-140.ip.linodeusercontent.com,Domain,Cobalt Strike
-translatevv.com,Domain,Cobalt Strike
-172-245-55-140-host.colocrossing.com,Domain,Cobalt Strike
-popon.top,Domain,Cobalt Strike
-ablong.top,Domain,Cobalt Strike
-ms-tray.top,Domain,Cobalt Strike
-centos-yum.net,Domain,Cobalt Strike
-45.76.162.211.vultrusercontent.com,Domain,Cobalt Strike
-lovedetal.shop,Domain,Cobalt Strike
-blueregion.top,Domain,Cobalt Strike
-204-44-70-29-host.colocrossing.com,Domain,Cobalt Strike
-momdata.org,Domain,Cobalt Strike
-microsoft-support.cfd,Domain,Cobalt Strike
-host-by.dmit.com,Domain,Cobalt Strike
-gotobbq2024.top,Domain,Cobalt Strike
-192-3-98-27-host.colocrossing.com,Domain,Cobalt Strike
-webhook.s3-azure.com,Domain,Cobalt Strike
-107-172-167-175-host.colocrossing.com,Domain,Cobalt Strike
-taipeinews.life,Domain,Cobalt Strike
-77.93.86.172.static.cloudzy.com,Domain,Cobalt Strike
-synccodetime.com,Domain,Cobalt Strike
-yhycslsgmscb.uk,Domain,Cobalt Strike
-144.34.165.185.16clouds.com,Domain,Cobalt Strike
-li470-237.members.linode.com,Domain,Cobalt Strike
-stata.buzz,Domain,Cobalt Strike
-search-email.com,Domain,Cobalt Strike
-rateoftwist.com,Domain,Cobalt Strike
-21666.top,Domain,Cobalt Strike
-192-3-166-110-host.colocrossing.com,Domain,Cobalt Strike
-whoamisafe.com,Domain,Cobalt Strike
-111.124.59.45.static.cloudzy.com,Domain,Cobalt Strike
-searchkrname.com,Domain,Cobalt Strike
-22-219-166-108-dedicated.multacom.com,Domain,Cobalt Strike
-umbriachannel.site,Domain,Cobalt Strike
-apimerchantpro.org,Domain,Cobalt Strike
-46.229.126.216.static.cloudzy.com,Domain,Cobalt Strike
-api.aiimshouse.world,Domain,Cobalt Strike
-g0.finansowanie-eu.com.pl,Domain,Cobalt Strike
-ccupdatetime.com,Domain,Cobalt Strike
-lsmartv.com,Domain,Cobalt Strike
-biying007.xyz,Domain,Cobalt Strike
-173-44-62-141-host.colocrossing.com,Domain,Cobalt Strike
-su57.xyz,Domain,Cobalt Strike
-flatearth.life,Domain,Cobalt Strike
-104-168-117-21-host.colocrossing.com,Domain,Cobalt Strike
-cruset.becausalem.us,Domain,Cobalt Strike
-searchverse.help,Domain,Cobalt Strike
-xxxxtest.site,Domain,Cobalt Strike
-107-172-139-160-host.colocrossing.com,Domain,Cobalt Strike
-owcew5w8u.xyz,Domain,Cobalt Strike
-185.245.105.228,IPv4 address,Brute Ratel C4
-138.197.223.39,IPv4 address,Brute Ratel C4
-157.230.132.195,IPv4 address,Brute Ratel C4
-212.132.109.243,IPv4 address,Brute Ratel C4
-5.183.219.132,IPv4 address,Brute Ratel C4
-178.63.172.13,IPv4 address,Brute Ratel C4
-91.92.240.211,IPv4 address,Brute Ratel C4
-138.68.244.120,IPv4 address,Brute Ratel C4
-124.223.157.115,IPv4 address,Brute Ratel C4
-164.92.159.220,IPv4 address,Brute Ratel C4
-161.35.73.220,IPv4 address,Brute Ratel C4
-78.128.114.22,IPv4 address,Brute Ratel C4
-91.99.140.177,IPv4 address,Brute Ratel C4
-13.202.120.94,IPv4 address,Brute Ratel C4
-178.16.55.52,IPv4 address,Brute Ratel C4
-20.52.231.207,IPv4 address,Brute Ratel C4
-185.146.234.46,IPv4 address,Brute Ratel C4
-135.125.107.53,IPv4 address,Brute Ratel C4
-3.250.194.11,IPv4 address,Brute Ratel C4
-46.4.195.61,IPv4 address,Brute Ratel C4
-167.172.114.114,IPv4 address,Brute Ratel C4
-45.42.40.21,IPv4 address,Brute Ratel C4
-165.227.163.243,IPv4 address,Brute Ratel C4
-45.227.253.50,IPv4 address,Brute Ratel C4
-101.132.71.240,IPv4 address,Brute Ratel C4
-157.230.20.98,IPv4 address,Brute Ratel C4
-3.255.173.2,IPv4 address,Brute Ratel C4
-143.110.159.73,IPv4 address,Brute Ratel C4
-193.23.118.155,IPv4 address,Brute Ratel C4
-91.84.111.219,IPv4 address,Brute Ratel C4
-47.237.202.96,IPv4 address,Brute Ratel C4
-92.63.197.80,IPv4 address,Brute Force
-92.63.197.55,IPv4 address,Brute Force
-88.210.63.11,IPv4 address,Brute Force
-88.210.63.12,IPv4 address,Brute Force
-92.63.197.33,IPv4 address,Brute Force
-158.94.208.176,IPv4 address,Brute Force
-185.156.73.167,IPv4 address,Brute Force
-92.63.197.79,IPv4 address,Brute Force
-88.210.63.9,IPv4 address,Brute Force
-88.210.63.61,IPv4 address,Brute Force
-88.210.63.13,IPv4 address,Brute Force
-92.63.197.34,IPv4 address,Brute Force
-92.63.197.77,IPv4 address,Brute Force
-195.178.136.26,IPv4 address,Brute Force
-88.210.63.8,IPv4 address,Brute Force
-185.243.96.16,IPv4 address,Brute Force
-92.63.197.59,IPv4 address,Brute Force
-88.210.63.10,IPv4 address,Brute Force
-194.38.22.14,IPv4 address,Brute Force
-185.156.73.166,IPv4 address,Brute Force
-194.38.21.21,IPv4 address,Brute Force
-92.63.197.78,IPv4 address,Brute Force
-88.210.63.62,IPv4 address,Brute Force
-185.243.96.8,IPv4 address,Brute Force
-135.125.165.178,IPv4 address,Brute Force
-158.94.208.182,IPv4 address,Brute Force
-194.38.21.14,IPv4 address,Brute Force
-194.38.20.81,IPv4 address,Brute Force
-62.60.135.185,IPv4 address,Active Scanning
-98.80.4.97,IPv4 address,Active Scanning
-85.217.149.2,IPv4 address,Active Scanning
-91.92.241.175,IPv4 address,Active Scanning
-98.80.4.112,IPv4 address,Active Scanning
-66.132.153.139,IPv4 address,Active Scanning
-62.60.135.174,IPv4 address,Active Scanning
-85.217.140.8,IPv4 address,Active Scanning
-18.97.5.7,IPv4 address,Active Scanning
-162.142.125.114,IPv4 address,Active Scanning
-62.60.135.169,IPv4 address,Active Scanning
-165.154.10.250,IPv4 address,Active Scanning
-43.132.207.18,IPv4 address,Active Scanning
-85.217.140.3,IPv4 address,Active Scanning
-92.63.197.50,IPv4 address,Active Scanning
-62.60.135.186,IPv4 address,Active Scanning
 103.12.148.42,IPv4 address,Cobalt Strike
 23.95.233.180,IPv4 address,Cobalt Strike
 89.248.165.43,IPv4 address,Cobalt Strike
@@ -3510,3 +2908,92 @@ su57.xyz,Domain,Cobalt Strike
 157.230.20.98,IPv4 address,Brute Ratel C4
 3.255.173.2,IPv4 address,Brute Ratel C4
 143.110.159.73,IPv4 address,Brute Ratel C4
+amazon-packaging.store,Domain,Phishing
+amazon-valuation.com,Domain,Phishing
+apple-valuation.com,Domain,Phishing
+astroscopes-shopify.store,Domain,Phishing
+azure-glimmer.com,Domain,Phishing
+azure-rbac-catalog.org,Domain,Phishing
+data-collector-slack-app-mercor.com,Domain,Phishing
+global-apple-id.top,Domain,Phishing
+google-chrome.net,Domain,Phishing
+google-nl.com,Domain,Phishing
+google-payments.com,Domain,Phishing
+google-zh.vip,Domain,Phishing
+icloud-authv2documents.app,Domain,Phishing
+jz-apple.com,Domain,Phishing
+linkedin-invoicesaccount.com,Domain,Phishing
+location-icloud.org,Domain,Phishing
+micloud-tech.com,Domain,Phishing
+microsoft-storeupdater.com,Domain,Phishing
+microsoft-storeupdater.top,Domain,Phishing
+noreply-facebookemaill.com,Domain,Phishing
+outlook-bd.com,Domain,Phishing
+ph-facebook.com,Domain,Phishing
+photos-support-apple.com,Domain,Phishing
+use-google.com,Domain,Phishing
+yahoo-browser.net,Domain,Phishing
+194.38.20.81,IPv4 address,Brute Force
+92.63.197.78,IPv4 address,Brute Force
+176.117.107.250,IPv4 address,Brute Force
+92.63.197.77,IPv4 address,Brute Force
+176.117.107.246,IPv4 address,Brute Force
+88.210.63.13,IPv4 address,Brute Force
+176.117.107.244,IPv4 address,Brute Force
+92.63.197.33,IPv4 address,Brute Force
+176.96.191.220,IPv4 address,Brute Force
+88.210.63.62,IPv4 address,Brute Force
+88.210.63.61,IPv4 address,Brute Force
+88.210.63.12,IPv4 address,Brute Force
+195.178.136.26,IPv4 address,Brute Force
+176.117.107.248,IPv4 address,Brute Force
+176.117.107.243,IPv4 address,Brute Force
+176.117.107.249,IPv4 address,Brute Force
+92.63.197.80,IPv4 address,Brute Force
+138.229.106.67,IPv4 address,Brute Force
+92.63.197.79,IPv4 address,Brute Force
+185.243.96.16,IPv4 address,Brute Force
+176.117.107.245,IPv4 address,Brute Force
+199.34.89.224,IPv4 address,Brute Force
+85.11.182.27,IPv4 address,Brute Force
+88.210.63.10,IPv4 address,Brute Force
+91.231.222.33,IPv4 address,Brute Force
+91.231.222.20,IPv4 address,Brute Force
+176.117.107.247,IPv4 address,Brute Force
+88.210.63.8,IPv4 address,Brute Force
+88.210.63.9,IPv4 address,Brute Force
+176.117.107.241,IPv4 address,Brute Force
+194.38.21.14,IPv4 address,Brute Force
+185.243.96.8,IPv4 address,Brute Force
+83.229.17.91,IPv4 address,Brute Force
+88.210.63.11,IPv4 address,Brute Force
+162.244.148.229,IPv4 address,Brute Force
+176.117.107.242,IPv4 address,Brute Force
+194.38.22.14,IPv4 address,Brute Force
+195.184.76.44,IPv4 address,Active Scanning
+178.16.54.169,IPv4 address,Active Scanning
+65.49.1.183,IPv4 address,Active Scanning
+77.83.240.4,IPv4 address,Active Scanning
+65.49.1.189,IPv4 address,Active Scanning
+118.193.40.191,IPv4 address,Active Scanning
+91.92.241.175,IPv4 address,Active Scanning
+199.45.155.78,IPv4 address,Active Scanning
+185.247.137.195,IPv4 address,Active Scanning
+91.196.152.253,IPv4 address,Active Scanning
+92.63.197.50,IPv4 address,Active Scanning
+65.49.1.186,IPv4 address,Active Scanning
+8.219.165.184,IPv4 address,Active Scanning
+195.184.76.43,IPv4 address,Active Scanning
+62.60.135.185,IPv4 address,Active Scanning
+62.60.135.174,IPv4 address,Active Scanning
+65.49.1.182,IPv4 address,Active Scanning
+203.155.222.145,IPv4 address,Active Scanning
+3.137.73.221,IPv4 address,Active Scanning
+62.60.135.193,IPv4 address,Active Scanning
+198.235.24.236,IPv4 address,Active Scanning
+198.235.24.248,IPv4 address,Active Scanning
+91.196.152.128,IPv4 address,Active Scanning
+62.60.135.169,IPv4 address,Active Scanning
+129.212.188.72,IPv4 address,Active Scanning
+176.96.191.93,IPv4 address,Active Scanning
+62.60.135.186,IPv4 address,Active Scanning

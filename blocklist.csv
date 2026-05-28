@@ -1,723 +1,4 @@
 Indicator,Type,Description
-154.31.218.206,IPv4 address,Cobalt Strike
-106.14.76.222,IPv4 address,Cobalt Strike
-194.190.153.241,IPv4 address,Cobalt Strike
-154.12.20.190,IPv4 address,Cobalt Strike
-45.158.21.160,IPv4 address,Cobalt Strike
-43.135.88.242,IPv4 address,Cobalt Strike
-18.159.106.50,IPv4 address,Cobalt Strike
-170.205.30.36,IPv4 address,Cobalt Strike
-154.12.86.154,IPv4 address,Cobalt Strike
-149.88.64.122,IPv4 address,Cobalt Strike
-212.192.15.73,IPv4 address,Cobalt Strike
-103.23.172.132,IPv4 address,Cobalt Strike
-47.76.241.215,IPv4 address,Cobalt Strike
-3.1.85.162,IPv4 address,Cobalt Strike
-43.254.218.245,IPv4 address,Cobalt Strike
-156.238.235.104,IPv4 address,Cobalt Strike
-124.156.152.46,IPv4 address,Cobalt Strike
-154.12.91.226,IPv4 address,Cobalt Strike
-129.226.177.17,IPv4 address,Cobalt Strike
-103.136.150.48,IPv4 address,Cobalt Strike
-117.72.168.103,IPv4 address,Cobalt Strike
-93.115.203.34,IPv4 address,Cobalt Strike
-146.19.125.14,IPv4 address,Cobalt Strike
-182.255.45.244,IPv4 address,Cobalt Strike
-38.60.125.131,IPv4 address,Cobalt Strike
-107.174.142.140,IPv4 address,Cobalt Strike
-8.210.10.150,IPv4 address,Cobalt Strike
-149.88.64.155,IPv4 address,Cobalt Strike
-cdn-affirm.com,Domain,Phishing
-cdn-cluster.com,Domain,Phishing
-cdn-crypto.com,Domain,Phishing
-cdn-jnh.com,Domain,Phishing
-cdn-jnhsports.com,Domain,Phishing
-cdn-luxury-stay.net,Domain,Phishing
-cdn-rupiah777.com,Domain,Phishing
-cdn-soumad.com,Domain,Phishing
-cdn-v2rayn.com,Domain,Phishing
-support-amex.com,Domain,Phishing
-support-netflx-jp.com,Domain,Phishing
-help-amex.com,Domain,Phishing
-help-google.com,Domain,Phishing
-help-v2rayn.com,Domain,Phishing
-apollo-hr.com,Domain,Phishing
-bdry-hr.com,Domain,Phishing
-hilton-hr.com,Domain,Phishing
-khaleeji-hr.com,Domain,Phishing
-nexum-hr.com,Domain,Phishing
-pcg-hr.com,Domain,Phishing
-roster-hr.com,Domain,Phishing
-kiritanpo-sso.com,Domain,Phishing
-newyorklife-sso.com,Domain,Phishing
-hail-cdn.com,Domain,Phishing
-smart-line-cdn.com,Domain,Phishing
-sync-cdn.com,Domain,Phishing
-anycast-cdn.net,Domain,Phishing
-conr-support.com,Domain,Phishing
-d3r2-support.com,Domain,Phishing
-foreigner-comprehensive-support.com,Domain,Phishing
-gaia-support.com,Domain,Phishing
-law-it-support.com,Domain,Phishing
-mms-support.com,Domain,Phishing
-onclass-ai-support.com,Domain,Phishing
-riche-support.com,Domain,Phishing
-security-account-support.com,Domain,Phishing
-technicaly-support.com,Domain,Phishing
-visa-vn-support.com,Domain,Phishing
-localisation-support.net,Domain,Phishing
-appointment-help.com,Domain,Phishing
-bgames-help.com,Domain,Phishing
-62.84.179.62,IPv4 address,Unknown
-93.127.133.251,IPv4 address,Unknown
-89.197.167.116,IPv4 address,Unknown
-52.201.156.70,IPv4 address,Unknown
-87.106.126.157,IPv4 address,Unknown
-172.238.122.85,IPv4 address,Unknown
-83.142.209.60,IPv4 address,Unknown
-198.23.209.222,IPv4 address,Unknown
-54.160.156.7,IPv4 address,Unknown
-70.34.244.34,IPv4 address,Unknown
-152.42.181.193,IPv4 address,Unknown
-13.61.4.46,IPv4 address,Unknown
-50.122.109.12,IPv4 address,Unknown
-89.125.213.38,IPv4 address,Unknown
-45.82.121.253,IPv4 address,Unknown
-147.182.251.17,IPv4 address,Unknown
-107.150.25.130,IPv4 address,Unknown
-104.129.12.12,IPv4 address,Unknown
-154.44.10.57,IPv4 address,Unknown
-107.172.20.215,IPv4 address,Unknown
-150.241.230.94,IPv4 address,Unknown
-82.157.6.98,IPv4 address,Unknown
-117.72.78.96,IPv4 address,Unknown
-124.243.150.112,IPv4 address,Unknown
-81.70.143.19,IPv4 address,Unknown
-115.190.238.106,IPv4 address,Unknown
-160.202.46.55,IPv4 address,Unknown
-120.26.196.29,IPv4 address,Unknown
-47.94.168.231,IPv4 address,Unknown
-43.138.148.100,IPv4 address,Unknown
-122.51.215.90,IPv4 address,Unknown
-43.143.234.164,IPv4 address,Unknown
-113.44.90.0,IPv4 address,Unknown
-192.144.211.249,IPv4 address,Unknown
-23.94.44.214,IPv4 address,Unknown
-47.108.158.2,IPv4 address,Unknown
-8.141.118.254,IPv4 address,Unknown
-115.190.150.233,IPv4 address,Unknown
-59.110.18.85,IPv4 address,Unknown
-71.131.51.37,IPv4 address,Unknown
-18.233.73.116,IPv4 address,Unknown
-173.249.27.61,IPv4 address,Unknown
-213.109.162.38,IPv4 address,Unknown
-72.23.229.75,IPv4 address,Unknown
-74.208.201.158,IPv4 address,Unknown
-143.198.63.148,IPv4 address,Unknown
-45.77.200.160,IPv4 address,Unknown
-20.234.166.219,IPv4 address,Unknown
-172.105.26.151,IPv4 address,Unknown
-152.53.131.80,IPv4 address,Unknown
-46.124.99.248,IPv4 address,Unknown
-104.248.139.111,IPv4 address,Unknown
-176.97.114.244,IPv4 address,Unknown
-192.227.249.141,IPv4 address,Unknown
-142.93.199.234,IPv4 address,Unknown
-176.78.175.137,IPv4 address,Unknown
-92.63.163.8,IPv4 address,Unknown
-8.213.18.119,IPv4 address,Unknown
-82.118.20.170,IPv4 address,Unknown
-152.53.110.12,IPv4 address,Unknown
-85.90.244.171,IPv4 address,Unknown
-138.2.136.23,IPv4 address,Unknown
-212.34.136.14,IPv4 address,Unknown
-92.145.231.122,IPv4 address,Unknown
-5.1.100.217,IPv4 address,Unknown
-8.213.35.190,IPv4 address,Unknown
-167.172.122.8,IPv4 address,Unknown
-95.82.0.207,IPv4 address,Unknown
-152.67.58.223,IPv4 address,Unknown
-51.68.220.158,IPv4 address,Unknown
-59.152.125.24,IPv4 address,Unknown
-172.105.74.94,IPv4 address,Unknown
-98.158.162.7,IPv4 address,Unknown
-3.226.119.211,IPv4 address,Unknown
-34.72.114.209,IPv4 address,Unknown
-165.22.37.191,IPv4 address,Unknown
-213.161.176.93,IPv4 address,Unknown
-87.106.203.84,IPv4 address,Unknown
-208.72.84.151,IPv4 address,Unknown
-85.215.180.194,IPv4 address,Unknown
-165.227.41.66,IPv4 address,Unknown
-45.33.81.150,IPv4 address,Unknown
-194.87.161.238,IPv4 address,Unknown
-82.165.184.142,IPv4 address,Unknown
-80.78.19.71,IPv4 address,Unknown
-198.71.58.220,IPv4 address,Unknown
-128.65.199.205,IPv4 address,Unknown
-203.170.50.237,IPv4 address,Unknown
-45.238.142.234,IPv4 address,Unknown
-3.15.211.77,IPv4 address,Unknown
-18.220.193.242,IPv4 address,Unknown
-13.93.233.43,IPv4 address,Unknown
-3.10.24.207,IPv4 address,Unknown
-18.195.227.45,IPv4 address,Unknown
-35.166.57.84,IPv4 address,Unknown
-67.190.127.122,IPv4 address,Unknown
-46.124.108.243,IPv4 address,Unknown
-77.55.215.96,IPv4 address,Unknown
-15.161.176.25,IPv4 address,Unknown
-104.234.25.18,IPv4 address,Unknown
-104.163.167.187,IPv4 address,Unknown
-13.58.42.201,IPv4 address,Unknown
-94.185.79.214,IPv4 address,Unknown
-45.33.13.75,IPv4 address,Unknown
-51.195.148.62,IPv4 address,Unknown
-3.143.175.125,IPv4 address,Unknown
-160.250.128.197,IPv4 address,Unknown
-47.98.177.117,IPv4 address,Unknown
-154.31.216.212,IPv4 address,Unknown
-103.97.178.243,IPv4 address,Unknown
-8.218.138.77,IPv4 address,Unknown
-20.89.182.93,IPv4 address,Unknown
-59.110.137.87,IPv4 address,Unknown
-166.108.206.56,IPv4 address,Unknown
-8.218.120.126,IPv4 address,Unknown
-8.217.200.158,IPv4 address,Unknown
-117.72.38.14,IPv4 address,Unknown
-20.2.139.87,IPv4 address,Unknown
-101.133.172.90,IPv4 address,Unknown
-180.76.144.175,IPv4 address,Unknown
-20.2.161.33,IPv4 address,Unknown
-107.189.28.92,IPv4 address,Unknown
-4.230.24.119,IPv4 address,Unknown
-113.45.238.149,IPv4 address,Unknown
-47.238.118.2,IPv4 address,Unknown
-143.92.60.24,IPv4 address,Unknown
-8.216.84.159,IPv4 address,Unknown
-68.210.136.253,IPv4 address,Unknown
-114.132.251.233,IPv4 address,Unknown
-103.43.18.10,IPv4 address,Unknown
-77.90.185.30,IPv4 address,Unknown
-20.2.90.98,IPv4 address,Unknown
-43.247.135.185,IPv4 address,Unknown
-45.113.1.204,IPv4 address,Unknown
-103.242.12.143,IPv4 address,Unknown
-114.66.58.11,IPv4 address,Unknown
-8.218.254.115,IPv4 address,Unknown
-115.191.18.57,IPv4 address,Unknown
-114.132.190.121,IPv4 address,Unknown
-206.82.6.110,IPv4 address,Unknown
-20.196.147.118,IPv4 address,Unknown
-8.130.89.132,IPv4 address,Unknown
-38.47.238.110,IPv4 address,Unknown
-8.210.146.82,IPv4 address,Unknown
-144.48.124.92,IPv4 address,Unknown
-144.48.124.94,IPv4 address,Unknown
-117.72.119.63,IPv4 address,Unknown
-107.174.26.40,IPv4 address,Unknown
-202.61.137.210,IPv4 address,Unknown
-152.42.180.208,IPv4 address,Unknown
-83.229.121.154,IPv4 address,Unknown
-43.156.175.5,IPv4 address,Unknown
-47.243.211.91,IPv4 address,Unknown
-8.217.222.41,IPv4 address,Unknown
-117.24.4.124,IPv4 address,Unknown
-155.117.98.19,IPv4 address,Unknown
-124.221.221.58,IPv4 address,Unknown
-119.45.190.210,IPv4 address,Unknown
-199.68.217.18,IPv4 address,Unknown
-8.216.26.169,IPv4 address,Unknown
-8.148.211.238,IPv4 address,Unknown
-134.122.169.42,IPv4 address,Unknown
-101.201.174.160,IPv4 address,Unknown
-4031-gmail.com,Domain,Phishing
-6686sports-zoom.com,Domain,Phishing
-87929-icloud.com,Domain,Phishing
-account-apple-pay.com,Domain,Phishing
-adobe-acrobat.store,Domain,Phishing
-aggiorna-adobe.xyz,Domain,Phishing
-aggiornamento-adobe.xyz,Domain,Phishing
-ai-google.online,Domain,Phishing
-am-amazon.com,Domain,Phishing
-amazon-fleethub.com,Domain,Phishing
-amazon-slotgame.com,Domain,Phishing
-amazon-smilesale.com,Domain,Phishing
-anak-google.lat,Domain,Phishing
-apple-aai.com,Domain,Phishing
-apple-apple-apple.com,Domain,Phishing
-apple-bsport.com,Domain,Phishing
-apple-carefix.com,Domain,Phishing
-apple-chindon.net,Domain,Phishing
-apple-cloudmaps.com,Domain,Phishing
-apple-ihelps.com,Domain,Phishing
-apple-informations.store,Domain,Phishing
-apple-kaiyun.icu,Domain,Phishing
-apple-miami.com,Domain,Phishing
-apple-pg-wending.com,Domain,Phishing
-apple-theftreport.com,Domain,Phishing
-apps-google-pe.shop,Domain,Phishing
-azure-local.xyz,Domain,Phishing
-bc-google-user-content.online,Domain,Phishing
-best-adobe-commerce-companies.com,Domain,Phishing
-best-salesforce-commerce-cloud-companies.com,Domain,Phishing
-best-shopify-plus-development-companies.com,Domain,Phishing
-business-meta-checkpoint.com,Domain,Phishing
-c-icloud.com,Domain,Phishing
-carefix-apple.com,Domain,Phishing
-chatgpt-google-play.cfd,Domain,Phishing
-com-amazon.click,Domain,Phishing
-dashboard1-stripe.com,Domain,Phishing
-eman-icloud.com,Domain,Phishing
-facebook-account-security.reviews,Domain,Phishing
-facebook-updatemail.com,Domain,Phishing
-golden-apple.online,Domain,Phishing
-google-apk-pe.shop,Domain,Phishing
-google-app-store.shop,Domain,Phishing
-google-blog.com,Domain,Phishing
-google-play-app.shop,Domain,Phishing
-google-sap.com,Domain,Phishing
-help-google.com,Domain,Phishing
-icloud-idevicemanager.help,Domain,Phishing
-icloud-ifind.com,Domain,Phishing
-icloud-maps-locate.app,Domain,Phishing
-icloud-server.cfd,Domain,Phishing
-icloud-server.lat,Domain,Phishing
-icloud-server.lol,Domain,Phishing
-icloud-server.sbs,Domain,Phishing
-incident-icloud.com,Domain,Phishing
-invoicepay-linkedin.com,Domain,Phishing
-lnvoice-linkedin.com,Domain,Phishing
-meta-collective.digital,Domain,Phishing
-meta-flowers.com,Domain,Phishing
-meta-kazakhstan.com,Domain,Phishing
-meta-nexus.xyz,Domain,Phishing
-meta-unpkg.com,Domain,Phishing
-msapi-microsoft.com,Domain,Phishing
-n-google.com,Domain,Phishing
-new-epoch-meta.com,Domain,Phishing
-new-yahoo.top,Domain,Phishing
-coto-goto.pro,Domain,Unknown
-falcon-tooling.com,Domain,Unknown
-goto-shikaclinic.com,Domain,Unknown
-juniper-russia.com,Domain,Unknown
-meraki-prive.com,Domain,Unknown
-meraki-visuals.com,Domain,Unknown
-netskope-crimidesa.com,Domain,Unknown
-norton-help.live,Domain,Unknown
-45.135.193.156,IPv4 address,Active Scanning
-156.238.236.179,IPv4 address,Active Scanning
-5.226.140.63,IPv4 address,Active Scanning
-213.108.3.46,IPv4 address,Active Scanning
-193.176.29.7,IPv4 address,Active Scanning
-79.124.40.174,IPv4 address,Active Scanning
-5.226.140.11,IPv4 address,Active Scanning
-45.139.122.80,IPv4 address,Active Scanning
-45.148.10.67,IPv4 address,Active Scanning
-212.132.105.176,IPv4 address,Active Scanning
-31.14.254.38,IPv4 address,Active Scanning
-91.196.152.255,IPv4 address,Active Scanning
-115.136.140.78,IPv4 address,Active Scanning
-135.237.126.73,IPv4 address,Active Scanning
-18.218.118.203,IPv4 address,Active Scanning
-47.239.192.157,IPv4 address,Active Scanning
-5.61.209.224,IPv4 address,Active Scanning
-34.77.219.71,IPv4 address,Active Scanning
-61.36.207.166,IPv4 address,Active Scanning
-104.140.148.94,IPv4 address,Active Scanning
-81.19.219.213,IPv4 address,Active Scanning
-180.150.100.29,IPv4 address,Active Scanning
-35.207.230.223,IPv4 address,Active Scanning
-135.237.125.78,IPv4 address,Active Scanning
-71.6.134.234,IPv4 address,Active Scanning
-91.218.15.19,IPv4 address,Active Scanning
-104.206.128.50,IPv4 address,Active Scanning
-184.105.247.195,IPv4 address,Active Scanning
-119.239.89.82,IPv4 address,Active Scanning
-51.159.105.145,IPv4 address,Active Scanning
-77.83.39.42,IPv4 address,Active Scanning
-216.226.76.30,IPv4 address,Active Scanning
-66.132.195.83,IPv4 address,Active Scanning
-47.251.85.219,IPv4 address,Active Scanning
-172.210.9.172,IPv4 address,Active Scanning
-194.187.176.103,IPv4 address,Active Scanning
-161.35.158.165,IPv4 address,Active Scanning
-194.187.176.253,IPv4 address,Active Scanning
-34.163.71.138,IPv4 address,Active Scanning
-66.132.186.182,IPv4 address,Active Scanning
-222.100.172.97,IPv4 address,Active Scanning
-34.126.141.2,IPv4 address,Active Scanning
-77.83.39.42,IPv4 address,Active Scanning
-194.187.176.194,IPv4 address,Active Scanning
-138.197.16.14,IPv4 address,Active Scanning
-170.130.187.38,IPv4 address,Active Scanning
-104.248.60.95,IPv4 address,Active Scanning
-91.218.15.19,IPv4 address,Active Scanning
-176.65.149.253,IPv4 address,Active Scanning
-45.205.1.80,IPv4 address,Active Scanning
-40.119.24.130,IPv4 address,Active Scanning
-195.96.139.164,IPv4 address,Active Scanning
-212.132.105.176,IPv4 address,Active Scanning
-216.180.246.121,IPv4 address,Active Scanning
-104.140.188.2,IPv4 address,Active Scanning
-172.202.117.213,IPv4 address,Active Scanning
-77.83.39.197,IPv4 address,Active Scanning
-54.88.94.2,IPv4 address,Active Scanning
-14.53.32.169,IPv4 address,Active Scanning
-119.239.89.82,IPv4 address,Active Scanning
-61.36.207.166,IPv4 address,Active Scanning
-45.139.122.80,IPv4 address,Active Scanning
-66.240.236.109,IPv4 address,Active Scanning
-45.43.37.254,IPv4 address,Active Scanning
-172.94.9.79,IPv4 address,Active Scanning
-161.97.124.242,IPv4 address,Active Scanning
-47.89.154.16,IPv4 address,Active Scanning
-54.242.44.123,IPv4 address,Active Scanning
-79.124.40.174,IPv4 address,Active Scanning
-64.62.156.86,IPv4 address,Active Scanning
-139.162.166.235,IPv4 address,Active Scanning
-130.131.161.17,IPv4 address,Active Scanning
-47.239.192.157,IPv4 address,Active Scanning
-209.245.235.80,IPv4 address,Active Scanning
-64.62.156.82,IPv4 address,Active Scanning
-64.62.156.80,IPv4 address,Active Scanning
-175.27.240.102,IPv4 address,Active Scanning
-45.148.10.67,IPv4 address,Active Scanning
-47.253.116.19,IPv4 address,Active Scanning
-89.124.77.48,IPv4 address,Active Scanning
-32.192.202.58,IPv4 address,Active Scanning
-147.185.132.21,IPv4 address,Active Scanning
-207.57.129.22,IPv4 address,Active Scanning
-45.135.193.157,IPv4 address,Active Scanning
-45.79.181.179,IPv4 address,Active Scanning
-185.12.59.118,IPv4 address,Active Scanning
-51.159.105.145,IPv4 address,Active Scanning
-37.19.221.137,IPv4 address,Active Scanning
-185.13.225.67,IPv4 address,Active Scanning
-68.235.46.201,IPv4 address,Active Scanning
-146.70.168.101,IPv4 address,Active Scanning
-185.156.46.145,IPv4 address,Active Scanning
-31.59.237.180,IPv4 address,Active Scanning
-45.153.160.124,IPv4 address,Active Scanning
-185.13.225.51,IPv4 address,Active Scanning
-170.62.100.151,IPv4 address,Active Scanning
-68.235.46.145,IPv4 address,Active Scanning
-23.234.77.206,IPv4 address,Active Scanning
-185.195.233.214,IPv4 address,Active Scanning
-87.236.176.67,IPv4 address,Active Scanning
-68.235.46.112,IPv4 address,Active Scanning
-23.234.101.24,IPv4 address,Active Scanning
-70.34.201.187,IPv4 address,Active Scanning
-68.235.46.83,IPv4 address,Active Scanning
-23.234.98.213,IPv4 address,Active Scanning
-23.234.119.68,IPv4 address,Active Scanning
-68.235.46.49,IPv4 address,Active Scanning
-103.251.26.74,IPv4 address,Active Scanning
-45.157.112.94,IPv4 address,Active Scanning
-146.70.171.70,IPv4 address,Active Scanning
-23.234.108.80,IPv4 address,Active Scanning
-185.195.233.236,IPv4 address,Active Scanning
-138.252.175.87,IPv4 address,Active Scanning
-45.157.112.230,IPv4 address,Active Scanning
-23.234.91.207,IPv4 address,Active Scanning
-23.234.103.24,IPv4 address,Active Scanning
-23.234.97.86,IPv4 address,Active Scanning
-103.251.27.207,IPv4 address,Active Scanning
-185.141.119.176,IPv4 address,Active Scanning
-23.234.89.80,IPv4 address,Active Scanning
-79.127.222.209,IPv4 address,Active Scanning
-173.249.255.86,IPv4 address,Active Scanning
-91.92.243.76,IPv4 address,Active Scanning
-45.83.220.219,IPv4 address,Active Scanning
-185.209.198.78,IPv4 address,Active Scanning
-103.251.26.207,IPv4 address,Active Scanning
-193.138.218.212,IPv4 address,Active Scanning
-79.127.217.41,IPv4 address,Active Scanning
-185.209.199.112,IPv4 address,Active Scanning
-194.187.176.253,IPv4 address,Active Scanning
-23.234.114.68,IPv4 address,Active Scanning
-23.234.81.67,IPv4 address,Active Scanning
-155.2.191.217,IPv4 address,Active Scanning
-45.134.142.226,IPv4 address,Active Scanning
-185.213.154.209,IPv4 address,Active Scanning
-37.19.200.132,IPv4 address,Active Scanning
-185.209.198.198,IPv4 address,Active Scanning
-45.157.112.131,IPv4 address,Active Scanning
-23.234.100.200,IPv4 address,Active Scanning
-23.234.99.76,IPv4 address,Active Scanning
-45.157.112.217,IPv4 address,Active Scanning
-23.234.77.67,IPv4 address,Active Scanning
-138.246.253.24,IPv4 address,Active Scanning
-87.249.134.20,IPv4 address,Active Scanning
-103.81.231.200,IPv4 address,Active Scanning
-23.234.114.200,IPv4 address,Active Scanning
-65.49.1.148,IPv4 address,Active Scanning
-23.234.100.68,IPv4 address,Active Scanning
-45.134.142.199,IPv4 address,Active Scanning
-65.49.1.151,IPv4 address,Active Scanning
-23.234.105.39,IPv4 address,Active Scanning
-23.234.114.80,IPv4 address,Active Scanning
-152.32.178.47,IPv4 address,Active Scanning
-45.157.112.68,IPv4 address,Active Scanning
-185.156.46.162,IPv4 address,Active Scanning
-45.157.112.248,IPv4 address,Active Scanning
-23.234.116.150,IPv4 address,Active Scanning
-66.240.236.109,IPv4 address,Active Scanning
-23.234.76.79,IPv4 address,Active Scanning
-45.134.142.212,IPv4 address,Active Scanning
-23.234.75.207,IPv4 address,Active Scanning
-146.70.168.185,IPv4 address,Active Scanning
-23.234.81.194,IPv4 address,Active Scanning
-66.132.195.70,IPv4 address,Active Scanning
-45.205.1.80,IPv4 address,Active Scanning
-23.234.117.195,IPv4 address,Active Scanning
-79.127.222.200,IPv4 address,Active Scanning
-45.134.142.225,IPv4 address,Active Scanning
-173.249.253.213,IPv4 address,Active Scanning
-23.234.110.24,IPv4 address,Active Scanning
-14.53.32.169,IPv4 address,Active Scanning
-173.249.254.213,IPv4 address,Active Scanning
-146.70.172.158,IPv4 address,Active Scanning
-23.234.96.164,IPv4 address,Active Scanning
-68.235.46.50,IPv4 address,Active Scanning
-65.49.1.147,IPv4 address,Active Scanning
-79.127.217.55,IPv4 address,Active Scanning
-23.168.216.200,IPv4 address,Active Scanning
-194.187.176.25,IPv4 address,Active Scanning
-185.209.199.142,IPv4 address,Active Scanning
-65.49.1.144,IPv4 address,Active Scanning
-23.234.103.73,IPv4 address,Active Scanning
-91.196.152.248,IPv4 address,Active Scanning
-185.65.135.248,IPv4 address,Active Scanning
-23.168.216.207,IPv4 address,Active Scanning
-23.234.113.73,IPv4 address,Active Scanning
-103.102.246.200,IPv4 address,Active Scanning
-170.62.100.94,IPv4 address,Active Scanning
-149.40.50.119,IPv4 address,Active Scanning
-185.213.193.195,IPv4 address,Active Scanning
-23.234.95.150,IPv4 address,Active Scanning
-23.234.106.207,IPv4 address,Active Scanning
-146.70.211.134,IPv4 address,Active Scanning
-68.235.46.6,IPv4 address,Active Scanning
-45.139.122.80,IPv4 address,Active Scanning
-157.245.49.123,IPv4 address,Active Scanning
-103.251.27.195,IPv4 address,Active Scanning
-173.249.253.164,IPv4 address,Active Scanning
-45.157.112.59,IPv4 address,Active Scanning
-173.249.255.207,IPv4 address,Active Scanning
-146.70.211.165,IPv4 address,Active Scanning
-45.134.142.214,IPv4 address,Active Scanning
-68.235.46.21,IPv4 address,Active Scanning
-103.251.27.74,IPv4 address,Active Scanning
-185.141.119.134,IPv4 address,Active Scanning
-68.235.46.226,IPv4 address,Active Scanning
-31.59.237.198,IPv4 address,Active Scanning
-103.251.27.24,IPv4 address,Active Scanning
-89.37.63.38,IPv4 address,Active Scanning
-45.157.112.61,IPv4 address,Active Scanning
-103.81.230.80,IPv4 address,Active Scanning
-173.249.253.203,IPv4 address,Active Scanning
-31.59.236.160,IPv4 address,Active Scanning
-23.234.93.195,IPv4 address,Active Scanning
-41.75.114.30,IPv4 address,Active Scanning
-185.195.233.193,IPv4 address,Active Scanning
-45.157.112.133,IPv4 address,Active Scanning
-155.2.191.132,IPv4 address,Active Scanning
-23.234.105.76,IPv4 address,Active Scanning
-185.65.135.180,IPv4 address,Active Scanning
-23.234.115.68,IPv4 address,Active Scanning
-23.234.106.76,IPv4 address,Active Scanning
-77.83.39.197,IPv4 address,Active Scanning
-89.37.63.220,IPv4 address,Active Scanning
-45.10.156.177,IPv4 address,Active Scanning
-155.2.191.84,IPv4 address,Active Scanning
-68.235.46.111,IPv4 address,Active Scanning
-45.134.142.200,IPv4 address,Active Scanning
-173.249.254.164,IPv4 address,Active Scanning
-68.235.46.68,IPv4 address,Active Scanning
-23.234.101.80,IPv4 address,Active Scanning
-23.234.90.68,IPv4 address,Active Scanning
-23.234.114.24,IPv4 address,Active Scanning
-45.134.142.213,IPv4 address,Active Scanning
-23.234.99.86,IPv4 address,Active Scanning
-37.19.221.138,IPv4 address,Active Scanning
-149.40.50.105,IPv4 address,Active Scanning
-23.162.8.99,IPv4 address,Active Scanning
-152.32.128.169,IPv4 address,Active Scanning
-65.49.1.145,IPv4 address,Active Scanning
-23.234.92.68,IPv4 address,Active Scanning
-146.70.187.134,IPv4 address,Active Scanning
-213.209.159.175,IPv4 address,Active Scanning
-146.70.168.94,IPv4 address,Active Scanning
-155.2.191.237,IPv4 address,Active Scanning
-23.234.107.203,IPv4 address,Active Scanning
-91.196.152.128,IPv4 address,Active Scanning
-37.19.221.145,IPv4 address,Active Scanning
-23.234.80.194,IPv4 address,Active Scanning
-23.234.117.24,IPv4 address,Active Scanning
-68.235.46.199,IPv4 address,Active Scanning
-23.234.110.195,IPv4 address,Active Scanning
-91.196.152.132,IPv4 address,Active Scanning
-104.140.188.2,IPv4 address,Active Scanning
-103.102.246.74,IPv4 address,Active Scanning
-23.234.99.39,IPv4 address,Active Scanning
-209.245.235.80,IPv4 address,Active Scanning
-146.70.171.101,IPv4 address,Active Scanning
-155.2.191.34,IPv4 address,Active Scanning
-45.83.220.211,IPv4 address,Active Scanning
-79.127.222.202,IPv4 address,Active Scanning
-23.234.97.76,IPv4 address,Active Scanning
-87.249.134.29,IPv4 address,Active Scanning
-23.234.95.24,IPv4 address,Active Scanning
-66.132.195.125,IPv4 address,Active Scanning
-68.235.46.143,IPv4 address,Active Scanning
-65.49.1.142,IPv4 address,Active Scanning
-23.234.105.213,IPv4 address,Active Scanning
-23.234.97.164,IPv4 address,Active Scanning
-222.100.172.97,IPv4 address,Active Scanning
-81.168.120.163,IPv4 address,Active Scanning
-103.81.231.24,IPv4 address,Active Scanning
-185.213.193.24,IPv4 address,Active Scanning
-45.130.200.117,IPv4 address,Active Scanning
-138.197.16.14,IPv4 address,Active Scanning
-172.232.108.36,IPv4 address,Active Scanning
-155.2.191.17,IPv4 address,Active Scanning
-138.199.43.99,IPv4 address,Active Scanning
-18.218.118.203,IPv4 address,Active Scanning
-23.234.105.164,IPv4 address,Active Scanning
-103.102.247.150,IPv4 address,Active Scanning
-146.70.172.134,IPv4 address,Active Scanning
-23.234.88.68,IPv4 address,Active Scanning
-89.37.63.94,IPv4 address,Active Scanning
-45.148.10.67,IPv4 address,Active Scanning
-146.70.172.225,IPv4 address,Active Scanning
-173.249.252.164,IPv4 address,Active Scanning
-23.234.102.68,IPv4 address,Active Scanning
-45.157.112.16,IPv4 address,Active Scanning
-23.234.82.206,IPv4 address,Active Scanning
-185.38.148.2,IPv4 address,Active Scanning
-141.98.255.135,IPv4 address,Active Scanning
-68.235.46.173,IPv4 address,Active Scanning
-20.118.233.215,IPv4 address,Active Scanning
-23.234.109.200,IPv4 address,Active Scanning
-146.70.187.165,IPv4 address,Active Scanning
-151.244.79.251,IPv4 address,Active Scanning
-170.62.100.192,IPv4 address,Active Scanning
-23.234.111.73,IPv4 address,Active Scanning
-45.142.193.200,IPv4 address,Active Scanning
-23.234.94.207,IPv4 address,Active Scanning
-23.234.74.81,IPv4 address,Active Scanning
-109.105.210.104,IPv4 address,Active Scanning
-144.31.236.17,IPv4 address,Active Scanning
-45.131.155.110,IPv4 address,Active Scanning
-193.8.186.31,IPv4 address,Active Scanning
-45.82.78.104,IPv4 address,Active Scanning
-45.205.1.80,IPv4 address,Active Scanning
-18.218.118.203,IPv4 address,Active Scanning
-222.100.172.97,IPv4 address,Active Scanning
-45.148.10.67,IPv4 address,Active Scanning
-216.250.116.225,IPv4 address,Active Scanning
-20.65.195.113,IPv4 address,Active Scanning
-209.99.185.225,IPv4 address,Active Scanning
-77.91.118.42,IPv4 address,Active Scanning
-20.14.74.238,IPv4 address,Active Scanning
-45.139.122.80,IPv4 address,Active Scanning
-93.152.208.18,IPv4 address,Active Scanning
-20.14.74.210,IPv4 address,Active Scanning
-66.228.36.223,IPv4 address,Active Scanning
-20.83.51.253,IPv4 address,Active Scanning
-35.198.133.69,IPv4 address,Active Scanning
-157.245.113.227,IPv4 address,Active Scanning
-147.185.132.97,IPv4 address,Active Scanning
-51.159.105.145,IPv4 address,Active Scanning
-89.124.77.48,IPv4 address,Active Scanning
-194.187.176.10,IPv4 address,Active Scanning
-115.248.8.65,IPv4 address,Active Scanning
-20.65.193.203,IPv4 address,Active Scanning
-77.91.118.38,IPv4 address,Active Scanning
-45.135.193.157,IPv4 address,Active Scanning
-139.162.166.235,IPv4 address,Active Scanning
-194.187.176.167,IPv4 address,Active Scanning
-47.250.140.248,IPv4 address,Active Scanning
-216.218.206.66,IPv4 address,Active Scanning
-93.152.208.42,IPv4 address,Active Scanning
-5.61.209.224,IPv4 address,Active Scanning
-138.197.16.14,IPv4 address,Active Scanning
-66.132.172.192,IPv4 address,Active Scanning
-194.187.176.98,IPv4 address,Active Scanning
-109.105.210.102,IPv4 address,Active Scanning
-34.18.148.155,IPv4 address,Active Scanning
-172.232.108.36,IPv4 address,Active Scanning
-93.152.208.14,IPv4 address,Active Scanning
-185.247.137.112,IPv4 address,Active Scanning
-194.187.176.227,IPv4 address,Active Scanning
-77.91.118.18,IPv4 address,Active Scanning
-79.124.40.174,IPv4 address,Active Scanning
-212.132.105.176,IPv4 address,Active Scanning
-47.251.174.222,IPv4 address,Active Scanning
-176.65.149.253,IPv4 address,Active Scanning
-47.86.199.216,IPv4 address,Active Scanning
-77.91.118.50,IPv4 address,Active Scanning
-45.135.193.156,IPv4 address,Active Scanning
-180.150.100.29,IPv4 address,Active Scanning
-45.82.78.109,IPv4 address,Active Scanning
-77.91.118.46,IPv4 address,Active Scanning
-14.53.32.169,IPv4 address,Active Scanning
-128.140.104.43,IPv4 address,Active Scanning
-130.12.180.111,IPv4 address,Active Scanning
-185.12.59.118,IPv4 address,Active Scanning
-66.240.236.109,IPv4 address,Active Scanning
-102.203.134.90,IPv4 address,Active Scanning
-170.130.187.38,IPv4 address,Active Scanning
-77.83.39.197,IPv4 address,Active Scanning
-3.134.216.108,IPv4 address,Active Scanning
-34.17.15.38,IPv4 address,Active Scanning
-104.206.128.62,IPv4 address,Active Scanning
-93.152.208.38,IPv4 address,Active Scanning
-91.196.152.135,IPv4 address,Active Scanning
-8.208.10.94,IPv4 address,Active Scanning
-3.130.168.2,IPv4 address,Active Scanning
-77.83.39.42,IPv4 address,Active Scanning
-195.96.139.71,IPv4 address,Active Scanning
-135.237.127.45,IPv4 address,Active Scanning
-93.152.208.26,IPv4 address,Active Scanning
-192.253.248.169,IPv4 address,Active Scanning
-151.240.101.110,IPv4 address,Brute Force
-151.240.43.245,IPv4 address,Brute Force
-122.154.50.218,IPv4 address,Brute Force
-151.240.51.102,IPv4 address,Brute Force
-146.19.125.127,IPv4 address,Brute Force
-151.240.44.38,IPv4 address,Brute Force
-172.110.223.121,IPv4 address,Brute Force
-122.103.233.210,IPv4 address,Brute Force
-156.146.39.194,IPv4 address,Brute Force
-151.240.102.87,IPv4 address,Brute Force
-151.240.62.140,IPv4 address,Brute Force
-151.240.51.99,IPv4 address,Brute Force
-151.240.205.165,IPv4 address,Brute Force
-151.240.53.139,IPv4 address,Brute Force
-151.240.62.28,IPv4 address,Brute Force
-151.240.58.132,IPv4 address,Brute Force
-173.239.198.107,IPv4 address,Brute Force
-112.216.56.162,IPv4 address,Brute Force
-205.210.31.37,IPv4 address,Active Scanning
-138.226.236.209,IPv4 address,Active Scanning
-45.142.193.139,IPv4 address,Active Scanning
-66.132.195.76,IPv4 address,Active Scanning
-47.84.104.78,IPv4 address,Active Scanning
-194.165.17.20,IPv4 address,Active Scanning
-3.131.220.121,IPv4 address,Active Scanning
-123.58.207.151,IPv4 address,Active Scanning
-64.62.156.187,IPv4 address,Active Scanning
-79.135.105.132,IPv4 address,Active Scanning
-64.62.156.182,IPv4 address,Active Scanning
-5.61.209.224,IPv4 address,Active Scanning
-66.228.53.78,IPv4 address,Active Scanning
-98.80.4.105,IPv4 address,Active Scanning
-176.120.22.113,IPv4 address,Active Scanning
-43.132.207.18,IPv4 address,Active Scanning
-64.62.156.183,IPv4 address,Active Scanning
-147.185.132.114,IPv4 address,Active Scanning
 223.254.129.212,IPv4 address,PlugX
 64.176.55.9,IPv4 address,PlugX
 124.222.243.4,IPv4 address,PlugX
@@ -8809,3 +8090,876 @@ singularity-point.com,Domain,Unknown
 103.136.150.48,IPv4 address,Cobalt Strike
 117.72.168.103,IPv4 address,Cobalt Strike
 146.19.125.14,IPv4 address,Cobalt Strike
+hr-copilot.com,Domain,Phishing
+hr-ict.com,Domain,Phishing
+hr-papa.com,Domain,Phishing
+okta-drink.com,Domain,Phishing
+cdn-fly.com,Domain,Phishing
+cdn-loader.com,Domain,Phishing
+support-0nlinechurchhealthcheck.com,Domain,Phishing
+support-advertisiesrelated.com,Domain,Phishing
+support-agences.com,Domain,Phishing
+support-difie.com,Domain,Phishing
+support-fenixhn.com,Domain,Phishing
+support-steampowered.com,Domain,Phishing
+support-swis.com,Domain,Phishing
+help-gemina.com,Domain,Phishing
+help-hires.com,Domain,Phishing
+help-union.net,Domain,Phishing
+ap-it-easy-hr.com,Domain,Phishing
+effidel-hr.com,Domain,Phishing
+ets-hr.com,Domain,Phishing
+hunor-hr.com,Domain,Phishing
+idc-hr.com,Domain,Phishing
+jx-hr.com,Domain,Phishing
+kars-hr.com,Domain,Phishing
+keka-hr.com,Domain,Phishing
+momentacom-hr.com,Domain,Phishing
+papa-hr.com,Domain,Phishing
+sagara-hr.com,Domain,Phishing
+schedule-call-selbyjennings-hr.com,Domain,Phishing
+spinania7-hr.com,Domain,Phishing
+spinogambino7-hr.com,Domain,Phishing
+tamken-hr.com,Domain,Phishing
+m-e-l-o-d-y-cdn.com,Domain,Phishing
+pizzaedition1-cdn.com,Domain,Phishing
+rus-cdn.com,Domain,Phishing
+stelle-cdn.com,Domain,Phishing
+testing-cdn.com,Domain,Phishing
+tubsexer-cdn.com,Domain,Phishing
+utp-cdn.com,Domain,Phishing
+1bmonline-support.com,Domain,Phishing
+ai-sales-support.com,Domain,Phishing
+baze-support.com,Domain,Phishing
+carrefour-support.com,Domain,Phishing
+geico-support.com,Domain,Phishing
+get-it-support.com,Domain,Phishing
+glp-support.com,Domain,Phishing
+hair-transplantation-support.com,Domain,Phishing
+katagiri-jiko-support.com,Domain,Phishing
+lasit-support.com,Domain,Phishing
+nvidva-enterprise-support.com,Domain,Phishing
+vitalcare-support.com,Domain,Phishing
+wwvv-apple-support.com,Domain,Phishing
+cms-joomla-help.com,Domain,Phishing
+insider-help.com,Domain,Phishing
+location-app-help.com,Domain,Phishing
+paribu-help.com,Domain,Phishing
+154.31.216.212,IPv4 address,Supershell
+160.250.128.197,IPv4 address,Supershell
+20.2.139.87,IPv4 address,Supershell
+20.2.161.33,IPv4 address,Supershell
+8.217.200.158,IPv4 address,Supershell
+117.72.38.14,IPv4 address,Supershell
+166.108.206.56,IPv4 address,Supershell
+101.133.172.90,IPv4 address,Supershell
+115.191.18.57,IPv4 address,Supershell
+4.230.24.119,IPv4 address,Supershell
+113.45.238.149,IPv4 address,Supershell
+20.89.182.93,IPv4 address,Supershell
+45.145.228.142,IPv4 address,Supershell
+59.110.137.87,IPv4 address,Supershell
+8.218.138.77,IPv4 address,Supershell
+47.98.177.117,IPv4 address,Supershell
+8.218.120.126,IPv4 address,Supershell
+47.238.118.2,IPv4 address,Supershell
+107.189.28.92,IPv4 address,Supershell
+143.92.60.26,IPv4 address,Supershell
+165.154.244.210,IPv4 address,Supershell
+103.97.178.243,IPv4 address,Supershell
+103.242.12.143,IPv4 address,Supershell
+103.144.245.73,IPv4 address,Supershell
+114.132.190.121,IPv4 address,Supershell
+180.76.144.175,IPv4 address,Supershell
+43.173.100.69,IPv4 address,Supershell
+83.229.121.154,IPv4 address,Supershell
+20.2.90.98,IPv4 address,Supershell
+103.43.18.10,IPv4 address,Supershell
+8.130.89.132,IPv4 address,Supershell
+114.66.58.11,IPv4 address,Supershell
+119.45.190.210,IPv4 address,Supershell
+143.92.60.24,IPv4 address,Supershell
+8.216.84.159,IPv4 address,Supershell
+68.210.136.253,IPv4 address,Supershell
+114.132.251.233,IPv4 address,Supershell
+77.90.185.30,IPv4 address,Supershell
+43.247.135.185,IPv4 address,Supershell
+45.113.1.204,IPv4 address,Supershell
+8.218.254.115,IPv4 address,Supershell
+206.82.6.110,IPv4 address,Supershell
+20.196.147.118,IPv4 address,Supershell
+38.47.238.110,IPv4 address,Supershell
+8.210.146.82,IPv4 address,Supershell
+144.48.124.92,IPv4 address,Supershell
+144.48.124.94,IPv4 address,Supershell
+117.72.119.63,IPv4 address,Supershell
+107.174.26.40,IPv4 address,Supershell
+202.61.137.210,IPv4 address,Supershell
+152.42.180.208,IPv4 address,Supershell
+43.156.175.5,IPv4 address,Supershell
+47.243.211.91,IPv4 address,Supershell
+8.217.222.41,IPv4 address,Supershell
+117.24.4.124,IPv4 address,Supershell
+155.117.98.19,IPv4 address,Supershell
+107.150.25.130,IPv4 address,Viper (FunnyWolf)
+150.241.230.94,IPv4 address,Viper (FunnyWolf)
+115.190.238.106,IPv4 address,Viper (FunnyWolf)
+150.158.139.26,IPv4 address,Viper (FunnyWolf)
+47.108.158.2,IPv4 address,Viper (FunnyWolf)
+107.172.20.215,IPv4 address,Viper (FunnyWolf)
+154.44.10.57,IPv4 address,Viper (FunnyWolf)
+43.143.234.164,IPv4 address,Viper (FunnyWolf)
+104.129.12.12,IPv4 address,Viper (FunnyWolf)
+82.157.6.98,IPv4 address,Viper (FunnyWolf)
+117.72.78.96,IPv4 address,Viper (FunnyWolf)
+124.243.150.112,IPv4 address,Viper (FunnyWolf)
+81.70.143.19,IPv4 address,Viper (FunnyWolf)
+160.202.46.55,IPv4 address,Viper (FunnyWolf)
+120.26.196.29,IPv4 address,Viper (FunnyWolf)
+47.94.168.231,IPv4 address,Viper (FunnyWolf)
+43.138.148.100,IPv4 address,Viper (FunnyWolf)
+122.51.215.90,IPv4 address,Viper (FunnyWolf)
+113.44.90.0,IPv4 address,Viper (FunnyWolf)
+192.144.211.249,IPv4 address,Viper (FunnyWolf)
+89.197.167.116,IPv4 address,PowerShell Empire
+147.135.92.77,IPv4 address,PowerShell Empire
+70.34.244.34,IPv4 address,PowerShell Empire
+62.84.179.62,IPv4 address,PowerShell Empire
+52.201.156.70,IPv4 address,PowerShell Empire
+198.23.209.222,IPv4 address,PowerShell Empire
+87.106.126.157,IPv4 address,PowerShell Empire
+173.249.23.17,IPv4 address,PowerShell Empire
+93.127.133.251,IPv4 address,PowerShell Empire
+172.238.122.85,IPv4 address,PowerShell Empire
+83.142.209.60,IPv4 address,PowerShell Empire
+54.160.156.7,IPv4 address,PowerShell Empire
+152.42.181.193,IPv4 address,PowerShell Empire
+13.61.4.46,IPv4 address,PowerShell Empire
+165.227.41.66,IPv4 address,Hak5 Cloud C2
+198.71.58.220,IPv4 address,Hak5 Cloud C2
+143.198.63.148,IPv4 address,Hak5 Cloud C2
+92.63.163.8,IPv4 address,Hak5 Cloud C2
+82.165.184.142,IPv4 address,Hak5 Cloud C2
+142.93.199.234,IPv4 address,Hak5 Cloud C2
+172.105.26.151,IPv4 address,Hak5 Cloud C2
+152.53.131.80,IPv4 address,Hak5 Cloud C2
+95.82.0.207,IPv4 address,Hak5 Cloud C2
+212.34.136.14,IPv4 address,Hak5 Cloud C2
+51.68.220.158,IPv4 address,Hak5 Cloud C2
+20.234.166.219,IPv4 address,Hak5 Cloud C2
+165.22.37.191,IPv4 address,Hak5 Cloud C2
+15.161.176.25,IPv4 address,Hak5 Cloud C2
+59.152.125.24,IPv4 address,Hak5 Cloud C2
+176.78.175.137,IPv4 address,Hak5 Cloud C2
+138.2.136.23,IPv4 address,Hak5 Cloud C2
+192.227.249.141,IPv4 address,Hak5 Cloud C2
+85.90.244.171,IPv4 address,Hak5 Cloud C2
+51.91.110.244,IPv4 address,Hak5 Cloud C2
+85.215.180.194,IPv4 address,Hak5 Cloud C2
+82.118.20.170,IPv4 address,Hak5 Cloud C2
+208.72.84.151,IPv4 address,Hak5 Cloud C2
+8.213.35.190,IPv4 address,Hak5 Cloud C2
+8.213.18.119,IPv4 address,Hak5 Cloud C2
+92.145.231.122,IPv4 address,Hak5 Cloud C2
+213.161.176.93,IPv4 address,Hak5 Cloud C2
+176.97.114.244,IPv4 address,Hak5 Cloud C2
+34.72.114.209,IPv4 address,Hak5 Cloud C2
+104.248.139.111,IPv4 address,Hak5 Cloud C2
+5.1.100.217,IPv4 address,Hak5 Cloud C2
+87.106.203.84,IPv4 address,Hak5 Cloud C2
+45.33.81.150,IPv4 address,Hak5 Cloud C2
+173.249.27.61,IPv4 address,Hak5 Cloud C2
+172.105.74.94,IPv4 address,Hak5 Cloud C2
+3.226.119.211,IPv4 address,Hak5 Cloud C2
+45.77.200.160,IPv4 address,Hak5 Cloud C2
+167.172.122.8,IPv4 address,Hak5 Cloud C2
+72.23.229.75,IPv4 address,Hak5 Cloud C2
+18.195.227.45,IPv4 address,Hak5 Cloud C2
+157.173.198.174,IPv4 address,Hak5 Cloud C2
+152.67.58.223,IPv4 address,Hak5 Cloud C2
+80.78.19.71,IPv4 address,Hak5 Cloud C2
+203.170.50.237,IPv4 address,Hak5 Cloud C2
+194.87.161.238,IPv4 address,Hak5 Cloud C2
+46.124.99.248,IPv4 address,Hak5 Cloud C2
+74.208.201.158,IPv4 address,Hak5 Cloud C2
+45.238.142.234,IPv4 address,Hak5 Cloud C2
+152.53.110.12,IPv4 address,Hak5 Cloud C2
+213.109.162.38,IPv4 address,Hak5 Cloud C2
+128.65.199.205,IPv4 address,Hak5 Cloud C2
+18.233.73.116,IPv4 address,Hak5 Cloud C2
+98.158.162.7,IPv4 address,Hak5 Cloud C2
+3.15.211.77,IPv4 address,Hak5 Cloud C2
+18.220.193.242,IPv4 address,Hak5 Cloud C2
+13.93.233.43,IPv4 address,Hak5 Cloud C2
+3.10.24.207,IPv4 address,Hak5 Cloud C2
+35.166.57.84,IPv4 address,Hak5 Cloud C2
+67.190.127.122,IPv4 address,Hak5 Cloud C2
+77.55.215.96,IPv4 address,Hak5 Cloud C2
+104.234.25.18,IPv4 address,Hak5 Cloud C2
+104.163.167.187,IPv4 address,Hak5 Cloud C2
+13.58.42.201,IPv4 address,Hak5 Cloud C2
+94.185.79.214,IPv4 address,Hak5 Cloud C2
+45.33.13.75,IPv4 address,Hak5 Cloud C2
+51.195.148.62,IPv4 address,Hak5 Cloud C2
+00951294-apple.com,Domain,Phishing
+00952184-apple.com,Domain,Phishing
+4821-icloud.com,Domain,Phishing
+951294-apple.com,Domain,Phishing
+952184-apple.com,Domain,Phishing
+accepted-icloud.icu,Domain,Phishing
+account-verify-icloud.com,Domain,Phishing
+accounts-shopify.info,Domain,Phishing
+accounts-shopify.shop,Domain,Phishing
+ads-sync-google.com,Domain,Phishing
+amazon-co.mom,Domain,Phishing
+amazon-confirms.com,Domain,Phishing
+amazon-goplayslots.com,Domain,Phishing
+amazon-ss.sbs,Domain,Phishing
+apple-1.ink,Domain,Phishing
+apple-2.ink,Domain,Phishing
+apple-5.ink,Domain,Phishing
+apple-6.ink,Domain,Phishing
+apple-access.help,Domain,Phishing
+apple-api-server-infosupotg.com,Domain,Phishing
+apple-api-server-infosupoth.com,Domain,Phishing
+apple-api-server-infosupotj.com,Domain,Phishing
+apple-api-server-infosupotk.com,Domain,Phishing
+apple-api-server-infosupotl.com,Domain,Phishing
+apple-api-server-infosupotz.com,Domain,Phishing
+apple-leisuwang.com,Domain,Phishing
+apple-locates.help,Domain,Phishing
+apple-locating.help,Domain,Phishing
+apple-med.com,Domain,Phishing
+apple-prostir.com,Domain,Phishing
+apple-watch-band.shop,Domain,Phishing
+automate-notion.com,Domain,Phishing
+azure-still.com,Domain,Phishing
+cloudflare-static.com,Domain,Phishing
+daily-apple.com,Domain,Phishing
+facebook-page-verified-blue.com,Domain,Phishing
+forgot-apple.online,Domain,Phishing
+fr-linkedin.com,Domain,Phishing
+github-free.com,Domain,Phishing
+gmail-emails.com,Domain,Phishing
+good-icloud.com,Domain,Phishing
+google-micr.com,Domain,Phishing
+google-play-gaming.com,Domain,Phishing
+google-playgaming.com,Domain,Phishing
+google-seo-geo.com,Domain,Phishing
+google-workspace.com,Domain,Phishing
+hth-zoom.com,Domain,Phishing
+icloud-assistcenter.help,Domain,Phishing
+icloud-fmiphone.com,Domain,Phishing
+icloud-manager.info,Domain,Phishing
+instagram-com-sifredegistirme.com,Domain,Phishing
+location-icloud.net,Domain,Phishing
+luciacaminos-icloud.com,Domain,Phishing
+mailserver24-google.com,Domain,Phishing
+meta-business-suite.com,Domain,Phishing
+meta-business-support.sbs,Domain,Phishing
+meta-fenix.com,Domain,Phishing
+meta-page-support-blue.sbs,Domain,Phishing
+meta-pulse.org,Domain,Phishing
+meta-recuperation.com,Domain,Phishing
+meta-ru-platforms.com,Domain,Phishing
+meta-world-security.com,Domain,Phishing
+microsoft-marketing.org,Domain,Phishing
+mieda-amazon.com,Domain,Phishing
+mrkt-linkedin.com,Domain,Phishing
+falcon-vaultwick-ca.com,Domain,Unknown
+forticlient.store,Domain,Unknown
+goto-shell.net,Domain,Unknown
+goto-z.com,Domain,Unknown
+juniper-blessing.com,Domain,Unknown
+meraki-advisory.com,Domain,Unknown
+151.235.194.228,IPv4 address,Brute Force
+64.62.197.182,IPv4 address,Active Scanning
+64.62.197.193,IPv4 address,Active Scanning
+52.26.201.228,IPv4 address,Active Scanning
+91.196.152.255,IPv4 address,Active Scanning
+34.53.192.169,IPv4 address,Active Scanning
+66.228.53.174,IPv4 address,Active Scanning
+185.12.59.118,IPv4 address,Active Scanning
+123.160.223.75,IPv4 address,Active Scanning
+64.62.197.183,IPv4 address,Active Scanning
+64.62.197.184,IPv4 address,Active Scanning
+71.6.199.87,IPv4 address,Active Scanning
+138.246.253.24,IPv4 address,Active Scanning
+18.226.58.178,IPv4 address,Active Scanning
+93.123.109.166,IPv4 address,Active Scanning
+64.62.197.189,IPv4 address,Active Scanning
+123.160.223.72,IPv4 address,Active Scanning
+107.170.53.181,IPv4 address,Active Scanning
+34.77.219.71,IPv4 address,Active Scanning
+20.65.193.213,IPv4 address,Active Scanning
+45.77.199.113,IPv4 address,Active Scanning
+64.62.197.187,IPv4 address,Active Scanning
+8.209.96.179,IPv4 address,Active Scanning
+213.209.159.175,IPv4 address,Active Scanning
+47.251.118.128,IPv4 address,Active Scanning
+213.177.179.101,IPv4 address,Active Scanning
+35.93.224.196,IPv4 address,Active Scanning
+185.197.251.19,IPv4 address,Active Scanning
+104.206.128.58,IPv4 address,Active Scanning
+152.32.250.36,IPv4 address,Active Scanning
+198.235.24.114,IPv4 address,Active Scanning
+20.14.73.62,IPv4 address,Active Scanning
+27.124.53.113,IPv4 address,Active Scanning
+45.148.10.249,IPv4 address,Active Scanning
+45.148.10.67,IPv4 address,Active Scanning
+64.62.197.196,IPv4 address,Active Scanning
+45.134.142.202,IPv4 address,Active Scanning
+85.217.149.43,IPv4 address,Active Scanning
+45.156.129.135,IPv4 address,Active Scanning
+64.62.197.188,IPv4 address,Active Scanning
+205.210.31.22,IPv4 address,Active Scanning
+123.160.223.74,IPv4 address,Active Scanning
+185.189.182.234,IPv4 address,Active Scanning
+47.91.65.106,IPv4 address,Active Scanning
+64.62.197.195,IPv4 address,Active Scanning
+20.168.0.218,IPv4 address,Active Scanning
+93.123.109.165,IPv4 address,Active Scanning
+64.62.197.192,IPv4 address,Active Scanning
+94.26.106.87,IPv4 address,Active Scanning
+20.171.8.182,IPv4 address,Active Scanning
+47.86.235.178,IPv4 address,Active Scanning
+93.152.208.38,IPv4 address,Active Scanning
+132.196.42.124,IPv4 address,Active Scanning
+61.84.79.123,IPv4 address,Active Scanning
+43.157.180.62,IPv4 address,Active Scanning
+79.124.40.174,IPv4 address,Active Scanning
+47.77.227.227,IPv4 address,Active Scanning
+195.96.139.226,IPv4 address,Active Scanning
+45.156.129.57,IPv4 address,Active Scanning
+185.247.137.150,IPv4 address,Active Scanning
+66.132.195.66,IPv4 address,Active Scanning
+151.185.42.72,IPv4 address,Unknown
+91.196.152.254,IPv4 address,Unknown
+195.184.76.46,IPv4 address,Unknown
+115.197.201.96,IPv4 address,Unknown
+91.196.152.134,IPv4 address,Unknown
+178.105.173.224,IPv4 address,Unknown
+101.36.104.242,IPv4 address,Unknown
+158.180.87.26,IPv4 address,Unknown
+47.242.39.51,IPv4 address,Unknown
+49.0.207.15,IPv4 address,Unknown
+213.177.179.101,IPv4 address,Active Scanning
+64.62.156.162,IPv4 address,Active Scanning
+104.206.128.58,IPv4 address,Active Scanning
+20.168.0.218,IPv4 address,Active Scanning
+66.132.172.108,IPv4 address,Active Scanning
+20.102.40.205,IPv4 address,Active Scanning
+52.25.141.179,IPv4 address,Active Scanning
+45.148.10.249,IPv4 address,Active Scanning
+142.252.91.86,IPv4 address,Active Scanning
+45.156.129.57,IPv4 address,Active Scanning
+205.210.31.36,IPv4 address,Active Scanning
+66.132.224.235,IPv4 address,Active Scanning
+64.62.156.165,IPv4 address,Active Scanning
+185.189.182.234,IPv4 address,Active Scanning
+20.80.88.197,IPv4 address,Active Scanning
+8.216.4.124,IPv4 address,Active Scanning
+18.221.11.62,IPv4 address,Active Scanning
+20.172.67.176,IPv4 address,Active Scanning
+80.94.95.211,IPv4 address,Active Scanning
+77.91.118.18,IPv4 address,Active Scanning
+135.237.126.84,IPv4 address,Active Scanning
+186.243.144.16,IPv4 address,Active Scanning
+23.95.117.253,IPv4 address,Active Scanning
+45.144.212.92,IPv4 address,Active Scanning
+167.172.36.125,IPv4 address,Active Scanning
+18.218.110.248,IPv4 address,Active Scanning
+172.120.42.88,IPv4 address,Active Scanning
+3.82.198.92,IPv4 address,Active Scanning
+3.91.20.92,IPv4 address,Active Scanning
+35.187.43.37,IPv4 address,Active Scanning
+64.62.156.166,IPv4 address,Active Scanning
+34.79.100.73,IPv4 address,Active Scanning
+205.210.31.228,IPv4 address,Active Scanning
+85.217.149.0,IPv4 address,Active Scanning
+3.92.61.245,IPv4 address,Active Scanning
+45.148.10.247,IPv4 address,Active Scanning
+79.124.40.174,IPv4 address,Active Scanning
+151.235.194.228,IPv4 address,Active Scanning
+47.86.235.178,IPv4 address,Active Scanning
+20.29.23.166,IPv4 address,Active Scanning
+107.170.53.181,IPv4 address,Active Scanning
+71.6.199.87,IPv4 address,Active Scanning
+20.64.105.250,IPv4 address,Active Scanning
+45.148.10.67,IPv4 address,Active Scanning
+185.12.59.118,IPv4 address,Active Scanning
+47.245.117.221,IPv4 address,Active Scanning
+205.210.31.244,IPv4 address,Active Scanning
+104.140.188.46,IPv4 address,Active Scanning
+185.209.199.112,IPv4 address,Brute Force
+23.234.119.207,IPv4 address,Brute Force
+23.234.88.200,IPv4 address,Brute Force
+23.159.216.207,IPv4 address,Brute Force
+23.234.76.23,IPv4 address,Brute Force
+103.81.231.150,IPv4 address,Brute Force
+68.235.46.143,IPv4 address,Brute Force
+23.234.118.73,IPv4 address,Brute Force
+185.195.233.150,IPv4 address,Brute Force
+23.234.78.148,IPv4 address,Brute Force
+37.19.210.22,IPv4 address,Brute Force
+185.65.135.248,IPv4 address,Brute Force
+37.19.210.16,IPv4 address,Brute Force
+173.249.253.76,IPv4 address,Brute Force
+173.249.252.164,IPv4 address,Brute Force
+23.234.119.24,IPv4 address,Brute Force
+37.19.221.138,IPv4 address,Brute Force
+23.234.89.150,IPv4 address,Brute Force
+45.134.142.201,IPv4 address,Brute Force
+79.127.222.215,IPv4 address,Brute Force
+170.62.100.192,IPv4 address,Brute Force
+23.234.101.24,IPv4 address,Brute Force
+23.234.107.86,IPv4 address,Brute Force
+103.102.247.150,IPv4 address,Brute Force
+23.234.73.164,IPv4 address,Brute Force
+23.234.118.200,IPv4 address,Brute Force
+23.234.88.80,IPv4 address,Brute Force
+23.234.108.207,IPv4 address,Brute Force
+43.225.189.133,IPv4 address,Brute Force
+103.81.230.74,IPv4 address,Brute Force
+23.234.104.213,IPv4 address,Brute Force
+146.70.165.70,IPv4 address,Brute Force
+173.249.255.81,IPv4 address,Brute Force
+149.40.50.118,IPv4 address,Brute Force
+89.37.63.38,IPv4 address,Brute Force
+68.235.46.111,IPv4 address,Brute Force
+23.234.82.73,IPv4 address,Brute Force
+23.234.99.39,IPv4 address,Brute Force
+185.195.233.193,IPv4 address,Brute Force
+155.2.191.84,IPv4 address,Brute Force
+68.235.46.213,IPv4 address,Brute Force
+103.81.230.24,IPv4 address,Brute Force
+79.127.222.213,IPv4 address,Brute Force
+68.235.46.142,IPv4 address,Brute Force
+23.234.110.73,IPv4 address,Brute Force
+23.234.78.199,IPv4 address,Brute Force
+37.19.210.33,IPv4 address,Brute Force
+37.19.221.145,IPv4 address,Brute Force
+23.234.101.80,IPv4 address,Brute Force
+68.235.46.18,IPv4 address,Brute Force
+23.234.73.203,IPv4 address,Brute Force
+45.134.142.213,IPv4 address,Brute Force
+146.70.166.158,IPv4 address,Brute Force
+37.19.221.163,IPv4 address,Brute Force
+23.234.72.207,IPv4 address,Brute Force
+23.234.105.76,IPv4 address,Brute Force
+91.92.243.76,IPv4 address,Brute Force
+155.2.191.32,IPv4 address,Brute Force
+104.36.50.18,IPv4 address,Brute Force
+23.234.102.207,IPv4 address,Brute Force
+23.234.80.23,IPv4 address,Brute Force
+23.234.113.80,IPv4 address,Brute Force
+185.209.198.78,IPv4 address,Brute Force
+138.199.43.67,IPv4 address,Brute Force
+103.102.246.207,IPv4 address,Brute Force
+185.213.193.207,IPv4 address,Brute Force
+23.234.72.81,IPv4 address,Brute Force
+68.235.46.68,IPv4 address,Brute Force
+185.213.154.182,IPv4 address,Brute Force
+23.234.117.200,IPv4 address,Brute Force
+23.234.82.194,IPv4 address,Brute Force
+185.156.46.162,IPv4 address,Brute Force
+79.127.217.54,IPv4 address,Brute Force
+68.235.46.161,IPv4 address,Brute Force
+146.70.172.97,IPv4 address,Brute Force
+45.134.142.208,IPv4 address,Brute Force
+103.102.247.24,IPv4 address,Brute Force
+23.234.89.200,IPv4 address,Brute Force
+23.234.119.200,IPv4 address,Brute Force
+23.234.94.68,IPv4 address,Brute Force
+23.234.77.67,IPv4 address,Brute Force
+193.138.218.217,IPv4 address,Brute Force
+23.234.75.207,IPv4 address,Brute Force
+104.36.50.21,IPv4 address,Brute Force
+23.234.103.80,IPv4 address,Brute Force
+146.70.172.134,IPv4 address,Brute Force
+23.234.105.164,IPv4 address,Brute Force
+23.234.80.79,IPv4 address,Brute Force
+193.138.218.212,IPv4 address,Brute Force
+146.70.168.153,IPv4 address,Brute Force
+23.234.90.195,IPv4 address,Brute Force
+23.234.73.76,IPv4 address,Brute Force
+103.102.247.80,IPv4 address,Brute Force
+37.19.221.151,IPv4 address,Brute Force
+173.249.252.213,IPv4 address,Brute Force
+23.160.24.150,IPv4 address,Brute Force
+146.70.168.225,IPv4 address,Brute Force
+23.162.40.150,IPv4 address,Brute Force
+185.156.46.150,IPv4 address,Brute Force
+141.98.255.135,IPv4 address,Brute Force
+103.81.231.68,IPv4 address,Brute Force
+185.209.198.198,IPv4 address,Brute Force
+146.70.211.100,IPv4 address,Brute Force
+146.70.211.37,IPv4 address,Brute Force
+23.234.100.200,IPv4 address,Brute Force
+23.234.108.200,IPv4 address,Brute Force
+23.234.89.68,IPv4 address,Brute Force
+185.156.46.163,IPv4 address,Brute Force
+104.36.50.19,IPv4 address,Brute Force
+146.70.187.158,IPv4 address,Brute Force
+23.162.8.76,IPv4 address,Brute Force
+37.19.210.35,IPv4 address,Brute Force
+185.213.154.245,IPv4 address,Brute Force
+103.102.246.200,IPv4 address,Brute Force
+170.62.100.151,IPv4 address,Brute Force
+23.234.83.73,IPv4 address,Brute Force
+79.127.222.200,IPv4 address,Brute Force
+68.235.46.6,IPv4 address,Brute Force
+37.19.221.137,IPv4 address,Brute Force
+37.19.221.162,IPv4 address,Brute Force
+45.134.142.199,IPv4 address,Brute Force
+45.134.142.212,IPv4 address,Brute Force
+155.2.191.237,IPv4 address,Brute Force
+89.37.63.220,IPv4 address,Brute Force
+23.234.81.148,IPv4 address,Brute Force
+23.234.117.150,IPv4 address,Brute Force
+23.234.107.76,IPv4 address,Brute Force
+155.2.191.217,IPv4 address,Brute Force
+68.235.46.228,IPv4 address,Brute Force
+185.141.119.176,IPv4 address,Brute Force
+23.234.116.207,IPv4 address,Brute Force
+23.234.80.67,IPv4 address,Brute Force
+23.234.115.207,IPv4 address,Brute Force
+68.235.46.112,IPv4 address,Brute Force
+68.235.46.225,IPv4 address,Brute Force
+170.62.100.94,IPv4 address,Brute Force
+170.62.100.38,IPv4 address,Brute Force
+185.209.199.52,IPv4 address,Brute Force
+173.249.254.207,IPv4 address,Brute Force
+37.19.200.151,IPv4 address,Brute Force
+146.70.187.134,IPv4 address,Brute Force
+185.141.119.175,IPv4 address,Brute Force
+89.37.63.94,IPv4 address,Brute Force
+45.130.200.117,IPv4 address,Brute Force
+23.234.92.68,IPv4 address,Brute Force
+185.203.237.43,IPv4 address,Unknown
+107.170.1.44,IPv4 address,Unknown
+178.105.173.224,IPv4 address,Unknown
+51.250.126.41,IPv4 address,Active Scanning
+64.62.197.79,IPv4 address,Active Scanning
+85.11.167.136,IPv4 address,Active Scanning
+64.62.197.81,IPv4 address,Active Scanning
+18.226.58.178,IPv4 address,Active Scanning
+45.148.10.246,IPv4 address,Active Scanning
+20.171.8.85,IPv4 address,Active Scanning
+152.32.243.98,IPv4 address,Active Scanning
+146.59.235.113,IPv4 address,Active Scanning
+192.253.248.169,IPv4 address,Active Scanning
+94.231.206.130,IPv4 address,Active Scanning
+147.185.132.22,IPv4 address,Active Scanning
+74.225.248.147,IPv4 address,Active Scanning
+34.47.152.191,IPv4 address,Active Scanning
+64.62.197.85,IPv4 address,Active Scanning
+35.240.173.194,IPv4 address,Active Scanning
+64.62.197.77,IPv4 address,Active Scanning
+94.231.206.153,IPv4 address,Active Scanning
+35.216.234.82,IPv4 address,Active Scanning
+85.217.149.46,IPv4 address,Active Scanning
+185.12.59.118,IPv4 address,Active Scanning
+43.132.207.18,IPv4 address,Active Scanning
+64.62.197.83,IPv4 address,Active Scanning
+109.105.210.52,IPv4 address,Active Scanning
+91.196.152.130,IPv4 address,Active Scanning
+216.180.246.131,IPv4 address,Active Scanning
+139.180.194.242,IPv4 address,Active Scanning
+45.148.10.67,IPv4 address,Active Scanning
+94.231.206.131,IPv4 address,Active Scanning
+45.77.199.113,IPv4 address,Active Scanning
+135.119.89.57,IPv4 address,Active Scanning
+52.25.141.179,IPv4 address,Active Scanning
+45.148.10.247,IPv4 address,Active Scanning
+45.156.129.130,IPv4 address,Active Scanning
+104.206.128.58,IPv4 address,Active Scanning
+64.62.197.86,IPv4 address,Active Scanning
+45.148.10.249,IPv4 address,Active Scanning
+66.132.172.193,IPv4 address,Active Scanning
+94.231.206.129,IPv4 address,Active Scanning
+91.196.152.251,IPv4 address,Active Scanning
+35.205.162.235,IPv4 address,Active Scanning
+117.174.17.75,IPv4 address,Unknown
+151.185.42.72,IPv4 address,Unknown
+8.148.79.192,IPv4 address,Unknown
+194.163.177.61,IPv4 address,Unknown
+132.247.131.11,IPv4 address,Unknown
+135.237.126.203,IPv4 address,Active Scanning
+64.62.197.74,IPv4 address,Active Scanning
+45.156.129.52,IPv4 address,Active Scanning
+35.195.84.127,IPv4 address,Active Scanning
+13.58.198.185,IPv4 address,Active Scanning
+20.168.0.218,IPv4 address,Active Scanning
+66.132.224.238,IPv4 address,Active Scanning
+64.62.197.65,IPv4 address,Active Scanning
+45.148.10.247,IPv4 address,Active Scanning
+209.38.69.197,IPv4 address,Active Scanning
+64.62.197.64,IPv4 address,Active Scanning
+45.148.10.67,IPv4 address,Active Scanning
+64.225.121.33,IPv4 address,Active Scanning
+24.199.117.182,IPv4 address,Active Scanning
+64.62.197.62,IPv4 address,Active Scanning
+85.217.149.47,IPv4 address,Active Scanning
+185.247.137.97,IPv4 address,Active Scanning
+175.45.194.6,IPv4 address,Active Scanning
+144.126.215.209,IPv4 address,Active Scanning
+35.240.173.194,IPv4 address,Active Scanning
+8.216.9.168,IPv4 address,Active Scanning
+93.123.109.166,IPv4 address,Active Scanning
+213.209.159.175,IPv4 address,Active Scanning
+45.148.10.249,IPv4 address,Active Scanning
+91.236.239.9,IPv4 address,Active Scanning
+45.156.129.130,IPv4 address,Active Scanning
+20.119.99.184,IPv4 address,Active Scanning
+216.180.246.212,IPv4 address,Active Scanning
+144.126.202.65,IPv4 address,Active Scanning
+185.189.182.234,IPv4 address,Active Scanning
+50.116.32.158,IPv4 address,Active Scanning
+64.62.197.76,IPv4 address,Active Scanning
+104.140.188.46,IPv4 address,Active Scanning
+40.124.184.27,IPv4 address,Active Scanning
+87.236.176.86,IPv4 address,Active Scanning
+52.25.141.179,IPv4 address,Active Scanning
+146.190.72.246,IPv4 address,Active Scanning
+152.32.208.73,IPv4 address,Active Scanning
+45.33.70.56,IPv4 address,Active Scanning
+159.223.156.29,IPv4 address,Active Scanning
+165.22.166.54,IPv4 address,Active Scanning
+159.223.202.204,IPv4 address,Active Scanning
+40.75.94.154,IPv4 address,Active Scanning
+138.197.204.32,IPv4 address,Active Scanning
+66.132.224.225,IPv4 address,Active Scanning
+93.123.109.167,IPv4 address,Active Scanning
+172.94.9.61,IPv4 address,Active Scanning
+135.237.127.54,IPv4 address,Active Scanning
+178.128.183.90,IPv4 address,Active Scanning
+157.245.105.107,IPv4 address,Active Scanning
+34.76.107.251,IPv4 address,Active Scanning
+128.203.201.155,IPv4 address,Active Scanning
+23.239.12.34,IPv4 address,Active Scanning
+64.62.197.69,IPv4 address,Active Scanning
+198.199.84.172,IPv4 address,Active Scanning
+146.190.66.186,IPv4 address,Active Scanning
+64.62.197.67,IPv4 address,Active Scanning
+107.175.172.116,IPv4 address,Active Scanning
+64.62.197.63,IPv4 address,Active Scanning
+47.86.85.77,IPv4 address,Active Scanning
+64.62.197.75,IPv4 address,Active Scanning
+104.206.128.58,IPv4 address,Active Scanning
+185.12.59.118,IPv4 address,Active Scanning
+198.235.24.177,IPv4 address,Active Scanning
+185.38.148.2,IPv4 address,Unknown
+152.70.237.4,IPv4 address,Unknown
+69.164.216.190,IPv4 address,Unknown
+91.196.152.250,IPv4 address,Unknown
+91.196.152.135,IPv4 address,Unknown
+172.120.161.4,IPv4 address,Brute Force
+166.88.168.107,IPv4 address,Brute Force
+212.18.127.137,IPv4 address,Brute Force
+188.119.190.46,IPv4 address,Brute Force
+172.121.82.166,IPv4 address,Brute Force
+172.120.182.61,IPv4 address,Brute Force
+142.252.82.208,IPv4 address,Brute Force
+151.240.47.7,IPv4 address,Brute Force
+155.212.66.243,IPv4 address,Brute Force
+82.117.86.223,IPv4 address,Brute Force
+138.249.206.115,IPv4 address,Brute Force
+155.212.102.200,IPv4 address,Brute Force
+193.202.16.71,IPv4 address,Brute Force
+185.68.81.140,IPv4 address,Brute Force
+176.53.133.209,IPv4 address,Brute Force
+166.88.153.169,IPv4 address,Brute Force
+151.240.102.61,IPv4 address,Brute Force
+151.241.119.251,IPv4 address,Brute Force
+156.146.39.177,IPv4 address,Brute Force
+172.121.77.220,IPv4 address,Brute Force
+166.1.241.169,IPv4 address,Brute Force
+185.128.43.47,IPv4 address,Brute Force
+186.243.237.11,IPv4 address,Brute Force
+141.133.4.29,IPv4 address,Brute Force
+151.240.109.114,IPv4 address,Brute Force
+167.148.201.65,IPv4 address,Brute Force
+130.49.117.86,IPv4 address,Brute Force
+188.119.190.84,IPv4 address,Brute Force
+193.29.13.64,IPv4 address,Brute Force
+130.49.85.235,IPv4 address,Brute Force
+141.133.123.34,IPv4 address,Brute Force
+112.216.56.162,IPv4 address,Brute Force
+155.212.50.45,IPv4 address,Brute Force
+31.222.249.40,IPv4 address,Brute Force
+83.97.116.30,IPv4 address,Brute Force
+173.239.198.146,IPv4 address,Brute Force
+168.80.83.83,IPv4 address,Brute Force
+45.87.127.44,IPv4 address,Brute Force
+172.120.248.88,IPv4 address,Brute Force
+172.120.130.45,IPv4 address,Brute Force
+185.81.71.133,IPv4 address,Brute Force
+5.42.218.173,IPv4 address,Brute Force
+172.120.176.21,IPv4 address,Brute Force
+172.121.48.134,IPv4 address,Brute Force
+135.106.66.137,IPv4 address,Brute Force
+45.192.33.94,IPv4 address,Brute Force
+130.49.15.24,IPv4 address,Brute Force
+146.19.125.127,IPv4 address,Brute Force
+176.100.131.47,IPv4 address,Brute Force
+142.111.176.27,IPv4 address,Brute Force
+172.121.85.83,IPv4 address,Brute Force
+172.120.118.10,IPv4 address,Brute Force
+172.121.67.204,IPv4 address,Brute Force
+172.120.21.101,IPv4 address,Brute Force
+156.229.255.106,IPv4 address,Brute Force
+142.111.231.139,IPv4 address,Brute Force
+45.137.155.63,IPv4 address,Brute Force
+151.240.67.161,IPv4 address,Brute Force
+166.88.72.225,IPv4 address,Brute Force
+151.240.57.48,IPv4 address,Brute Force
+151.240.67.39,IPv4 address,Brute Force
+142.252.140.108,IPv4 address,Brute Force
+45.88.103.175,IPv4 address,Brute Force
+166.1.251.62,IPv4 address,Brute Force
+141.133.125.88,IPv4 address,Brute Force
+194.165.17.20,IPv4 address,Brute Force
+135.106.5.65,IPv4 address,Brute Force
+156.233.105.94,IPv4 address,Brute Force
+166.88.219.114,IPv4 address,Brute Force
+142.252.110.107,IPv4 address,Brute Force
+45.159.126.215,IPv4 address,Brute Force
+151.240.92.82,IPv4 address,Brute Force
+151.241.119.231,IPv4 address,Brute Force
+193.47.32.19,IPv4 address,Brute Force
+45.192.32.211,IPv4 address,Brute Force
+166.1.243.147,IPv4 address,Brute Force
+173.239.198.152,IPv4 address,Brute Force
+166.1.254.82,IPv4 address,Brute Force
+141.133.45.60,IPv4 address,Brute Force
+186.243.239.89,IPv4 address,Brute Force
+80.68.150.51,IPv4 address,Brute Force
+166.1.253.128,IPv4 address,Brute Force
+186.243.235.98,IPv4 address,Brute Force
+138.249.239.33,IPv4 address,Brute Force
+172.120.202.68,IPv4 address,Brute Force
+141.133.82.28,IPv4 address,Brute Force
+130.49.44.66,IPv4 address,Brute Force
+178.159.95.41,IPv4 address,Brute Force
+172.120.42.88,IPv4 address,Brute Force
+192.177.45.154,IPv4 address,Brute Force
+186.246.125.115,IPv4 address,Brute Force
+186.243.189.50,IPv4 address,Brute Force
+122.103.233.210,IPv4 address,Brute Force
+172.120.83.65,IPv4 address,Brute Force
+172.121.59.89,IPv4 address,Brute Force
+2.57.151.144,IPv4 address,Brute Force
+138.249.170.7,IPv4 address,Brute Force
+172.120.196.56,IPv4 address,Brute Force
+193.228.51.128,IPv4 address,Brute Force
+185.128.42.55,IPv4 address,Brute Force
+141.133.53.53,IPv4 address,Brute Force
+151.240.92.7,IPv4 address,Brute Force
+45.192.42.170,IPv4 address,Brute Force
+213.139.195.140,IPv4 address,Brute Force
+151.241.119.217,IPv4 address,Brute Force
+151.240.105.58,IPv4 address,Brute Force
+155.212.59.225,IPv4 address,Brute Force
+193.176.23.65,IPv4 address,Brute Force
+130.49.102.4,IPv4 address,Brute Force
+186.243.186.113,IPv4 address,Brute Force
+45.192.38.176,IPv4 address,Brute Force
+172.120.194.211,IPv4 address,Brute Force
+142.111.233.249,IPv4 address,Brute Force
+153.80.156.237,IPv4 address,Brute Force
+168.80.83.110,IPv4 address,Brute Force
+122.154.50.218,IPv4 address,Brute Force
+94.103.179.26,IPv4 address,Brute Force
+188.119.190.29,IPv4 address,Brute Force
+153.80.115.76,IPv4 address,Brute Force
+193.58.176.227,IPv4 address,Brute Force
+166.88.221.38,IPv4 address,Brute Force
+193.228.131.48,IPv4 address,Brute Force
+130.49.72.42,IPv4 address,Brute Force
+172.120.53.237,IPv4 address,Brute Force
+172.120.190.95,IPv4 address,Brute Force
+193.160.218.114,IPv4 address,Brute Force
+172.120.60.198,IPv4 address,Brute Force
+185.73.219.187,IPv4 address,Brute Force
+142.252.84.125,IPv4 address,Brute Force
+172.120.50.27,IPv4 address,Brute Force
+142.252.81.88,IPv4 address,Brute Force
+106.63.26.22,IPv4 address,Active Scanning
+64.62.197.52,IPv4 address,Active Scanning
+172.235.41.110,IPv4 address,Active Scanning
+64.62.197.50,IPv4 address,Active Scanning
+106.63.26.6,IPv4 address,Active Scanning
+205.210.31.40,IPv4 address,Active Scanning
+64.62.197.54,IPv4 address,Active Scanning
+85.217.149.46,IPv4 address,Active Scanning
+66.132.195.61,IPv4 address,Active Scanning
+106.63.26.29,IPv4 address,Active Scanning
+106.63.26.155,IPv4 address,Active Scanning
+205.210.31.94,IPv4 address,Active Scanning
+18.225.72.60,IPv4 address,Active Scanning
+64.62.197.49,IPv4 address,Active Scanning
+64.62.197.48,IPv4 address,Active Scanning
+106.63.26.13,IPv4 address,Active Scanning
+152.32.180.86,IPv4 address,Active Scanning
+106.63.26.15,IPv4 address,Active Scanning
+213.209.159.75,IPv4 address,Active Scanning
+80.82.77.33,IPv4 address,Active Scanning
+66.45.232.45,IPv4 address,Unknown
+103.122.245.21,IPv4 address,PlugX
+20.243.19.18,IPv4 address,PlugX
+23.133.4.6,IPv4 address,PlugX
+3.1.5.7,IPv4 address,PlugX
+194.56.225.144,IPv4 address,PlugX
+146.88.130.85,IPv4 address,PlugX
+223.254.129.212,IPv4 address,PlugX
+64.176.55.9,IPv4 address,PlugX
+23.27.0.196,IPv4 address,PlugX
+47.75.177.15,IPv4 address,PlugX
+139.84.235.116,IPv4 address,PlugX
+38.180.149.160,IPv4 address,PlugX
+23.133.4.5,IPv4 address,PlugX
+95.179.245.146,IPv4 address,PlugX
+23.133.4.7,IPv4 address,PlugX
+130.94.33.32,IPv4 address,PlugX
+139.84.227.139,IPv4 address,PlugX
+124.222.243.4,IPv4 address,PlugX
+139.180.196.36,IPv4 address,PlugX
+208.85.19.80,IPv4 address,PlugX
+167.179.83.140,IPv4 address,PlugX
+106.54.2.29,IPv4 address,PlugX
+85.90.217.202,IPv4 address,PlugX
+140.82.55.149,IPv4 address,PlugX
+167.179.89.246,IPv4 address,PlugX
+14.18.91.181,IPv4 address,PlugX
+43.242.200.239,IPv4 address,PlugX
+45.76.218.225,IPv4 address,PlugX
+139.84.239.175,IPv4 address,PlugX
+149.30.255.212,IPv4 address,PlugX
+63.141.237.208,IPv4 address,PlugX
+203.12.200.129,IPv4 address,PlugX
+142.202.191.180,IPv4 address,PlugX
+198.20.155.142,IPv4 address,PlugX
+23.27.24.75,IPv4 address,PlugX
+166.88.77.210,IPv4 address,PlugX
+211.72.60.20,IPv4 address,PlugX
+158.247.251.120,IPv4 address,PlugX
+195.245.242.234,IPv4 address,PlugX
+38.180.206.126,IPv4 address,PlugX
+123.60.168.129,IPv4 address,PlugX
+160.124.145.98,IPv4 address,PlugX
+38.54.85.230,IPv4 address,PlugX
+38.60.203.101,IPv4 address,PlugX
+60.250.241.189,IPv4 address,PlugX
+156.250.177.34,IPv4 address,PlugX
+160.124.88.196,IPv4 address,PlugX
+38.54.97.130,IPv4 address,PlugX
+182.16.47.30,IPv4 address,PlugX
+103.21.90.30,IPv4 address,PlugX
+182.16.47.28,IPv4 address,PlugX
+103.21.90.32,IPv4 address,PlugX
+182.16.47.29,IPv4 address,PlugX
+47.242.227.225,IPv4 address,PlugX
+182.16.47.26,IPv4 address,PlugX
+52.77.35.23,IPv4 address,PlugX
+64.176.65.165,IPv4 address,PlugX

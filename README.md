@@ -11,7 +11,7 @@
 
   ## About Torch
 
-  [Torch](https://cskittens.com) is a threat intelligence platform focused on
+  [Torch](https://app.cskittens.com) is a threat intelligence platform focused on
   surfacing active malicious infrastructure. The indicators in this repository are a continuously refreshed
   snapshot drawn from Torch's dataset.
 

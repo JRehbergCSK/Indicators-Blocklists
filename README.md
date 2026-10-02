@@ -7,7 +7,7 @@
 
   These indicators are sourced and curated through **Torch**, a threat intelligence
   platform that collects, enriches, and tracks malicious infrastructure. Learn more
-  at https://cskittens.com.
+  at https://app.cskittens.com.
 
   ## About Torch
 
